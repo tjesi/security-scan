@@ -1,0 +1,25 @@
+list:DE
+rank:430
+website:Derwesten.de
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:NO
+X-Content-Type-Options:NO
+Set-Cookie:NO
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:NO
+Issuer:SwissSign AG
+NotBefore:2018-July-9
+NotBefore:2019-July-9
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+Certificate-Transparency:NO
+OCSPResponse:NO
+SesssionResumpsion:YES

@@ -1,0 +1,25 @@
+list:DE
+rank:65
+website:Chaturbate.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:YES
+X-Frame-Options:YES
+X-Content-Type-Options:YES
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:YES
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:YES:includeSubDomains
+Issuer:DigiCert Inc
+NotBefore:2018-April-11
+NotBefore:2020-July-13
+PublicKeyAlgorithm:ECDSA
+BitSize:256
+SignatureAlgorithm:ECDSA-SHA256
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+Certificate-Transparency:NO
+OCSPResponse:YES
+SesssionResumpsion:YES

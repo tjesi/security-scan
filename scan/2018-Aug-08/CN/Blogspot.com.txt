@@ -1,0 +1,25 @@
+list:CN
+rank:231
+website:Blogspot.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:YES
+X-Frame-Options:NO
+X-Content-Type-Options:YES
+Set-Cookie:NO
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:YES
+Issuer:Google Trust Services
+NotBefore:2018-July-24
+NotBefore:2018-October-2
+PublicKeyAlgorithm:ECDSA
+BitSize:256
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+Certificate-Transparency:YES
+OCSPResponse:NO
+SesssionResumpsion:YES

@@ -1,0 +1,25 @@
+list:CN
+rank:264
+website:Ftchinese.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:YES
+X-Content-Type-Options:NO
+Set-Cookie:NO
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:NO
+Issuer:Symantec Corporation
+NotBefore:2017-March-30
+NotBefore:2019-March-29
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS10
+Ciphersuite:TLS_RSA_WITH_AES_128_CBC_SHA
+Certificate-Transparency:NO
+OCSPResponse:NO
+SesssionResumpsion:YES

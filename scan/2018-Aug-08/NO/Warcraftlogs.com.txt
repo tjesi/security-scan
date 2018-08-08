@@ -1,0 +1,13 @@
+list:NO
+rank:232
+website:Warcraftlogs.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:YES
+X-Content-Type-Options:YES
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:YES
+X-XSS-Protection:NO
+SSLerror

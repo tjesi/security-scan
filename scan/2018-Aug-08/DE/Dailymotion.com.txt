@@ -1,0 +1,25 @@
+list:DE
+rank:238
+website:Dailymotion.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:YES
+X-Frame-Options:YES
+X-Content-Type-Options:NO
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:YES:includeSubDomains
+Issuer:DigiCert Inc
+NotBefore:2018-February-19
+NotBefore:2018-October-6
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_RSA_WITH_AES_128_GCM_SHA256
+Certificate-Transparency:NO
+OCSPResponse:YES
+SesssionResumpsion:YES

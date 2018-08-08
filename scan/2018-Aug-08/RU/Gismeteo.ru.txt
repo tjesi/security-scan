@@ -1,0 +1,4 @@
+list:RU
+rank:14
+website:Gismeteo.ru
+SSLerror

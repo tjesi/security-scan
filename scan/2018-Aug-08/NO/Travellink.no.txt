@@ -1,0 +1,25 @@
+list:NO
+rank:431
+website:Travellink.no
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:YES
+X-Frame-Options:YES
+X-Content-Type-Options:YES
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:YES
+Issuer:thawte, Inc.
+NotBefore:2017-July-3
+NotBefore:2019-September-1
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+Certificate-Transparency:NO
+OCSPResponse:NO
+SesssionResumpsion:YES

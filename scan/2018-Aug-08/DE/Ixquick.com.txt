@@ -1,0 +1,25 @@
+list:DE
+rank:335
+website:Ixquick.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:YES
+X-Frame-Options:NO
+X-Content-Type-Options:YES
+Set-Cookie:NO
+Access-Control-Allow-Origin:NO
+Feature-Policy:YES
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:YES:includeSubDomains:preload
+Issuer:COMODO CA Limited
+NotBefore:2017-October-17
+NotBefore:2020-December-13
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+Certificate-Transparency:NO
+OCSPResponse:NO
+SesssionResumpsion:YES
