@@ -1,0 +1,5 @@
+www.forskning.no
+HSTS
+sha1WithRSAEncryption
+Wodby, Inc
+RSA 2048

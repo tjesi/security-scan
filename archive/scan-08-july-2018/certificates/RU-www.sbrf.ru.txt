@@ -1,0 +1,5 @@
+www.sbrf.ru
+NO HSTS
+sha256WithRSAEncryption
+GeoTrust Inc.
+RSA 2048

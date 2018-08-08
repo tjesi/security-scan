@@ -1,0 +1,5 @@
+www.computerbase.de
+HSTS
+sha256WithRSAEncryption
+Let's Encrypt
+EC 256

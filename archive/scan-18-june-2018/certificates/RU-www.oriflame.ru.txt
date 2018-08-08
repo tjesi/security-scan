@@ -1,0 +1,5 @@
+www.oriflame.ru
+NO HSTS
+sha256WithRSAEncryption
+Corporation Service Company
+RSA 2048

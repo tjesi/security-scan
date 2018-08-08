@@ -1,0 +1,5 @@
+www.yahoo.co.jp
+NO HSTS
+sha256WithRSAEncryption
+Cybertrust Japan Co., Ltd.
+RSA 2048

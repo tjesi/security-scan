@@ -1,0 +1,5 @@
+www.dota2.ru
+HSTS
+sha256WithRSAEncryption
+StormWall
+RSA 2048

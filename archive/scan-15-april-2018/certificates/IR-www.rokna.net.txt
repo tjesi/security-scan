@@ -1,0 +1,5 @@
+www.rokna.net
+NO HSTS
+sha256WithRSAEncryption
+Internet Widgits Pty Ltd
+RSA 1024

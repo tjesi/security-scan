@@ -1,0 +1,5 @@
+www.supabets.com.gh
+NO HSTS
+sha256WithRSAEncryption
+DigiCert Inc
+RSA 2048

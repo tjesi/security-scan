@@ -1,0 +1,5 @@
+www.wargaming.net
+NO HSTS
+sha256WithRSAEncryption
+DigiCert Inc
+RSA 2048

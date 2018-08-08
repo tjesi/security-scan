@@ -1,0 +1,5 @@
+www.rasekhoon.net
+NO HSTS
+sha256WithRSAEncryption
+Let's Encrypt
+RSA 2048

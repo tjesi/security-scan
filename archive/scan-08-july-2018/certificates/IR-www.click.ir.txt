@@ -1,0 +1,5 @@
+www.click.ir
+NO HSTS
+sha256WithRSAEncryption
+Plesk
+RSA 2048

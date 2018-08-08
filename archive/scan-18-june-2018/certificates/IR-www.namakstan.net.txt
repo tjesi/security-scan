@@ -1,0 +1,3 @@
+www.namakstan.net
+NO HSTS
+sha256WithRSAEncryption

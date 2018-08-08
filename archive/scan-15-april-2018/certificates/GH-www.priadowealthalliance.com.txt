@@ -1,0 +1,3 @@
+www.priadowealthalliance.com
+NO HSTS
+sha256WithRSAEncryption

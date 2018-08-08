@@ -1,0 +1,1284 @@
+www.google.com.gh:NO HSTS
+www.youtube.com:HSTS
+www.google.com:NO HSTS
+www.ghanaweb.com:NO HSTS
+www.facebook.com:HSTS
+www.yahoo.com:HSTS
+www.yen.com.gh:NO HSTS
+www.afrtrk.com:NO HSTS
+www.jumia.com.gh:NO HSTS
+www.wikipedia.org:HSTS
+www.myjoyonline.com:NO HSTS
+www.xvideos.com:HSTS
+www.ug.edu.gh:HSTS
+www.live.com:HSTS
+www.blogspot.com:NO HSTS
+www.instagram.com:HSTS
+www.savefrom.net:NO HSTS
+www.tonaton.com:NO HSTS
+www.popads.net:HSTS
+www.twitter.com:HSTS
+www.zedo.com:NO HSTS
+www.whatsapp.com:HSTS
+www.microsoft.com:HSTS
+www.amazon.com:NO HSTS
+www.ask.com:NO HSTS
+www.xnxx.com:HSTS
+www.knust.edu.gh:NO HSTS
+www.modernghana.com:NO HSTS
+www.ghanamotion.com:NO HSTS
+www.citifmonline.com:NO HSTS
+www.softonic.com:HSTS
+www.linkedin.com:HSTS
+www.bbc.com:NO HSTS
+www.mozilla.org:HSTS
+www.wordpress.com:HSTS
+www.office.com:HSTS
+www.msn.com:NO HSTS
+www.graphic.com.gh:NO HSTS
+www.ghbase.com:NO HSTS
+www.pornhub.com:NO HSTS
+www.approp.pro:NO HSTS
+www.stackoverflow.com:HSTS
+www.doubleclick.net:HSTS
+www.myway.com:NO HSTS
+www.zapmeta.ws:NO HSTS
+www.outbrain.com:NO HSTS
+www.aliexpress.com:HSTS
+www.researchgate.net:HSTS
+www.gogpayslip.com:NO HSTS
+www.googleusercontent.com:NO HSTS
+www.digitaldsp.com:NO HSTS
+www.olx.com.gh:HSTS
+www.adexchangemachine.com:NO HSTS
+www.soccabet.com:NO HSTS
+www.ghafla.com:NO HSTS
+www.nih.gov:HSTS
+www.ghanacelebrities.com:NO HSTS
+www.cnet.com:HSTS
+www.filehippo.com:NO HSTS
+www.pinterest.com:HSTS
+www.slideshare.net:NO HSTS
+www.adobe.com:HSTS
+www.imdb.com:NO HSTS
+www.apple.com:NO HSTS
+www.bing.com:HSTS
+www.alibaba.com:HSTS
+www.adomonline.com:NO HSTS
+www.quora.com:HSTS
+www.pulse.com.gh:NO HSTS
+www.yts.am:HSTS
+www.ebay.com:NO HSTS
+www.t.co:HSTS
+www.freepik.com:NO HSTS
+www.safaribetting.com:NO HSTS
+www.github.com:HSTS
+www.xhamster.com:HSTS
+www.junbi-tracker.com:NO HSTS
+www.sciencedirect.com:NO HSTS
+www.ucc.edu.gh:HSTS
+www.hicpm10.com:NO HSTS
+www.reddit.com:NO HSTS
+www.dropbox.com:HSTS
+www.mediafire.com:HSTS
+www.w3schools.com:NO HSTS
+www.scribd.com:NO HSTS
+www.adf.ly:NO HSTS
+www.nextoptim.com:NO HSTS
+www.pcmclks.com:NO HSTS
+www.besoccer.com:NO HSTS
+www.fromdoctopdf.com:NO HSTS
+www.iezbrowsing.com:NO HSTS
+www.stackexchange.com:NO HSTS
+www.eztv.ag:HSTS
+www.openload.co:NO HSTS
+www.jw.org:HSTS
+www.tunein.com:NO HSTS
+www.mfa.gov.gh:HSTS
+www.eanswers.com:NO HSTS
+www.tandfonline.com:NO HSTS
+www.iqoption.com:HSTS
+www.wikihow.com:HSTS
+www.blogger.com:NO HSTS
+www.internetdownloadmanager.com:NO HSTS
+www.mellowads.com:NO HSTS
+www.cnn.com:NO HSTS
+www.scholarship-positions.com:NO HSTS
+www.godaddy.com:NO HSTS
+www.biblegateway.com:HSTS
+www.gmx.com:HSTS
+www.forbes.com:NO HSTS
+www.naijavibes.com:NO HSTS
+www.velocecdn.com:NO HSTS
+www.newsnow.co.uk:NO HSTS
+www.gsmarena.com:NO HSTS
+www.adhoc2.net:NO HSTS
+www.thebalance.com:HSTS
+www.mail.com:HSTS
+www.betradar.com:NO HSTS
+www.businessghana.com:NO HSTS
+www.start.me:NO HSTS
+www.exoclick.com:NO HSTS
+www.adexchangecloud.com:NO HSTS
+www.ghanayello.com:NO HSTS
+www.bbc.co.uk:NO HSTS
+www.pdfdrive.net:NO HSTS
+www.hp.com:NO HSTS
+www.utorrent.com:NO HSTS
+www.bongacams.com:NO HSTS
+www.marca.com:NO HSTS
+www.hubtel.com:NO HSTS
+www.coinmarketcap.com:NO HSTS
+www.dstv.com:HSTS
+www.auctionexport.com:NO HSTS
+www.eskimi.com:NO HSTS
+www.udemy.com:NO HSTS
+www.chron.com:NO HSTS
+www.ghanacurrentjobs.com:NO HSTS
+www.limetorrents.cc:NO HSTS
+www.zippyshare.com:HSTS
+www.springer.com:NO HSTS
+www.sofascore.com:NO HSTS
+www.investopedia.com:HSTS
+www.theguardian.com:HSTS
+www.archive.org:NO HSTS
+www.study.com:NO HSTS
+www.force.com:NO HSTS
+www.waecdirect.org:NO HSTS
+www.netfind.com:HSTS
+www.urbanroll.com.gh:NO HSTS
+www.bet365.com:HSTS
+www.academia.edu:NO HSTS
+www.jobsinghana.com:NO HSTS
+www.state.gov:HSTS
+www.shutterstock.com:NO HSTS
+www.espn.com:NO HSTS
+www.paypal.com:HSTS
+www.addthis.com:NO HSTS
+www.fbcdn.net:HSTS
+www.skype.com:HSTS
+www.mtn.com.gh:NO HSTS
+www.sourceforge.net:HSTS
+www.redtube.com:NO HSTS
+www.jstor.org:NO HSTS
+www.nss.gov.gh:HSTS
+www.gstatic.com:NO HSTS
+www.wix.com:NO HSTS
+www.alison.com:NO HSTS
+www.mega.nz:HSTS
+www.xe.com:NO HSTS
+www.semanticscholar.org:HSTS
+www.canva.com:HSTS
+www.musicpleer.bz:NO HSTS
+www.blockchain.info:HSTS
+www.zoho.com:HSTS
+www.booking.com:HSTS
+www.un.org:NO HSTS
+www.edx.org:NO HSTS
+www.genius.com:NO HSTS
+www.taleo.net:NO HSTS
+www.wordpress.org:HSTS
+www.afrointroductions.com:HSTS
+www.topbuzz.com:HSTS
+www.rmu.edu.gh:NO HSTS
+www.tutorialspoint.com:NO HSTS
+www.avg.com:HSTS
+www.vimeo.com:HSTS
+www.biblehub.com:NO HSTS
+www.launchpage.org:NO HSTS
+www.netflix.com:HSTS
+www.files.wordpress.com:HSTS
+www.betyetu.com.gh:NO HSTS
+www.opendns.com:HSTS
+www.doublepimp.com:NO HSTS
+www.iwanttodeliver.com:NO HSTS
+www.mergedocsonline.com:NO HSTS
+www.vk.com:HSTS
+www.dailymotion.com:HSTS
+www.naijaloaded.com.ng:NO HSTS
+www.islandmob.com:NO HSTS
+www.psu.edu:NO HSTS
+www.liveadexchanger.com:NO HSTS
+www.tripadvisor.com:NO HSTS
+www.emeraldinsight.com:NO HSTS
+www.nairaland.com:NO HSTS
+www.mymaxoffice.com:NO HSTS
+www.onlinevideoconverter.com:NO HSTS
+www.classfmonline.com:NO HSTS
+www.google.co.uk:NO HSTS
+www.webmd.com:NO HSTS
+www.myappzcenter.com:NO HSTS
+www.manutd.com:NO HSTS
+www.youporn.com:NO HSTS
+www.smadav.net:NO HSTS
+www.oracle.com:NO HSTS
+www.googlevideo.com:NO HSTS
+www.ecobank.com:HSTS
+www.fiverr.com:NO HSTS
+www.thevideo.me:NO HSTS
+www.uptodown.com:NO HSTS
+www.wetransfer.com:HSTS
+www.tubidy.mobi:NO HSTS
+www.jumia.com:NO HSTS
+www.thesun.co.uk:HSTS
+www.mirror.co.uk:NO HSTS
+www.superprice.com:NO HSTS
+www.easypdfcombine.com:NO HSTS
+www.biblestudytools.com:NO HSTS
+www.icloud.com:HSTS
+www.samsung.com:NO HSTS
+www.rarbg.to:HSTS
+www.popcash.net:NO HSTS
+www.toxicunrated.com:NO HSTS
+www.statarea.com:NO HSTS
+www.futbol24.com:NO HSTS
+www.elsevier.com:NO HSTS
+www.xda-developers.com:NO HSTS
+www.actioncoin.io:NO HSTS
+www.pixabay.com:HSTS
+www.lifewire.com:HSTS
+www.avast.com:HSTS
+www.mynewsgh.com:NO HSTS
+www.goodreads.com:NO HSTS
+www.huffingtonpost.com:HSTS
+www.ghanawebimk.com:NO HSTS
+www.coursehero.com:NO HSTS
+www.lds.org:NO HSTS
+www.tumblr.com:HSTS
+www.healthline.com:NO HSTS
+www.britannica.com:NO HSTS
+www.spankbang.com:HSTS
+www.notjustok.com:NO HSTS
+www.torrentdownloads.me:NO HSTS
+www.uds.edu.gh:NO HSTS
+www.fao.org:NO HSTS
+www.soccerway.com:NO HSTS
+www.myfood.ltd:NO HSTS
+www.cambridge.org:NO HSTS
+www.wikia.com:NO HSTS
+www.pickaflick.co:NO HSTS
+www.bloomberg.com:NO HSTS
+www.mit.edu:NO HSTS
+www.twoo.com:HSTS
+www.medium.com:HSTS
+www.360nobs.com:NO HSTS
+www.secureserver.net:HSTS
+www.shopify.com:HSTS
+www.hicpm5.com:NO HSTS
+www.ouo.io:NO HSTS
+www.trafficfactory.biz:NO HSTS
+www.copart.com:NO HSTS
+www.taboola.com:NO HSTS
+www.mp3juices.cc:NO HSTS
+www.dailypost.ng:NO HSTS
+www.dell.com:NO HSTS
+www.behance.net:HSTS
+www.entrepreneur.com:NO HSTS
+www.t.me:HSTS
+www.primenewsghana.com:NO HSTS
+www.tomsguide.com:NO HSTS
+www.disqus.com:HSTS
+www.givemesport.com:NO HSTS
+www.template.net:NO HSTS
+www.waecgh.org:NO HSTS
+www.thefreedictionary.com:NO HSTS
+www.beforward.jp:NO HSTS
+www.ttuportal.com:NO HSTS
+www.weebly.com:NO HSTS
+www.ghananewsagency.org:NO HSTS
+www.android.com:NO HSTS
+www.chimgh.org:HSTS
+www.chelseafc.com:NO HSTS
+www.uefa.com:NO HSTS
+www.media-bucket.com:NO HSTS
+www.merriam-webster.com:NO HSTS
+www.techtarget.com:NO HSTS
+www.binance.com:HSTS
+www.barclays.com:NO HSTS
+www.firefox.com:HSTS
+www.getbootstrap.com:NO HSTS
+www.namecheap.com:HSTS
+www.harvard.edu:NO HSTS
+www.citibusinessnews.com:NO HSTS
+www.amazon.co.uk:HSTS
+www.pussl32.com:NO HSTS
+www.keepvid.com:NO HSTS
+www.porn.com:HSTS
+www.siteadvisor.com:HSTS
+www.grammarly.com:HSTS
+www.sportsmole.co.uk:NO HSTS
+www.ktu.edu.gh:NO HSTS
+www.legonconnect.com:NO HSTS
+www.os.tc:NO HSTS
+www.hostgator.com:HSTS
+www.aljazeera.com:HSTS
+www.thoughtco.com:HSTS
+www.indeed.com:NO HSTS
+www.convert2mp3.net:NO HSTS
+www.khanacademy.org:NO HSTS
+www.mastersportal.com:NO HSTS
+www.azlyrics.com:NO HSTS
+
+www.google.com.gh:sha256WithRSAEncryption
+www.youtube.com:sha256WithRSAEncryption
+www.google.com:sha256WithRSAEncryption
+www.ghanaweb.com:ecdsa-with-SHA256
+www.facebook.com:sha256WithRSAEncryption
+www.yahoo.com:sha256WithRSAEncryption
+www.yen.com.gh:sha256WithRSAEncryption
+www.afrtrk.com:sha256WithRSAEncryption
+www.jumia.com.gh:sha256WithRSAEncryption
+www.wikipedia.org:sha256WithRSAEncryption
+www.myjoyonline.com:sha256WithRSAEncryption
+www.xvideos.com:sha256WithRSAEncryption
+www.ug.edu.gh:sha256WithRSAEncryption
+www.live.com:sha256WithRSAEncryption
+www.blogspot.com:sha256WithRSAEncryption
+www.instagram.com:sha256WithRSAEncryption
+www.savefrom.net:sha256WithRSAEncryption
+www.tonaton.com:ecdsa-with-SHA256
+www.popads.net:sha256WithRSAEncryption
+www.twitter.com:sha256WithRSAEncryption
+www.zedo.com:sha256WithRSAEncryption
+www.whatsapp.com:sha256WithRSAEncryption
+www.microsoft.com:sha256WithRSAEncryption
+www.amazon.com:sha256WithRSAEncryption
+www.ask.com:ecdsa-with-SHA256
+www.xnxx.com:sha256WithRSAEncryption
+www.knust.edu.gh:sha256WithRSAEncryption
+www.modernghana.com:ecdsa-with-SHA256
+www.ghanamotion.com:ecdsa-with-SHA256
+www.citifmonline.com:sha256WithRSAEncryption
+www.softonic.com:sha256WithRSAEncryption
+www.linkedin.com:sha256WithRSAEncryption
+www.bbc.com:sha256WithRSAEncryption
+www.mozilla.org:sha256WithRSAEncryption
+www.wordpress.com:sha256WithRSAEncryption
+www.office.com:sha256WithRSAEncryption
+www.msn.com:sha256WithRSAEncryption
+www.graphic.com.gh:sha256WithRSAEncryption
+www.ghbase.com:sha256WithRSAEncryption
+www.pornhub.com:sha256WithRSAEncryption
+www.approp.pro:sha256WithRSAEncryption
+www.stackoverflow.com:sha256WithRSAEncryption
+www.doubleclick.net:sha256WithRSAEncryption
+www.myway.com:sha256WithRSAEncryption
+www.zapmeta.ws:sha256WithRSAEncryption
+www.outbrain.com:sha256WithRSAEncryption
+www.aliexpress.com:ecdsa-with-SHA256
+www.researchgate.net:sha256WithRSAEncryption
+www.gogpayslip.com:sha1WithRSAEncryption
+www.googleusercontent.com:sha256WithRSAEncryption
+www.digitaldsp.com:sha256WithRSAEncryption
+www.olx.com.gh:sha256WithRSAEncryption
+www.adexchangemachine.com:ecdsa-with-SHA256
+www.soccabet.com:ecdsa-with-SHA256
+www.ghafla.com:ecdsa-with-SHA256
+www.nih.gov:sha256WithRSAEncryption
+www.ghanacelebrities.com:sha256WithRSAEncryption
+www.cnet.com:sha256WithRSAEncryption
+www.filehippo.com:sha256WithRSAEncryption
+www.pinterest.com:sha256WithRSAEncryption
+www.slideshare.net:sha256WithRSAEncryption
+www.adobe.com:sha256WithRSAEncryption
+www.imdb.com:sha256WithRSAEncryption
+www.apple.com:sha256WithRSAEncryption
+www.bing.com:sha256WithRSAEncryption
+www.alibaba.com:sha256WithRSAEncryption
+www.adomonline.com:sha256WithRSAEncryption
+www.quora.com:sha256WithRSAEncryption
+www.pulse.com.gh:ecdsa-with-SHA256
+www.yts.am:ecdsa-with-SHA256
+www.ebay.com:sha256WithRSAEncryption
+www.t.co:sha256WithRSAEncryption
+www.freepik.com:sha256WithRSAEncryption
+www.safaribetting.com:sha256WithRSAEncryption
+www.github.com:sha256WithRSAEncryption
+www.xhamster.com:sha256WithRSAEncryption
+www.junbi-tracker.com:sha256WithRSAEncryption
+www.sciencedirect.com:sha256WithRSAEncryption
+www.ucc.edu.gh:sha256WithRSAEncryption
+www.hicpm10.com:sha256WithRSAEncryption
+www.reddit.com:sha256WithRSAEncryption
+www.dropbox.com:sha256WithRSAEncryption
+www.mediafire.com:sha256WithRSAEncryption
+www.w3schools.com:sha256WithRSAEncryption
+www.scribd.com:sha256WithRSAEncryption
+www.adf.ly:ecdsa-with-SHA256
+www.nextoptim.com:sha256WithRSAEncryption
+www.pcmclks.com:sha256WithRSAEncryption
+www.besoccer.com:sha256WithRSAEncryption
+www.fromdoctopdf.com:sha256WithRSAEncryption
+www.iezbrowsing.com:sha256WithRSAEncryption
+www.stackexchange.com:sha256WithRSAEncryption
+www.eztv.ag:ecdsa-with-SHA256
+www.openload.co:ecdsa-with-SHA256
+www.jw.org:ecdsa-with-SHA256
+www.tunein.com:sha256WithRSAEncryption
+www.mfa.gov.gh:sha256WithRSAEncryption
+www.eanswers.com:sha256WithRSAEncryption
+www.tandfonline.com:sha256WithRSAEncryption
+www.iqoption.com:sha256WithRSAEncryption
+www.wikihow.com:sha256WithRSAEncryption
+www.blogger.com:sha256WithRSAEncryption
+www.internetdownloadmanager.com:sha256WithRSAEncryption
+www.mellowads.com:ecdsa-with-SHA256
+www.cnn.com:sha256WithRSAEncryption
+www.scholarship-positions.com:ecdsa-with-SHA256
+www.godaddy.com:sha256WithRSAEncryption
+www.biblegateway.com:sha256WithRSAEncryption
+www.gmx.com:sha256WithRSAEncryption
+www.forbes.com:sha256WithRSAEncryption
+www.naijavibes.com:ecdsa-with-SHA256
+www.velocecdn.com:ecdsa-with-SHA256
+www.newsnow.co.uk:sha256WithRSAEncryption
+www.gsmarena.com:sha256WithRSAEncryption
+www.adhoc2.net:ecdsa-with-SHA256
+www.thebalance.com:sha256WithRSAEncryption
+www.mail.com:sha256WithRSAEncryption
+www.betradar.com:sha256WithRSAEncryption
+www.businessghana.com:sha256WithRSAEncryption
+www.start.me:sha256WithRSAEncryption
+www.exoclick.com:sha256WithRSAEncryption
+www.adexchangecloud.com:sha256WithRSAEncryption
+www.ghanayello.com:sha256WithRSAEncryption
+www.bbc.co.uk:sha256WithRSAEncryption
+www.pdfdrive.net:sha256WithRSAEncryption
+www.hp.com:sha256WithRSAEncryption
+www.utorrent.com:sha256WithRSAEncryption
+www.bongacams.com:sha256WithRSAEncryption
+www.marca.com:ecdsa-with-SHA256
+www.hubtel.com:sha256WithRSAEncryption
+www.coinmarketcap.com:ecdsa-with-SHA256
+www.dstv.com:sha256WithRSAEncryption
+www.auctionexport.com:sha256WithRSAEncryption
+www.eskimi.com:sha256WithRSAEncryption
+www.udemy.com:sha256WithRSAEncryption
+www.chron.com:sha256WithRSAEncryption
+www.ghanacurrentjobs.com:sha256WithRSAEncryption
+www.limetorrents.cc:ecdsa-with-SHA256
+www.zippyshare.com:sha256WithRSAEncryption
+www.springer.com:sha256WithRSAEncryption
+www.sofascore.com:sha256WithRSAEncryption
+www.investopedia.com:sha256WithRSAEncryption
+www.theguardian.com:sha256WithRSAEncryption
+www.archive.org:sha256WithRSAEncryption
+www.study.com:sha256WithRSAEncryption
+www.force.com:sha256WithRSAEncryption
+www.waecdirect.org:sha256WithRSAEncryption
+www.netfind.com:sha256WithRSAEncryption
+www.urbanroll.com.gh:sha256WithRSAEncryption
+www.bet365.com:sha256WithRSAEncryption
+www.academia.edu:sha256WithRSAEncryption
+www.jobsinghana.com:sha256WithRSAEncryption
+www.state.gov:sha256WithRSAEncryption
+www.shutterstock.com:sha256WithRSAEncryption
+www.espn.com:sha256WithRSAEncryption
+www.paypal.com:sha256WithRSAEncryption
+www.addthis.com:ecdsa-with-SHA256
+www.fbcdn.net:sha256WithRSAEncryption
+www.skype.com:sha256WithRSAEncryption
+www.mtn.com.gh:sha256WithRSAEncryption
+www.sourceforge.net:sha256WithRSAEncryption
+www.redtube.com:sha256WithRSAEncryption
+www.jstor.org:sha256WithRSAEncryption
+www.nss.gov.gh:sha256WithRSAEncryption
+www.gstatic.com:sha256WithRSAEncryption
+www.wix.com:sha256WithRSAEncryption
+www.alison.com:sha256WithRSAEncryption
+www.mega.nz:sha256WithRSAEncryption
+www.xe.com:sha256WithRSAEncryption
+www.semanticscholar.org:sha256WithRSAEncryption
+www.canva.com:ecdsa-with-SHA256
+www.musicpleer.bz:sha256WithRSAEncryption
+www.blockchain.info:ecdsa-with-SHA256
+www.zoho.com:sha256WithRSAEncryption
+www.booking.com:sha256WithRSAEncryption
+www.un.org:sha256WithRSAEncryption
+www.edx.org:sha256WithRSAEncryption
+www.genius.com:ecdsa-with-SHA256
+www.taleo.net:sha256WithRSAEncryption
+www.wordpress.org:sha256WithRSAEncryption
+www.afrointroductions.com:sha256WithRSAEncryption
+www.topbuzz.com:sha256WithRSAEncryption
+www.rmu.edu.gh:sha256WithRSAEncryption
+www.tutorialspoint.com:sha256WithRSAEncryption
+www.avg.com:sha256WithRSAEncryption
+www.vimeo.com:sha256WithRSAEncryption
+www.biblehub.com:sha256WithRSAEncryption
+www.launchpage.org:sha256WithRSAEncryption
+www.netflix.com:sha256WithRSAEncryption
+www.files.wordpress.com:sha256WithRSAEncryption
+www.betyetu.com.gh:sha256WithRSAEncryption
+www.opendns.com:sha256WithRSAEncryption
+www.doublepimp.com:sha256WithRSAEncryption
+www.iwanttodeliver.com:sha256WithRSAEncryption
+www.mergedocsonline.com:sha256WithRSAEncryption
+www.vk.com:sha256WithRSAEncryption
+www.dailymotion.com:sha256WithRSAEncryption
+www.naijaloaded.com.ng:ecdsa-with-SHA256
+www.islandmob.com:sha256WithRSAEncryption
+www.psu.edu:sha256WithRSAEncryption
+www.liveadexchanger.com:ecdsa-with-SHA256
+www.tripadvisor.com:sha256WithRSAEncryption
+www.emeraldinsight.com:sha256WithRSAEncryption
+www.nairaland.com:ecdsa-with-SHA256
+www.mymaxoffice.com:sha256WithRSAEncryption
+www.onlinevideoconverter.com:sha256WithRSAEncryption
+www.classfmonline.com:sha256WithRSAEncryption
+www.google.co.uk:sha256WithRSAEncryption
+www.webmd.com:ecdsa-with-SHA256
+www.myappzcenter.com:sha256WithRSAEncryption
+www.manutd.com:sha256WithRSAEncryption
+www.youporn.com:sha256WithRSAEncryption
+www.smadav.net:sha256WithRSAEncryption
+www.oracle.com:ecdsa-with-SHA256
+www.googlevideo.com:sha256WithRSAEncryption
+www.ecobank.com:sha256WithRSAEncryption
+www.fiverr.com:ecdsa-with-SHA256
+www.thevideo.me:ecdsa-with-SHA256
+www.uptodown.com:sha256WithRSAEncryption
+www.wetransfer.com:sha256WithRSAEncryption
+www.tubidy.mobi:ecdsa-with-SHA256
+www.jumia.com:sha256WithRSAEncryption
+www.thesun.co.uk:sha256WithRSAEncryption
+www.mirror.co.uk:ecdsa-with-SHA256
+www.superprice.com:sha256WithRSAEncryption
+www.easypdfcombine.com:sha256WithRSAEncryption
+www.biblestudytools.com:ecdsa-with-SHA256
+www.icloud.com:sha256WithRSAEncryption
+www.samsung.com:sha256WithRSAEncryption
+www.rarbg.to:sha256WithRSAEncryption
+www.popcash.net:sha256WithRSAEncryption
+www.toxicunrated.com:ecdsa-with-SHA256
+www.statarea.com:sha256WithRSAEncryption
+www.futbol24.com:sha256WithRSAEncryption
+www.elsevier.com:sha256WithRSAEncryption
+www.xda-developers.com:sha256WithRSAEncryption
+www.actioncoin.io:ecdsa-with-SHA256
+www.pixabay.com:sha256WithRSAEncryption
+www.lifewire.com:sha256WithRSAEncryption
+www.avast.com:sha256WithRSAEncryption
+www.mynewsgh.com:sha256WithRSAEncryption
+www.goodreads.com:sha256WithRSAEncryption
+www.huffingtonpost.com:sha256WithRSAEncryption
+www.ghanawebimk.com:ecdsa-with-SHA256
+www.coursehero.com:ecdsa-with-SHA256
+www.lds.org:sha256WithRSAEncryption
+www.tumblr.com:sha256WithRSAEncryption
+www.healthline.com:sha256WithRSAEncryption
+www.britannica.com:sha256WithRSAEncryption
+www.spankbang.com:ecdsa-with-SHA256
+www.notjustok.com:sha256WithRSAEncryption
+www.torrentdownloads.me:ecdsa-with-SHA256
+www.uds.edu.gh:sha256WithRSAEncryption
+www.fao.org:sha256WithRSAEncryption
+www.soccerway.com:sha256WithRSAEncryption
+www.myfood.ltd:sha256WithRSAEncryption
+www.cambridge.org:ecdsa-with-SHA256
+www.wikia.com:sha256WithRSAEncryption
+www.pickaflick.co:ecdsa-with-SHA256
+www.bloomberg.com:sha256WithRSAEncryption
+www.mit.edu:sha256WithRSAEncryption
+www.twoo.com:sha256WithRSAEncryption
+www.medium.com:sha256WithRSAEncryption
+www.360nobs.com:sha256WithRSAEncryption
+www.secureserver.net:sha256WithRSAEncryption
+www.shopify.com:sha256WithRSAEncryption
+www.hicpm5.com:sha256WithRSAEncryption
+www.ouo.io:ecdsa-with-SHA256
+www.trafficfactory.biz:sha256WithRSAEncryption
+www.copart.com:sha256WithRSAEncryption
+www.taboola.com:sha256WithRSAEncryption
+www.mp3juices.cc:sha256WithRSAEncryption
+www.dailypost.ng:ecdsa-with-SHA256
+www.dell.com:sha256WithRSAEncryption
+www.behance.net:sha256WithRSAEncryption
+www.entrepreneur.com:sha256WithRSAEncryption
+www.t.me:sha256WithRSAEncryption
+www.primenewsghana.com:sha256WithRSAEncryption
+www.tomsguide.com:ecdsa-with-SHA256
+www.disqus.com:sha256WithRSAEncryption
+www.givemesport.com:sha256WithRSAEncryption
+www.template.net:sha256WithRSAEncryption
+www.waecgh.org:sha256WithRSAEncryption
+www.thefreedictionary.com:sha256WithRSAEncryption
+www.beforward.jp:sha256WithRSAEncryption
+www.ttuportal.com:sha256WithRSAEncryption
+www.weebly.com:sha256WithRSAEncryption
+www.ghananewsagency.org:sha256WithRSAEncryption
+www.android.com:sha256WithRSAEncryption
+www.chimgh.org:sha256WithRSAEncryption
+www.chelseafc.com:sha256WithRSAEncryption
+www.uefa.com:sha256WithRSAEncryption
+www.media-bucket.com:ecdsa-with-SHA256
+www.merriam-webster.com:sha256WithRSAEncryption
+www.techtarget.com:sha256WithRSAEncryption
+www.binance.com:sha256WithRSAEncryption
+www.barclays.com:sha256WithRSAEncryption
+www.firefox.com:sha256WithRSAEncryption
+www.getbootstrap.com:ecdsa-with-SHA256
+www.namecheap.com:sha256WithRSAEncryption
+www.harvard.edu:ecdsa-with-SHA256
+www.citibusinessnews.com:sha256WithRSAEncryption
+www.amazon.co.uk:sha256WithRSAEncryption
+www.pussl32.com:sha256WithRSAEncryption
+www.keepvid.com:sha256WithRSAEncryption
+www.porn.com:sha256WithRSAEncryption
+www.siteadvisor.com:sha256WithRSAEncryption
+www.grammarly.com:sha256WithRSAEncryption
+www.sportsmole.co.uk:sha256WithRSAEncryption
+www.ktu.edu.gh:sha256WithRSAEncryption
+www.legonconnect.com:sha256WithRSAEncryption
+www.os.tc:ecdsa-with-SHA256
+www.hostgator.com:sha256WithRSAEncryption
+www.aljazeera.com:sha256WithRSAEncryption
+www.thoughtco.com:sha256WithRSAEncryption
+www.indeed.com:sha256WithRSAEncryption
+www.convert2mp3.net:ecdsa-with-SHA256
+www.khanacademy.org:sha256WithRSAEncryption
+www.mastersportal.com:ecdsa-with-SHA256
+www.azlyrics.com:sha256WithRSAEncryption
+
+www.google.com.gh:Google Trust Services
+www.youtube.com:Google Trust Services
+www.google.com:Google Trust Services
+www.ghanaweb.com:COMODO CA Limited
+www.facebook.com:DigiCert Inc
+www.yahoo.com:DigiCert Inc
+www.yen.com.gh:COMODO CA Limited
+www.afrtrk.com:iptoX GmbH
+www.jumia.com.gh:COMODO CA Limited
+www.wikipedia.org:DigiCert Inc
+www.myjoyonline.com:GlobalSign nv-sa
+www.xvideos.com:DigiCert Inc
+www.ug.edu.gh:Let's Encrypt
+www.live.com:GlobalSign nv-sa
+www.blogspot.com:Google Trust Services
+www.instagram.com:DigiCert Inc
+www.savefrom.net:COMODO CA Limited
+www.tonaton.com:COMODO CA Limited
+www.popads.net:COMODO CA Limited
+www.twitter.com:DigiCert Inc
+www.zedo.com:DigiCert Inc
+www.whatsapp.com:DigiCert Inc
+www.microsoft.com:Microsoft Corporation
+www.amazon.com:DigiCert Inc
+www.ask.com:DigiCert Inc
+www.xnxx.com:DigiCert Inc
+www.knust.edu.gh:DigiCert Inc
+www.modernghana.com:COMODO CA Limited
+www.ghanamotion.com:COMODO CA Limited
+www.citifmonline.com:cPanel, Inc.
+www.softonic.com:Acme Co
+www.linkedin.com:DigiCert Inc
+www.bbc.com:GlobalSign nv-sa
+www.mozilla.org:DigiCert Inc
+www.wordpress.com:GoDaddy.com, Inc.
+www.office.com:Microsoft Corporation
+www.msn.com:Microsoft Corporation
+www.graphic.com.gh:GlobalSign nv-sa
+www.ghbase.com:Plesk
+www.pornhub.com:DigiCert Inc
+www.approp.pro:Something went wrong
+www.stackoverflow.com:DigiCert Inc
+www.doubleclick.net:Google Trust Services
+www.myway.com:DigiCert Inc
+www.zapmeta.ws:COMODO CA Limited
+www.outbrain.com:DigiCert Inc
+www.aliexpress.com:DigiCert Inc
+www.researchgate.net:GlobalSign nv-sa
+www.gogpayslip.com:Default Company Ltd
+www.googleusercontent.com:Google Trust Services
+www.digitaldsp.com:comapny
+www.olx.com.gh:Corporation Service Company
+www.adexchangemachine.com:COMODO CA Limited
+www.soccabet.com:COMODO CA Limited
+www.ghafla.com:COMODO CA Limited
+www.nih.gov:GoDaddy.com, Inc.
+www.ghanacelebrities.com:COMODO CA Limited
+www.cnet.com:DigiCert Inc
+www.filehippo.com:GlobalSign nv-sa
+www.pinterest.com:DigiCert Inc
+www.slideshare.net:DigiCert Inc
+www.adobe.com:DigiCert Inc
+www.imdb.com:Amazon
+www.apple.com:DigiCert Inc
+www.bing.com:Microsoft Corporation
+www.alibaba.com:GlobalSign nv-sa
+www.adomonline.com:GlobalSign nv-sa
+www.quora.com:DigiCert Inc
+www.pulse.com.gh:DigiCert Inc
+www.yts.am:COMODO CA Limited
+www.ebay.com:DigiCert Inc
+www.t.co:DigiCert Inc
+www.freepik.com:COMODO CA Limited
+www.safaribetting.com:COMODO CA Limited
+www.github.com:DigiCert Inc
+www.xhamster.com:COMODO CA Limited
+www.junbi-tracker.com:iptoX GmbH
+www.sciencedirect.com:DigiCert Inc
+www.ucc.edu.gh:COMODO CA Limited
+www.hicpm10.com:Let's Encrypt
+www.reddit.com:DigiCert Inc
+www.dropbox.com:DigiCert Inc
+www.mediafire.com:COMODO CA Limited
+www.w3schools.com:DigiCert Inc
+www.scribd.com:Gandi
+www.adf.ly:COMODO CA Limited
+www.nextoptim.com:COMODO CA Limited
+www.pcmclks.com:cPanel, Inc.
+www.besoccer.com:COMODO CA Limited
+www.fromdoctopdf.com: 
+www.iezbrowsing.com:GlobalSign nv-sa
+www.stackexchange.com:DigiCert Inc
+www.eztv.ag:COMODO CA Limited
+www.openload.co:COMODO CA Limited
+www.jw.org:DigiCert Inc
+www.tunein.com:DigiCert Inc
+www.mfa.gov.gh:CentOS Web Panel
+www.eanswers.com:GlobalSign nv-sa
+www.tandfonline.com:DigiCert Inc
+www.iqoption.com:DigiCert Inc
+www.wikihow.com:GlobalSign nv-sa
+www.blogger.com:Google Trust Services
+www.internetdownloadmanager.com:GeoTrust Inc.
+www.mellowads.com:COMODO CA Limited
+www.cnn.com:GlobalSign nv-sa
+www.scholarship-positions.com:COMODO CA Limited
+www.godaddy.com:GoDaddy.com, Inc.
+www.biblegateway.com:Amazon
+www.gmx.com:DigiCert Inc
+www.forbes.com:GlobalSign nv-sa
+www.naijavibes.com:COMODO CA Limited
+www.velocecdn.com:COMODO CA Limited
+www.newsnow.co.uk:GoDaddy.com, Inc.
+www.gsmarena.com:Let's Encrypt
+www.adhoc2.net:COMODO CA Limited
+www.thebalance.com:GlobalSign nv-sa
+www.mail.com:DigiCert Inc
+www.betradar.com:Let's Encrypt
+www.businessghana.com:GeoTrust Inc.
+www.start.me:COMODO CA Limited
+www.exoclick.com:GoDaddy.com, Inc.
+www.adexchangecloud.com:COMODO CA Limited
+www.ghanayello.com:COMODO CA Limited
+www.bbc.co.uk:GlobalSign nv-sa
+www.pdfdrive.net:Let's Encrypt
+www.hp.com:DigiCert Inc
+www.utorrent.com:thawte, Inc.
+www.bongacams.com:COMODO CA Limited
+www.marca.com:DigiCert Inc
+www.hubtel.com:GlobalSign nv-sa
+www.coinmarketcap.com:COMODO CA Limited
+www.dstv.com:Entrust, Inc.
+www.auctionexport.com:GoDaddy.com, Inc.
+www.eskimi.com:DigiCert Inc
+www.udemy.com:GlobalSign nv-sa
+www.chron.com:GlobalSign nv-sa
+www.ghanacurrentjobs.com:COMODO CA Limited
+www.limetorrents.cc:COMODO CA Limited
+www.zippyshare.com:GlobalSign nv-sa
+www.springer.com:GlobalSign nv-sa
+www.sofascore.com:COMODO CA Limited
+www.investopedia.com:DigiCert Inc
+www.theguardian.com:GlobalSign nv-sa
+www.archive.org:GoDaddy.com, Inc.
+www.study.com:GlobalSign nv-sa
+www.force.com:DigiCert Inc
+www.waecdirect.org:Let's Encrypt
+www.netfind.com:DigiCert Inc
+www.urbanroll.com.gh:Let's Encrypt
+www.bet365.com:DigiCert Inc
+www.academia.edu:COMODO CA Limited
+www.jobsinghana.com:GeoTrust Inc.
+www.state.gov:DigiCert Inc
+www.shutterstock.com:DigiCert Inc
+www.espn.com:Amazon
+www.paypal.com:Symantec Corporation
+www.addthis.com:DigiCert Inc
+www.fbcdn.net:DigiCert Inc
+www.skype.com:Microsoft Corporation
+www.mtn.com.gh:Entrust, Inc.
+www.sourceforge.net:COMODO CA Limited
+www.redtube.com:DigiCert Inc
+www.jstor.org:GlobalSign nv-sa
+www.nss.gov.gh:COMODO CA Limited
+www.gstatic.com:Google Trust Services
+www.wix.com:DigiCert Inc
+www.alison.com:GoDaddy.com, Inc.
+www.mega.nz:COMODO CA Limited
+www.xe.com:DigiCert Inc
+www.semanticscholar.org:Amazon
+www.canva.com:COMODO CA Limited
+www.musicpleer.bz:Let's Encrypt
+www.blockchain.info:COMODO CA Limited
+www.zoho.com:COMODO CA Limited
+www.booking.com:DigiCert Inc
+www.un.org:COMODO CA Limited
+www.edx.org:Gandi
+www.genius.com:COMODO CA Limited
+www.taleo.net:DigiCert Inc
+www.wordpress.org:GoDaddy.com, Inc.
+www.afrointroductions.com:DigiCert Inc
+www.topbuzz.com:Amazon
+www.rmu.edu.gh:cPanel, Inc.
+www.tutorialspoint.com:DigiCert Inc
+www.avg.com:Symantec Corporation
+www.vimeo.com:DigiCert Inc
+www.biblehub.com:cPanel, Inc.
+www.launchpage.org:Let's Encrypt
+www.netflix.com:DigiCert Inc
+www.files.wordpress.com:GoDaddy.com, Inc.
+www.betyetu.com.gh:GlobalSign nv-sa
+www.opendns.com:Let's Encrypt
+www.doublepimp.com:GoDaddy.com, Inc.
+www.iwanttodeliver.com:DigiCert Inc
+www.mergedocsonline.com: 
+www.vk.com:GlobalSign nv-sa
+www.dailymotion.com:DigiCert Inc
+www.naijaloaded.com.ng:COMODO CA Limited
+www.islandmob.com:Amazon
+www.psu.edu:Internet2
+www.liveadexchanger.com:COMODO CA Limited
+www.tripadvisor.com:DigiCert Inc
+www.emeraldinsight.com:GeoTrust Inc.
+www.nairaland.com:COMODO CA Limited
+www.mymaxoffice.com:DigiCert Inc
+www.onlinevideoconverter.com:Let's Encrypt
+www.classfmonline.com:cPanel, Inc.
+www.google.co.uk:Google Trust Services
+www.webmd.com:COMODO CA Limited
+www.myappzcenter.com:GlobalSign nv-sa
+www.manutd.com:Symantec Corporation
+www.youporn.com:DigiCert Inc
+www.smadav.net:cPanel, Inc.
+www.oracle.com:DigiCert Inc
+www.googlevideo.com:Google Trust Services
+www.ecobank.com:Symantec Corporation
+www.fiverr.com:COMODO CA Limited
+www.thevideo.me:COMODO CA Limited
+www.uptodown.com:DigiCert Inc
+www.wetransfer.com:Amazon
+www.tubidy.mobi:COMODO CA Limited
+www.jumia.com:COMODO CA Limited
+www.thesun.co.uk:DigiCert Inc
+www.mirror.co.uk:DigiCert Inc
+www.superprice.com:Let's Encrypt
+www.easypdfcombine.com: 
+www.biblestudytools.com:COMODO CA Limited
+www.icloud.com:DigiCert Inc
+www.samsung.com:DigiCert Inc
+www.rarbg.to:COMODO CA Limited
+www.popcash.net:COMODO CA Limited
+www.toxicunrated.com:COMODO CA Limited
+www.statarea.com:Let's Encrypt
+www.futbol24.com:GlobalSign nv-sa
+www.elsevier.com:DigiCert Inc
+www.xda-developers.com:COMODO CA Limited
+www.actioncoin.io:COMODO CA Limited
+www.pixabay.com:Let's Encrypt
+www.lifewire.com:GlobalSign nv-sa
+www.avast.com:DigiCert Inc
+www.mynewsgh.com:DreamHost
+www.goodreads.com:Amazon
+www.huffingtonpost.com:DigiCert Inc
+www.ghanawebimk.com:COMODO CA Limited
+www.coursehero.com:COMODO CA Limited
+www.lds.org:Symantec Corporation
+www.tumblr.com:DigiCert Inc
+www.healthline.com:DigiCert Inc
+www.britannica.com:COMODO CA Limited
+www.spankbang.com:COMODO CA Limited
+www.notjustok.com:COMODO CA Limited
+www.torrentdownloads.me:COMODO CA Limited
+www.uds.edu.gh:cPanel, Inc.
+www.fao.org:GlobalSign nv-sa
+www.soccerway.com:DigiCert Inc
+www.myfood.ltd:GoDaddy.com, Inc.
+www.cambridge.org:COMODO CA Limited
+www.wikia.com:GlobalSign nv-sa
+www.pickaflick.co:COMODO CA Limited
+www.bloomberg.com:DigiCert Inc
+www.mit.edu:DigiCert Inc
+www.twoo.com:DigiCert Inc
+www.medium.com:DigiCert Inc
+www.360nobs.com:COMODO CA Limited
+www.secureserver.net:Starfield Technologies, Inc.
+www.shopify.com:DigiCert Inc
+www.hicpm5.com:Let's Encrypt
+www.ouo.io:COMODO CA Limited
+www.trafficfactory.biz:Let's Encrypt
+www.copart.com:GlobalSign nv-sa
+www.taboola.com:DigiCert Inc
+www.mp3juices.cc:COMODO CA Limited
+www.dailypost.ng:COMODO CA Limited
+www.dell.com:DigiCert Inc
+www.behance.net:DigiCert Inc
+www.entrepreneur.com:GlobalSign nv-sa
+www.t.me:GoDaddy.com, Inc.
+www.primenewsghana.com:GeoTrust Inc.
+www.tomsguide.com:DigiCert Inc
+www.disqus.com:DigiCert Inc
+www.givemesport.com:DigiCert Inc
+www.template.net:Amazon
+www.waecgh.org:Let's Encrypt
+www.thefreedictionary.com:COMODO CA Limited
+www.beforward.jp:Amazon
+www.ttuportal.com:COMODO CA Limited
+www.weebly.com:GeoTrust Inc.
+www.ghananewsagency.org:cPanel, Inc.
+www.android.com:Google Trust Services
+www.chimgh.org:COMODO CA Limited
+www.chelseafc.com:GlobalSign nv-sa
+www.uefa.com:COMODO CA Limited
+www.media-bucket.com:COMODO CA Limited
+www.merriam-webster.com:DigiCert Inc
+www.techtarget.com:COMODO CA Limited
+www.binance.com:DigiCert Inc
+www.barclays.com:Entrust, Inc.
+www.firefox.com:DigiCert Inc
+www.getbootstrap.com:COMODO CA Limited
+www.namecheap.com:COMODO CA Limited
+www.harvard.edu:COMODO CA Limited
+www.citibusinessnews.com:cPanel, Inc.
+www.amazon.co.uk:DigiCert Inc
+www.pussl32.com:Let's Encrypt
+www.keepvid.com:GeoTrust Inc.
+www.porn.com:COMODO CA Limited
+www.siteadvisor.com:McAfee, Inc.
+www.grammarly.com:DigiCert Inc
+www.sportsmole.co.uk:Amazon
+www.ktu.edu.gh:Let's Encrypt
+www.legonconnect.com:cPanel, Inc.
+www.os.tc:COMODO CA Limited
+www.hostgator.com:Endurance Intl Group
+www.aljazeera.com:DigiCert Inc
+www.thoughtco.com:GlobalSign nv-sa
+www.indeed.com:DigiCert Inc
+www.convert2mp3.net:COMODO CA Limited
+www.khanacademy.org:GoDaddy.com, Inc.
+www.mastersportal.com:COMODO CA Limited
+www.azlyrics.com:COMODO CA Limited
+
+www.google.com.gh:RSA 2048
+www.youtube.com:RSA 2048
+www.google.com:RSA 2048
+www.ghanaweb.com:EC 256
+www.facebook.com:EC 256
+www.yahoo.com:RSA 2048
+www.yen.com.gh:RSA 2048
+www.afrtrk.com:RSA 4096
+www.jumia.com.gh:RSA 2048
+www.wikipedia.org:EC 256
+www.myjoyonline.com:RSA 2048
+www.xvideos.com:RSA 2048
+www.ug.edu.gh:RSA 2048
+www.live.com:RSA 2048
+www.blogspot.com:RSA 2048
+www.instagram.com:EC 256
+www.savefrom.net:RSA 2048
+www.tonaton.com:EC 256
+www.popads.net:RSA 2048
+www.twitter.com:RSA 2048
+www.zedo.com:RSA 2048
+www.whatsapp.com:EC 256
+www.microsoft.com:RSA 2048
+www.amazon.com:RSA 2048
+www.ask.com:EC 256
+www.xnxx.com:RSA 2048
+www.knust.edu.gh:RSA 2048
+www.modernghana.com:EC 256
+www.ghanamotion.com:EC 256
+www.citifmonline.com:RSA 2048
+www.softonic.com:RSA 2048
+www.linkedin.com:RSA 2048
+www.bbc.com:EC 256
+www.mozilla.org:RSA 2048
+www.wordpress.com:RSA 2048
+www.office.com:RSA 2048
+www.msn.com:RSA 2048
+www.graphic.com.gh:RSA 2048
+www.ghbase.com:RSA 2048
+www.pornhub.com:EC 256
+www.approp.pro:RSA 4096
+www.stackoverflow.com:RSA 2048
+www.doubleclick.net:RSA 2048
+www.myway.com:RSA 2048
+www.zapmeta.ws:RSA 2048
+www.outbrain.com:RSA 2048
+www.aliexpress.com:EC 256
+www.researchgate.net:RSA 4096
+www.gogpayslip.com:RSA 1024
+www.googleusercontent.com:RSA 2048
+www.digitaldsp.com:RSA 2048
+www.olx.com.gh:RSA 2048
+www.adexchangemachine.com:EC 256
+www.soccabet.com:EC 256
+www.ghafla.com:EC 256
+www.nih.gov:RSA 2048
+www.ghanacelebrities.com:RSA 2048
+www.cnet.com:RSA 2048
+www.filehippo.com:RSA 2048
+www.pinterest.com:RSA 2048
+www.slideshare.net:RSA 2048
+www.adobe.com:RSA 2048
+www.imdb.com:RSA 2048
+www.apple.com:RSA 2048
+www.bing.com:RSA 2048
+www.alibaba.com:RSA 2048
+www.adomonline.com:RSA 2048
+www.quora.com:RSA 2048
+www.pulse.com.gh:EC 256
+www.yts.am:EC 256
+www.ebay.com:RSA 2048
+www.t.co:RSA 2048
+www.freepik.com:RSA 2048
+www.safaribetting.com:RSA 2048
+www.github.com:RSA 2048
+www.xhamster.com:RSA 2048
+www.junbi-tracker.com:RSA 4096
+www.sciencedirect.com:RSA 2048
+www.ucc.edu.gh:RSA 2048
+www.hicpm10.com:RSA 4096
+www.reddit.com:RSA 2048
+www.dropbox.com:RSA 2048
+www.mediafire.com:RSA 2048
+www.w3schools.com:RSA 2048
+www.scribd.com:RSA 2048
+www.adf.ly:EC 256
+www.nextoptim.com:RSA 2048
+www.pcmclks.com:RSA 2048
+www.besoccer.com:RSA 2048
+www.fromdoctopdf.com:RSA 2048
+www.iezbrowsing.com:RSA 2048
+www.stackexchange.com:RSA 2048
+www.eztv.ag:EC 256
+www.openload.co:EC 256
+www.jw.org:EC 256
+www.tunein.com:RSA 2048
+www.mfa.gov.gh:RSA 2048
+www.eanswers.com:RSA 2048
+www.tandfonline.com:RSA 2048
+www.iqoption.com:RSA 2048
+www.wikihow.com:RSA 2048
+www.blogger.com:RSA 2048
+www.internetdownloadmanager.com:RSA 2048
+www.mellowads.com:EC 256
+www.cnn.com:RSA 2048
+www.scholarship-positions.com:EC 256
+www.godaddy.com:RSA 2048
+www.biblegateway.com:RSA 2048
+www.gmx.com:RSA 2048
+www.forbes.com:RSA 2048
+www.naijavibes.com:EC 256
+www.velocecdn.com:EC 256
+www.newsnow.co.uk:RSA 2048
+www.gsmarena.com:RSA 2048
+www.adhoc2.net:EC 256
+www.thebalance.com:RSA 2048
+www.mail.com:RSA 2048
+www.betradar.com:RSA 4096
+www.businessghana.com:RSA 2048
+www.start.me:RSA 2048
+www.exoclick.com:RSA 2048
+www.adexchangecloud.com:RSA 2048
+www.ghanayello.com:RSA 2048
+www.bbc.co.uk:EC 256
+www.pdfdrive.net:RSA 2048
+www.hp.com:RSA 2048
+www.utorrent.com:RSA 2048
+www.bongacams.com:RSA 2048
+www.marca.com:EC 256
+www.hubtel.com:RSA 2048
+www.coinmarketcap.com:EC 256
+www.dstv.com:RSA 4096
+www.auctionexport.com:RSA 2048
+www.eskimi.com:RSA 2048
+www.udemy.com:RSA 2048
+www.chron.com:RSA 2048
+www.ghanacurrentjobs.com:RSA 2048
+www.limetorrents.cc:EC 256
+www.zippyshare.com:RSA 2048
+www.springer.com:RSA 2048
+www.sofascore.com:RSA 2048
+www.investopedia.com:RSA 2048
+www.theguardian.com:RSA 2048
+www.archive.org:RSA 2048
+www.study.com:RSA 2048
+www.force.com:RSA 2048
+www.waecdirect.org:RSA 2048
+www.netfind.com:RSA 2048
+www.urbanroll.com.gh:RSA 2048
+www.bet365.com:RSA 2048
+www.academia.edu:RSA 2048
+www.jobsinghana.com:RSA 2048
+www.state.gov:RSA 2048
+www.shutterstock.com:RSA 2048
+www.espn.com:RSA 2048
+www.paypal.com:RSA 2048
+www.addthis.com:EC 256
+www.fbcdn.net:EC 256
+www.skype.com:RSA 2048
+www.mtn.com.gh:RSA 2048
+www.sourceforge.net:RSA 2048
+www.redtube.com:EC 256
+www.jstor.org:RSA 2048
+www.nss.gov.gh:RSA 2048
+www.gstatic.com:RSA 2048
+www.wix.com:RSA 2048
+www.alison.com:RSA 2048
+www.mega.nz:RSA 2048
+www.xe.com:RSA 2048
+www.semanticscholar.org:RSA 2048
+www.canva.com:EC 256
+www.musicpleer.bz:RSA 2048
+www.blockchain.info:EC 256
+www.zoho.com:RSA 2048
+www.booking.com:RSA 2048
+www.un.org:RSA 2048
+www.edx.org:RSA 2048
+www.genius.com:EC 256
+www.taleo.net:RSA 2048
+www.wordpress.org:RSA 2048
+www.afrointroductions.com:RSA 2048
+www.topbuzz.com:RSA 2048
+www.rmu.edu.gh:RSA 2048
+www.tutorialspoint.com:RSA 2048
+www.avg.com:RSA 2048
+www.vimeo.com:RSA 2048
+www.biblehub.com:RSA 2048
+www.launchpage.org:RSA 2048
+www.netflix.com:RSA 2048
+www.files.wordpress.com:RSA 2048
+www.betyetu.com.gh:RSA 2048
+www.opendns.com:RSA 2048
+www.doublepimp.com:RSA 2048
+www.iwanttodeliver.com:RSA 2048
+www.mergedocsonline.com:RSA 2048
+www.vk.com:EC 256
+www.dailymotion.com:RSA 2048
+www.naijaloaded.com.ng:EC 256
+www.islandmob.com:RSA 2048
+www.psu.edu:RSA 4096
+www.liveadexchanger.com:EC 256
+www.tripadvisor.com:RSA 2048
+www.emeraldinsight.com:RSA 2048
+www.nairaland.com:EC 256
+www.mymaxoffice.com:RSA 4096
+www.onlinevideoconverter.com:RSA 2048
+www.classfmonline.com:RSA 2048
+www.google.co.uk:RSA 2048
+www.webmd.com:EC 256
+www.myappzcenter.com:RSA 2048
+www.manutd.com:RSA 2048
+www.youporn.com:RSA 2048
+www.smadav.net:RSA 2048
+www.oracle.com:EC 256
+www.googlevideo.com:RSA 2048
+www.ecobank.com:RSA 2048
+www.fiverr.com:EC 256
+www.thevideo.me:EC 256
+www.uptodown.com:RSA 2048
+www.wetransfer.com:RSA 2048
+www.tubidy.mobi:EC 256
+www.jumia.com:RSA 2048
+www.thesun.co.uk:RSA 2048
+www.mirror.co.uk:EC 256
+www.superprice.com:RSA 2048
+www.easypdfcombine.com:RSA 2048
+www.biblestudytools.com:EC 256
+www.icloud.com:RSA 2048
+www.samsung.com:RSA 2048
+www.rarbg.to:RSA 2048
+www.popcash.net:RSA 4096
+www.toxicunrated.com:EC 256
+www.statarea.com:RSA 2048
+www.futbol24.com:RSA 2048
+www.elsevier.com:RSA 2048
+www.xda-developers.com:RSA 2048
+www.actioncoin.io:EC 256
+www.pixabay.com:RSA 2048
+www.lifewire.com:RSA 2048
+www.avast.com:RSA 2048
+www.mynewsgh.com:RSA 2048
+www.goodreads.com:RSA 2048
+www.huffingtonpost.com:RSA 2048
+www.ghanawebimk.com:EC 256
+www.coursehero.com:EC 256
+www.lds.org:RSA 2048
+www.tumblr.com:RSA 2048
+www.healthline.com:RSA 2048
+www.britannica.com:RSA 2048
+www.spankbang.com:EC 256
+www.notjustok.com:RSA 2048
+www.torrentdownloads.me:EC 256
+www.uds.edu.gh:RSA 2048
+www.fao.org:RSA 2048
+www.soccerway.com:RSA 2048
+www.myfood.ltd:RSA 2048
+www.cambridge.org:EC 256
+www.wikia.com:RSA 2048
+www.pickaflick.co:EC 256
+www.bloomberg.com:RSA 2048
+www.mit.edu:RSA 2048
+www.twoo.com:RSA 2048
+www.medium.com:RSA 2048
+www.360nobs.com:RSA 2048
+www.secureserver.net:RSA 2048
+www.shopify.com:RSA 2048
+www.hicpm5.com:RSA 4096
+www.ouo.io:EC 256
+www.trafficfactory.biz:RSA 2048
+www.copart.com:RSA 2048
+www.taboola.com:RSA 2048
+www.mp3juices.cc:RSA 2048
+www.dailypost.ng:EC 256
+www.dell.com:RSA 2048
+www.behance.net:RSA 2048
+www.entrepreneur.com:RSA 2048
+www.t.me:RSA 2048
+www.primenewsghana.com:RSA 2048
+www.tomsguide.com:EC 256
+www.disqus.com:RSA 2048
+www.givemesport.com:RSA 2048
+www.template.net:RSA 2048
+www.waecgh.org:RSA 2048
+www.thefreedictionary.com:RSA 2048
+www.beforward.jp:RSA 2048
+www.ttuportal.com:RSA 2048
+www.weebly.com:RSA 2048
+www.ghananewsagency.org:RSA 2048
+www.android.com:RSA 2048
+www.chimgh.org:RSA 2048
+www.chelseafc.com:RSA 2048
+www.uefa.com:RSA 2048
+www.media-bucket.com:EC 256
+www.merriam-webster.com:RSA 2048
+www.techtarget.com:RSA 2048
+www.binance.com:RSA 2048
+www.barclays.com:RSA 2048
+www.firefox.com:RSA 2048
+www.getbootstrap.com:EC 256
+www.namecheap.com:RSA 2048
+www.harvard.edu:EC 256
+www.citibusinessnews.com:RSA 2048
+www.amazon.co.uk:RSA 2048
+www.pussl32.com:RSA 4096
+www.keepvid.com:RSA 2048
+www.porn.com:RSA 2048
+www.siteadvisor.com:RSA 2048
+www.grammarly.com:RSA 2048
+www.sportsmole.co.uk:RSA 2048
+www.ktu.edu.gh:RSA 2048
+www.legonconnect.com:RSA 2048
+www.os.tc:EC 256
+www.hostgator.com:RSA 4096
+www.aljazeera.com:RSA 2048
+www.thoughtco.com:RSA 2048
+www.indeed.com:RSA 2048
+www.convert2mp3.net:EC 256
+www.khanacademy.org:RSA 2048
+www.mastersportal.com:EC 256
+www.azlyrics.com:RSA 2048
+

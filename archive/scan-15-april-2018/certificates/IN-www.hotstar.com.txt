@@ -1,0 +1,5 @@
+www.hotstar.com
+NO HSTS
+sha256WithRSAEncryption
+DigiCert Inc
+RSA 2048

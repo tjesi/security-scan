@@ -1,0 +1,5 @@
+www.ultimatix.net
+HSTS
+sha256WithRSAEncryption
+Entrust, Inc.
+RSA 2048

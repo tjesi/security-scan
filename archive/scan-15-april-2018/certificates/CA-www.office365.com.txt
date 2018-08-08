@@ -1,0 +1,5 @@
+www.office365.com
+NO HSTS
+sha256WithRSAEncryption
+Microsoft Corporation
+RSA 2048

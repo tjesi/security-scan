@@ -1,0 +1,3 @@
+www.interfax.ru
+HSTS
+sha256WithRSAEncryption

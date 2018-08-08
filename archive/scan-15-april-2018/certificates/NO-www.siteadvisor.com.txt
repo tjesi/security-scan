@@ -1,0 +1,5 @@
+www.siteadvisor.com
+HSTS
+sha256WithRSAEncryption
+McAfee, Inc.
+RSA 2048

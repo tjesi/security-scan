@@ -1,0 +1,5 @@
+www.express.de
+NO HSTS
+ecdsa-with-SHA256
+DigiCert Inc
+EC 256

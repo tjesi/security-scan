@@ -1,0 +1,5 @@
+www.mtn.com.gh
+NO HSTS
+sha256WithRSAEncryption
+Entrust, Inc.
+RSA 2048

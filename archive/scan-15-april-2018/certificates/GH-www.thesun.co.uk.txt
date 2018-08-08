@@ -1,0 +1,5 @@
+www.thesun.co.uk
+HSTS
+sha256WithRSAEncryption
+GeoTrust Inc.
+RSA 2048

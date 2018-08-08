@@ -1,0 +1,5 @@
+www.motamem.org
+NO HSTS
+sha1WithRSAEncryption
+none
+RSA 2048

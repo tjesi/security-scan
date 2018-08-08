@@ -1,0 +1,5 @@
+www.p30world.com
+NO HSTS
+sha256WithRSAEncryption
+cPanel, Inc.
+RSA 2048

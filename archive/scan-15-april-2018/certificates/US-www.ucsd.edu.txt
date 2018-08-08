@@ -1,0 +1,5 @@
+www.ucsd.edu
+NO HSTS
+sha256WithRSAEncryption
+Internet2
+RSA 4096

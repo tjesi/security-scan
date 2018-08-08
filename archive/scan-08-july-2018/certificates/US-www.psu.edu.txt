@@ -1,0 +1,5 @@
+www.psu.edu
+NO HSTS
+sha256WithRSAEncryption
+Internet2
+RSA 4096

@@ -1,0 +1,5 @@
+www.sonyliv.com
+NO HSTS
+sha256WithRSAEncryption
+GeoTrust Inc.
+RSA 2048

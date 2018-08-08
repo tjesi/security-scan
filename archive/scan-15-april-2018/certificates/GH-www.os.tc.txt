@@ -1,0 +1,5 @@
+www.os.tc
+NO HSTS
+ecdsa-with-SHA256
+COMODO CA Limited
+EC 256

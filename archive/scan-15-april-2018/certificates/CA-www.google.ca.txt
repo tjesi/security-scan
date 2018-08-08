@@ -1,0 +1,5 @@
+www.google.ca
+NO HSTS
+sha256WithRSAEncryption
+Google Inc
+RSA 2048

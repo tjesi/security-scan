@@ -1,0 +1,5 @@
+www.pulscen.ru
+NO HSTS
+sha256WithRSAEncryption
+thawte, Inc.
+RSA 2048

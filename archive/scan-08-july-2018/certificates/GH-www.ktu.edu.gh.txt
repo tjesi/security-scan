@@ -1,0 +1,5 @@
+www.ktu.edu.gh
+NO HSTS
+sha256WithRSAEncryption
+Plesk
+RSA 2048

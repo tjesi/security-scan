@@ -1,0 +1,5 @@
+www.payaneh.ir
+NO HSTS
+sha256WithRSAEncryption
+SomeOrganization
+RSA 2048

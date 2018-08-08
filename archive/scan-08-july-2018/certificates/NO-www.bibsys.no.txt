@@ -1,0 +1,5 @@
+www.bibsys.no
+NO HSTS
+sha384WithRSAEncryption
+TERENA
+RSA 2048

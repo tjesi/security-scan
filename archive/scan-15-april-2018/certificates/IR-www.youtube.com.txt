@@ -1,0 +1,5 @@
+www.youtube.com
+HSTS
+sha256WithRSAEncryption
+Google Inc
+RSA 2048

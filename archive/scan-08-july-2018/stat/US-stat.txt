@@ -1,0 +1,38 @@
+SSL errors:22
+REQ errors:14
+Other errors:34
+Total number of errors:70
+
+NO HSTS:253
+HSTS:176
+
+sha256WithRSAEncryption:375
+ecdsa-with-SHA256:54
+
+DigiCert Inc:196
+GlobalSign nv-sa:68
+COMODO CA Limited:66
+GoDaddy.com, Inc.:19
+Amazon:14
+Internet2:12
+Symantec Corporation:12
+Entrust, Inc.:11
+Let's Encrypt:6
+Microsoft Corporation:6
+Google Trust Services:5
+GeoTrust Inc.:3
+Corporation Service Company:2
+HydrantID (Avalanche Cloud Corporation):2
+Network Solutions L.L.C.:1
+Yandex LLC:1
+WoSign CA Limited:1
+Gandi:1
+Wells Fargo & Company:1
+Starfield Technologies, Inc.:1
+Trustwave Holdings, Inc.:1
+
+RSA 2048:354
+EC 256:69
+RSA 4096:6
+
+

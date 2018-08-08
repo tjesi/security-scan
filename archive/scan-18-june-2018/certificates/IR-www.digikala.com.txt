@@ -1,0 +1,5 @@
+www.digikala.com
+NO HSTS
+sha256WithRSAEncryption
+KEYNECTIS
+RSA 2048

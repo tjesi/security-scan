@@ -1,0 +1,5 @@
+www.immobilienscout24.de
+HSTS
+ecdsa-with-SHA256
+COMODO CA Limited
+EC 256

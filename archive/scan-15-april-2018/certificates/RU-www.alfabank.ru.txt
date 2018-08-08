@@ -1,0 +1,5 @@
+www.alfabank.ru
+NO HSTS
+sha256WithRSAEncryption
+thawte, Inc.
+RSA 4096

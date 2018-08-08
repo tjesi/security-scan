@@ -1,0 +1,5 @@
+www.fidor.de
+HSTS
+ecdsa-with-SHA256
+Symantec Corporation
+EC 256
