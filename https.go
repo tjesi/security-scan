@@ -25,7 +25,7 @@ func https(website string) string {
 		content += "NotBefore:" + strconv.Itoa(year1) + "-" + month1.String() + "-" + strconv.Itoa(day1) + "\n"
 
 		year2, month2, day2 := cert.NotAfter.Date()
-		content += "NotBefore:" + strconv.Itoa(year2) + "-" + month2.String() + "-" + strconv.Itoa(day2) + "\n"
+		content += "NotAfter:" + strconv.Itoa(year2) + "-" + month2.String() + "-" + strconv.Itoa(day2) + "\n"
 
 		content += "PublicKeyAlgorithm:" + cert.PublicKeyAlgorithm.String() + "\n"
 
