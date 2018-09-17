@@ -7,10 +7,19 @@ import (
 	"strconv"
 )
 
+/*
+https receive the url of a website, connect to the
+website and check if it can set up a TLS-connection.
+if the website support TLS, we store data about the
+TLS-connection and the certificate.
+*/
+
 func https(website string) string {
 
 	content := ""
 
+	// we store the session cache to check if we can
+	// continue the same session later
 	tlsConf := &tls.Config{
 		ClientSessionCache: tls.NewLRUClientSessionCache(1),
 	}
@@ -18,6 +27,7 @@ func https(website string) string {
 	con, err := tls.Dial("tcp", website+":443", tlsConf)
 	if err == nil {
 
+		// (only) fetch the website's certificate
 		cert := con.ConnectionState().PeerCertificates[0]
 		content += "Issuer:" + cert.Issuer.Organization[0] + "\n"
 
@@ -56,13 +66,13 @@ func https(website string) string {
 		con, err := tls.Dial("tcp", website+":443", tlsConf)
 		if err == nil {
 
-			// CHECK IF IT IS POSSIBLE TO RESUME A CONNECTION
-			//https://tools.ietf.org/html/rfc5077
+			// check if session resumpsion is allowed
+			// https://tools.ietf.org/html/rfc5077
 			content += "SesssionResumpsion:"
 			if con.ConnectionState().DidResume {
 				content += "YES\n"
 			} else {
-				content += "YES\n"
+				content += "NO\n"
 			}
 			con.Close()
 		}
@@ -71,7 +81,7 @@ func https(website string) string {
 	return ""
 }
 
-//constants from https://golang.org/pkg/crypto/tls
+// constants from https://golang.org/pkg/crypto/tls
 var id = map[uint16]string{
 
 	0x0005: "TLS_RSA_WITH_RC4_128_SHA",
