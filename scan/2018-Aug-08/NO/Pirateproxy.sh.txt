@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES:includeSubDomains:preload
 Issuer:COMODO CA Limited
 NotBefore:2018-July-30
-NotBefore:2019-February-5
+NotAfter:2019-February-5
 PublicKeyAlgorithm:ECDSA
 BitSize:256
 SignatureAlgorithm:ECDSA-SHA256

@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES
 Issuer:Gujarat Narmada Valley Fertilizers and Chemicals Limited
 NotBefore:2017-March-7
-NotBefore:2020-January-27
+NotAfter:2020-January-27
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES
 Issuer:HydrantID (Avalanche Cloud Corporation)
 NotBefore:2017-December-7
-NotBefore:2019-December-7
+NotAfter:2019-December-7
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

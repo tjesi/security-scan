@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES
 Issuer:Verein zur Foerderung eines Deutschen Forschungsnetzes e. V.
 NotBefore:2017-July-6
-NotBefore:2020-October-2
+NotAfter:2020-October-2
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:Amazon
 NotBefore:2018-May-30
-NotBefore:2019-May-30
+NotAfter:2019-May-30
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

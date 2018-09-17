@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:Entrust, Inc.
 NotBefore:2018-January-24
-NotBefore:2020-January-24
+NotAfter:2020-January-24
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

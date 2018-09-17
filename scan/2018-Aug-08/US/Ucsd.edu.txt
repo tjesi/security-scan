@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:Internet2
 NotBefore:2017-May-17
-NotBefore:2020-May-16
+NotAfter:2020-May-16
 PublicKeyAlgorithm:RSA
 BitSize:4096
 SignatureAlgorithm:SHA256-RSA

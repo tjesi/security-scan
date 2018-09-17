@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES:includeSubDomains
 Issuer:Apple Inc.
 NotBefore:2018-June-2
-NotBefore:2019-July-2
+NotAfter:2019-July-2
 PublicKeyAlgorithm:ECDSA
 BitSize:256
 SignatureAlgorithm:ECDSA-SHA256

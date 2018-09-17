@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:Yandex LLC
 NotBefore:2017-June-21
-NotBefore:2019-June-21
+NotAfter:2019-June-21
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

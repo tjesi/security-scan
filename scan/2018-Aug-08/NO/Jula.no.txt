@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES:includeSubDomains
 Issuer:GeoTrust Inc.
 NotBefore:2017-April-11
-NotBefore:2019-April-11
+NotAfter:2019-April-11
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:Buypass AS-983163327
 NotBefore:2017-March-27
-NotBefore:2019-March-27
+NotAfter:2019-March-27
 PublicKeyAlgorithm:RSA
 BitSize:3072
 SignatureAlgorithm:SHA256-RSA

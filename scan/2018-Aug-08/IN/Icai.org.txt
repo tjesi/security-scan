@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES
 Issuer:cPanel, Inc.
 NotBefore:2018-June-7
-NotBefore:2018-September-5
+NotAfter:2018-September-5
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

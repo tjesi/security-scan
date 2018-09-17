@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES:includeSubDomains
 Issuer:Wells Fargo & Company
 NotBefore:2018-April-9
-NotBefore:2020-April-9
+NotAfter:2020-April-9
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES:includeSubDomains
 Issuer:DigiCert Inc
 NotBefore:2017-December-25
-NotBefore:2020-December-24
+NotAfter:2020-December-24
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES:preload
 Issuer:DigiCert Inc
 NotBefore:2017-February-10
-NotBefore:2020-May-10
+NotAfter:2020-May-10
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:GlobalSign nv-sa
 NotBefore:2015-January-7
-NotBefore:2020-January-7
+NotAfter:2020-January-7
 PublicKeyAlgorithm:RSA
 BitSize:4096
 SignatureAlgorithm:SHA256-RSA

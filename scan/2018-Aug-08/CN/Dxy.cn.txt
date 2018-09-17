@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:TrustAsia Technologies, Inc.
 NotBefore:2018-April-8
-NotBefore:2019-April-8
+NotAfter:2019-April-8
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA
