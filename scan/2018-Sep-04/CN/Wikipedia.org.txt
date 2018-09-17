@@ -1,0 +1,25 @@
+list:CN
+rank:26
+website:Wikipedia.org
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:NO
+X-Content-Type-Options:NO
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:YES:includeSubDomains:preload
+Issuer:DigiCert Inc
+NotBefore:2017-December-21
+NotAfter:2019-January-24
+PublicKeyAlgorithm:ECDSA
+BitSize:256
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305
+Certificate-Transparency:NO
+OCSPResponse:YES
+SesssionResumpsion:YES

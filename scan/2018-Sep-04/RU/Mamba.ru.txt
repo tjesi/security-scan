@@ -1,0 +1,25 @@
+list:RU
+rank:156
+website:Mamba.ru
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:NO
+X-Content-Type-Options:NO
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:NO
+Issuer:COMODO CA Limited
+NotBefore:2018-March-18
+NotAfter:2019-March-18
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+Certificate-Transparency:NO
+OCSPResponse:NO
+SesssionResumpsion:YES

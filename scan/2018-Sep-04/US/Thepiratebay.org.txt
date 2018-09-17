@@ -1,0 +1,4 @@
+list:US
+rank:78
+website:Thepiratebay.org
+SSLerror
