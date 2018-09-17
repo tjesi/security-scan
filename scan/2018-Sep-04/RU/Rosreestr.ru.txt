@@ -1,0 +1,25 @@
+list:RU
+rank:339
+website:Rosreestr.ru
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:NO
+X-Content-Type-Options:NO
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:NO
+Issuer:DigiCert Inc
+NotBefore:2017-December-20
+NotAfter:2019-January-19
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_RSA_WITH_3DES_EDE_CBC_SHA
+Certificate-Transparency:NO
+OCSPResponse:NO
+SesssionResumpsion:YES

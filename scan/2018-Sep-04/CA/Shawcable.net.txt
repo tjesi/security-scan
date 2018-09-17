@@ -1,0 +1,4 @@
+list:CA
+rank:336
+website:Shawcable.net
+SSLerror

@@ -1,0 +1,25 @@
+list:IN
+rank:288
+website:Joinindianarmy.nic.in
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:YES
+X-Content-Type-Options:YES
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:YES
+Issuer:Gujarat Narmada Valley Fertilizers and Chemicals Limited
+NotBefore:2017-March-7
+NotAfter:2020-January-27
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+Certificate-Transparency:NO
+OCSPResponse:NO
+SesssionResumpsion:YES
