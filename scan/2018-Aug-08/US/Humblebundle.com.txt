@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:COMODO CA Limited
 NotBefore:2017-March-13
-NotBefore:2019-April-20
+NotAfter:2019-April-20
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

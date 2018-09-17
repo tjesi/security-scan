@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:COMODO CA Limited
 NotBefore:2018-March-3
-NotBefore:2018-September-9
+NotAfter:2018-September-9
 PublicKeyAlgorithm:ECDSA
 BitSize:256
 SignatureAlgorithm:ECDSA-SHA256

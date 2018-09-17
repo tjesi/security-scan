@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES:includeSubDomains:preload
 Issuer:Let's Encrypt
 NotBefore:2018-August-7
-NotBefore:2018-November-5
+NotAfter:2018-November-5
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

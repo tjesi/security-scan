@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES:includeSubDomains:preload
 Issuer:Unizeto Technologies S.A.
 NotBefore:2017-October-17
-NotBefore:2020-October-16
+NotAfter:2020-October-16
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

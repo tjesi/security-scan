@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES:includeSubDomains
 Issuer:CloudFlare, Inc.
 NotBefore:2017-December-20
-NotBefore:2018-December-20
+NotAfter:2018-December-20
 PublicKeyAlgorithm:ECDSA
 BitSize:256
 SignatureAlgorithm:ECDSA-SHA256

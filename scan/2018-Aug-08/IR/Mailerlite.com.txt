@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:CloudFlare, Inc.
 NotBefore:2017-November-26
-NotBefore:2018-November-26
+NotAfter:2018-November-26
 PublicKeyAlgorithm:ECDSA
 BitSize:256
 SignatureAlgorithm:ECDSA-SHA256

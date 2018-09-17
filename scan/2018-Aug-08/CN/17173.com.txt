@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:GeoTrust Inc.
 NotBefore:2017-June-30
-NotBefore:2020-August-28
+NotAfter:2020-August-28
 PublicKeyAlgorithm:RSA
 BitSize:4096
 SignatureAlgorithm:SHA256-RSA

@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES
 Issuer:GoDaddy.com, Inc.
 NotBefore:2016-December-12
-NotBefore:2019-September-8
+NotAfter:2019-September-8
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

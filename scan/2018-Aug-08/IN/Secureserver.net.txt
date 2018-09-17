@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:Starfield Technologies, Inc.
 NotBefore:2017-June-26
-NotBefore:2019-June-26
+NotAfter:2019-June-26
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

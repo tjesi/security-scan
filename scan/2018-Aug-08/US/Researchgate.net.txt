@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES:includeSubDomains:preload
 Issuer:GlobalSign nv-sa
 NotBefore:2016-August-29
-NotBefore:2019-August-30
+NotAfter:2019-August-30
 PublicKeyAlgorithm:RSA
 BitSize:4096
 SignatureAlgorithm:SHA256-RSA

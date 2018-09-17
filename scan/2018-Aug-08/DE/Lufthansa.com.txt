@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:DigiCert Inc
 NotBefore:2017-October-18
-NotBefore:2019-October-23
+NotAfter:2019-October-23
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

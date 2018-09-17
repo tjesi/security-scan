@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES:includeSubDomains
 Issuer:Symantec Corporation
 NotBefore:2017-March-30
-NotBefore:2019-March-31
+NotAfter:2019-March-31
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

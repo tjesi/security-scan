@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES
 Issuer:Microsoft Corporation
 NotBefore:2018-March-7
-NotBefore:2019-September-7
+NotAfter:2019-September-7
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

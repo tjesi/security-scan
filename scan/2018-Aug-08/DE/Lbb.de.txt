@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:Symantec Corporation
 NotBefore:2017-September-12
-NotBefore:2019-December-1
+NotAfter:2019-December-1
 PublicKeyAlgorithm:RSA
 BitSize:2048
 SignatureAlgorithm:SHA256-RSA

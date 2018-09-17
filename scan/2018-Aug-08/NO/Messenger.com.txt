@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:YES:includeSubDomains:preload
 Issuer:DigiCert Inc
 NotBefore:2017-December-15
-NotBefore:2019-March-22
+NotAfter:2019-March-22
 PublicKeyAlgorithm:ECDSA
 BitSize:256
 SignatureAlgorithm:SHA256-RSA

@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:Corporation Service Company
 NotBefore:2016-August-29
-NotBefore:2018-August-29
+NotAfter:2018-August-29
 PublicKeyAlgorithm:RSA
 BitSize:4096
 SignatureAlgorithm:SHA256-RSA

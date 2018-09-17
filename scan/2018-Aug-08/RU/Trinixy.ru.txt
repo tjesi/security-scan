@@ -14,7 +14,7 @@ Public-Key-Pins:NO
 HSTS:NO
 Issuer:Let's Encrypt
 NotBefore:2018-August-5
-NotBefore:2018-November-3
+NotAfter:2018-November-3
 PublicKeyAlgorithm:RSA
 BitSize:4096
 SignatureAlgorithm:SHA256-RSA
