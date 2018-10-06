@@ -55,7 +55,6 @@ func main() {
 				// check certificate data if SSL connection
 				content += https(website)
 			}
-
 			printFile([]string{"scan", date, file.Name()[:2]}, website+".txt", content)
 		}
 
