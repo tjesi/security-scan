@@ -20,7 +20,7 @@ func printFile(folders []string, fileName, content string) {
 	for _, folder := range folders {
 		path += "/" + folder
 		if _, err := os.Stat(path); os.IsNotExist(err) {
-			os.Mkdir(path, os.ModeDir)
+			os.Mkdir(path, 0700)
 		}
 	}
 

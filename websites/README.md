@@ -1,1 +1,0 @@
-These websites are fetched from alexa.com. Top 500 from 9 countries.
