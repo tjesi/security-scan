@@ -1,0 +1,25 @@
+list:NO
+rank:376
+website:Icloud.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:YES
+X-Frame-Options:YES
+X-Content-Type-Options:NO
+Set-Cookie:NO
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:YES:includeSubDomains
+Issuer:Apple Inc.
+NotBefore:2018-August-10
+NotAfter:2020-September-8
+PublicKeyAlgorithm:ECDSA
+BitSize:256
+SignatureAlgorithm:ECDSA-SHA256
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+Certificate-Transparency:NO
+OCSPResponse:YES
+SesssionResumpsion:NO

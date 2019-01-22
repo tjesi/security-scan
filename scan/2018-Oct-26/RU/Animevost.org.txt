@@ -1,0 +1,25 @@
+list:RU
+rank:121
+website:Animevost.org
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:NO
+X-Content-Type-Options:NO
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:NO
+Issuer:COMODO CA Limited
+NotBefore:2018-October-26
+NotAfter:2019-May-4
+PublicKeyAlgorithm:ECDSA
+BitSize:256
+SignatureAlgorithm:ECDSA-SHA256
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+Certificate-Transparency:NO
+OCSPResponse:YES
+SesssionResumpsion:YES

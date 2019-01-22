@@ -1,0 +1,4 @@
+list:CA
+rank:359
+website:Adidas.ca
+SSLerror
