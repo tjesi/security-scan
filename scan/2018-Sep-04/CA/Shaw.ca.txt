@@ -1,4 +1,0 @@
-list:CA
-rank:159
-website:Shaw.ca
-SSLerror

@@ -1,4 +1,0 @@
-list:NO
-rank:249
-website:Vinmonopolet.no
-SSLerror

@@ -1,5 +1,0 @@
-www.seratnews.com
-NO HSTS
-sha1WithRSAEncryption
-seratnews.ir
-RSA 2048

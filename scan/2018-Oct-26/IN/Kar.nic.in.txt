@@ -1,4 +1,0 @@
-list:IN
-rank:178
-website:Kar.nic.in
-SSLerror

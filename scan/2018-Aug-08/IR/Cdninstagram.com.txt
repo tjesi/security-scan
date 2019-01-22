@@ -1,4 +1,0 @@
-list:IR
-rank:471
-website:Cdninstagram.com
-SSLerror

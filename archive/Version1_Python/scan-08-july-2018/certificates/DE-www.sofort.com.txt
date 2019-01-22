@@ -1,0 +1,5 @@
+www.sofort.com
+NO HSTS
+sha256WithRSAEncryption
+COMODO CA Limited
+RSA 4096

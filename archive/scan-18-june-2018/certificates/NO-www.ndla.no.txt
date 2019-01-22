@@ -1,5 +1,0 @@
-www.ndla.no
-NO HSTS
-sha256WithRSAEncryption
-DigiCert Inc
-RSA 4096

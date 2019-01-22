@@ -1,5 +1,0 @@
-www.hrloo.com
-NO HSTS
-sha256WithRSAEncryption
-WoTrus CA Limited
-RSA 2048

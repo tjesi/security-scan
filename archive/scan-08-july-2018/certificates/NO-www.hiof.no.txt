@@ -1,5 +1,0 @@
-www.hiof.no
-HSTS
-sha256WithRSAEncryption
-TERENA
-RSA 2048

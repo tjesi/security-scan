@@ -1,5 +1,0 @@
-www.google.cn
-NO HSTS
-sha256WithRSAEncryption
-Google Trust Services
-RSA 2048

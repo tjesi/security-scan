@@ -1,5 +1,0 @@
-www.newegg.com
-HSTS
-sha256WithRSAEncryption
-Entrust, Inc.
-RSA 2048

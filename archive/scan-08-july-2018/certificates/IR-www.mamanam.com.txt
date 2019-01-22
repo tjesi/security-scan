@@ -1,5 +1,0 @@
-www.mamanam.com
-NO HSTS
-sha256WithRSAEncryption
-none
-RSA 2048

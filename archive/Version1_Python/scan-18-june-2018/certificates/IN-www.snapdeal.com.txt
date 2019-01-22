@@ -1,0 +1,5 @@
+www.snapdeal.com
+HSTS
+sha256WithRSAEncryption
+GeoTrust Inc.
+RSA 2048

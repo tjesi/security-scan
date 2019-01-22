@@ -1,4 +1,0 @@
-list:IR
-rank:40
-website:Tamin.ir
-SSLerror

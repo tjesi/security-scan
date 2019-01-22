@@ -1,0 +1,5 @@
+www.news18.com
+NO HSTS
+ecdsa-with-SHA256
+DigiCert Inc
+EC 256

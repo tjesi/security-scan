@@ -1,4 +1,0 @@
-list:IR
-rank:285
-website:Ilireg.ir
-SSLerror

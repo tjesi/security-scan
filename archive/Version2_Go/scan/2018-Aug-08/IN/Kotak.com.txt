@@ -1,0 +1,25 @@
+list:IN
+rank:237
+website:Kotak.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:YES
+X-Content-Type-Options:NO
+Set-Cookie:NO
+Access-Control-Allow-Origin:YES
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:YES
+Issuer:Entrust, Inc.
+NotBefore:2016-October-5
+NotAfter:2018-October-5
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_RSA_WITH_AES_256_CBC_SHA
+Certificate-Transparency:NO
+OCSPResponse:NO
+SesssionResumpsion:YES

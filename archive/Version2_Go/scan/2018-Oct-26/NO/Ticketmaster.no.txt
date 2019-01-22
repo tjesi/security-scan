@@ -1,0 +1,13 @@
+list:NO
+rank:220
+website:Ticketmaster.no
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:YES
+X-Frame-Options:YES
+X-Content-Type-Options:YES
+Set-Cookie:NO
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+SSLerror

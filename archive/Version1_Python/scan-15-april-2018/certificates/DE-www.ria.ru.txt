@@ -1,0 +1,3 @@
+www.ria.ru
+NO HSTS
+sha256WithRSAEncryption

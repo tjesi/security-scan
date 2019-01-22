@@ -1,0 +1,5 @@
+www.lds.org
+NO HSTS
+sha256WithRSAEncryption
+Symantec Corporation
+RSA 2048

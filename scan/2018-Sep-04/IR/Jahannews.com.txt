@@ -1,4 +1,0 @@
-list:IR
-rank:444
-website:Jahannews.com
-SSLerror

@@ -1,5 +1,0 @@
-www.zimuzu.tv
-NO HSTS
-sha256WithRSAEncryption
-StartCom Ltd.
-RSA 2048

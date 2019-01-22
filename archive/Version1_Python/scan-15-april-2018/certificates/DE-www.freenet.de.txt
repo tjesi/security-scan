@@ -1,0 +1,5 @@
+www.freenet.de
+HSTS
+sha256WithRSAEncryption
+T-Systems International GmbH
+RSA 2048

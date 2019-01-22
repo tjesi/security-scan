@@ -1,5 +1,0 @@
-www.10jqka.com.cn
-NO HSTS
-sha256WithRSAEncryption
-Entrust, Inc.
-RSA 2048

@@ -1,4 +1,0 @@
-list:DE
-rank:348
-website:Arte.tv
-SSLerror

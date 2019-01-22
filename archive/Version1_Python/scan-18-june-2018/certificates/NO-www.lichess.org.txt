@@ -1,0 +1,5 @@
+www.lichess.org
+HSTS
+sha256WithRSAEncryption
+Let's Encrypt
+RSA 2048

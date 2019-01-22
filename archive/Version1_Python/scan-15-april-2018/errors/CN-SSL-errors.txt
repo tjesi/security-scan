@@ -1,0 +1,15 @@
+Total number of SSL errors:13
+
+www.jiameng.com
+www.mi.com
+www.cyol.com
+www.dytt8.net
+www.wiley.com
+www.fudan.edu.cn
+www.dwnews.com
+www.wsj.com
+www.deviantart.com
+www.1337x.to
+www.coursera.org
+www.lbldy.com
+www.leetcode.com

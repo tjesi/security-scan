@@ -1,5 +1,0 @@
-www.shabdkosh.com
-NO HSTS
-sha256WithRSAEncryption
-SomeOrganization
-RSA 2048

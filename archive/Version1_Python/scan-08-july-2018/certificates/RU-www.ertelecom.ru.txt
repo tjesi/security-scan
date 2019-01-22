@@ -1,0 +1,3 @@
+www.ertelecom.ru
+NO HSTS
+sha256WithRSAEncryption

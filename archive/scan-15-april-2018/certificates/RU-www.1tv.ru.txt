@@ -1,5 +1,0 @@
-www.1tv.ru
-NO HSTS
-sha256WithRSAEncryption
-GeoTrust Inc.
-RSA 2048

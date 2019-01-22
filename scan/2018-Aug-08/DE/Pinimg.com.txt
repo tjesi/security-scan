@@ -1,4 +1,0 @@
-list:DE
-rank:349
-website:Pinimg.com
-SSLerror

@@ -1,5 +1,0 @@
-www.redbus.in
-HSTS
-sha256WithRSAEncryption
-COMODO CA Limited
-RSA 2048

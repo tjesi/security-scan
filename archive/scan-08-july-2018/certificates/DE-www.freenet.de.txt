@@ -1,5 +1,0 @@
-www.freenet.de
-HSTS
-sha256WithRSAEncryption
-COMODO CA Limited
-RSA 4096

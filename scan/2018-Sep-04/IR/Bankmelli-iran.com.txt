@@ -1,4 +1,0 @@
-list:IR
-rank:449
-website:Bankmelli-iran.com
-SSLerror

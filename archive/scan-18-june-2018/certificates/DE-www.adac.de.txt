@@ -1,5 +1,0 @@
-www.adac.de
-HSTS
-sha256WithRSAEncryption
-GlobalSign nv-sa
-RSA 4096

@@ -1,0 +1,4 @@
+list:GH
+rank:122
+website:Ucc.edu.gh
+SSLerror

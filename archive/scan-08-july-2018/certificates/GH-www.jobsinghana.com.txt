@@ -1,5 +1,0 @@
-www.jobsinghana.com
-NO HSTS
-sha256WithRSAEncryption
-Plesk
-RSA 2048

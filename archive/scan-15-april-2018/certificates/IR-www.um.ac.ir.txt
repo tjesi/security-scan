@@ -1,5 +1,0 @@
-www.um.ac.ir
-HSTS
-sha256WithRSAEncryption
-KEYNECTIS
-RSA 2048

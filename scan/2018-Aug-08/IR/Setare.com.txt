@@ -1,4 +1,0 @@
-list:IR
-rank:26
-website:Setare.com
-SSLerror

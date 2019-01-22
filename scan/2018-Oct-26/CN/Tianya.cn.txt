@@ -1,4 +1,0 @@
-list:CN
-rank:23
-website:Tianya.cn
-SSLerror

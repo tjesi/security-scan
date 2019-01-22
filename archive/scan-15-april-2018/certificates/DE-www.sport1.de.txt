@@ -1,5 +1,0 @@
-www.sport1.de
-NO HSTS
-sha256WithRSAEncryption
-GeoTrust Inc.
-RSA 2048

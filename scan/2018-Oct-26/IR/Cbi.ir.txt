@@ -1,4 +1,0 @@
-list:IR
-rank:382
-website:Cbi.ir
-SSLerror

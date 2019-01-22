@@ -1,3 +1,0 @@
-www.300mbfilms.co
-NO HSTS
-sha256WithRSAEncryption

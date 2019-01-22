@@ -1,0 +1,5 @@
+www.grubhub.com
+NO HSTS
+sha256WithRSAEncryption
+DigiCert Inc
+RSA 2048

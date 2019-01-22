@@ -1,5 +1,0 @@
-www.tejaratbank.ir
-NO HSTS
-sha256WithRSAEncryption
-KEYNECTIS
-RSA 2048

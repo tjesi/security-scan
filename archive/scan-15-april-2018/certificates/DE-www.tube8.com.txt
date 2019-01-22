@@ -1,5 +1,0 @@
-www.tube8.com
-NO HSTS
-sha256WithRSAEncryption
-DigiCert Inc
-EC 256

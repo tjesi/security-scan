@@ -1,5 +1,0 @@
-www.qingdaonews.com
-NO HSTS
-sha1WithRSAEncryption
-wangsu
-RSA 2048

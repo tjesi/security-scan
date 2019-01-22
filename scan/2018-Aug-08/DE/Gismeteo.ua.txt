@@ -1,4 +1,0 @@
-list:DE
-rank:451
-website:Gismeteo.ua
-SSLerror

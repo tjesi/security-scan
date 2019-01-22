@@ -1,4 +1,0 @@
-list:DE
-rank:35
-website:Telekom.com
-SSLerror

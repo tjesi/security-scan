@@ -1,0 +1,5 @@
+www.evry.com
+NO HSTS
+sha256WithRSAEncryption
+Buypass AS-983163327
+RSA 2048

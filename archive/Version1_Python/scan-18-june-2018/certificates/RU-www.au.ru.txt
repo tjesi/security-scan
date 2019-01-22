@@ -1,0 +1,3 @@
+www.au.ru
+HSTS
+sha256WithRSAEncryption

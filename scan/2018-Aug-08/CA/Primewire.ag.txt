@@ -1,4 +1,0 @@
-list:CA
-rank:164
-website:Primewire.ag
-SSLerror

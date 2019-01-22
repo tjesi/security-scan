@@ -1,4 +1,0 @@
-list:US
-rank:281
-website:Netteller.com
-SSLerror

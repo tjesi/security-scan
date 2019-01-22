@@ -1,0 +1,4 @@
+list:US
+rank:419
+website:Gamestop.com
+SSLerror

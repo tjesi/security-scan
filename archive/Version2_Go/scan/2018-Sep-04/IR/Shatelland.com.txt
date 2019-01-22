@@ -1,0 +1,25 @@
+list:IR
+rank:179
+website:Shatelland.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:NO
+X-Content-Type-Options:NO
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:NO
+Issuer:DOMENY.PL sp. z o.o
+NotBefore:2018-July-30
+NotAfter:2020-July-29
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_RSA_WITH_AES_256_GCM_SHA384
+Certificate-Transparency:NO
+OCSPResponse:YES
+SesssionResumpsion:YES

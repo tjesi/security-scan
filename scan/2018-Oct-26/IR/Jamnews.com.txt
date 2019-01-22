@@ -1,4 +1,0 @@
-list:IR
-rank:21
-website:Jamnews.com
-SSLerror

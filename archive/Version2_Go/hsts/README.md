@@ -1,0 +1,1 @@
+Each website that supports HSTS should send a HSTS header in the https request. Not all websites does this, and Google Chrome and Mozilla Firefox have their own built-in lists of preloaded HSTS connections. We check against these lists if the website does not send a HSTS header when creating a connection.

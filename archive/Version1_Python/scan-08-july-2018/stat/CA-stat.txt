@@ -1,0 +1,38 @@
+SSL errors:25
+REQ errors:19
+Other errors:37
+Total number of errors:81
+
+NO HSTS:269
+HSTS:150
+
+sha256WithRSAEncryption:369
+ecdsa-with-SHA256:48
+sha1WithRSAEncryption:2
+
+DigiCert Inc:196
+COMODO CA Limited:67
+GlobalSign nv-sa:55
+Entrust, Inc.:26
+GoDaddy.com, Inc.:21
+Amazon:12
+Let's Encrypt:8
+Google Trust Services:8
+Symantec Corporation:7
+Microsoft Corporation:5
+GeoTrust Inc.:4
+Gandi:2
+Trustwave Holdings, Inc.:2
+Distil Networks:1
+Yandex LLC:1
+TELUS Communication Ltd:1
+Internet2:1
+Corporation Service Company:1
+Acme Co:1
+
+RSA 2048:350
+EC 256:63
+RSA 4096:5
+RSA 1024:1
+
+

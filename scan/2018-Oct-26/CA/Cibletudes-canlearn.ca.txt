@@ -1,4 +1,0 @@
-list:CA
-rank:240
-website:Cibletudes-canlearn.ca
-SSLerror

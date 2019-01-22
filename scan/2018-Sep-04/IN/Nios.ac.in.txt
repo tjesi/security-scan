@@ -1,4 +1,0 @@
-list:IN
-rank:151
-website:Nios.ac.in
-SSLerror

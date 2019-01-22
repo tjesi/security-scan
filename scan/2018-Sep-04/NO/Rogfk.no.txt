@@ -1,4 +1,0 @@
-list:NO
-rank:276
-website:Rogfk.no
-SSLerror

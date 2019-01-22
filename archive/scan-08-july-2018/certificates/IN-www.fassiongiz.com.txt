@@ -1,5 +1,0 @@
-www.fassiongiz.com
-NO HSTS
-sha1WithRSAEncryption
-creative.aarth.com
-RSA 2048

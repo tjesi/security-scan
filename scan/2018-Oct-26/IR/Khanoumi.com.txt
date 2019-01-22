@@ -1,4 +1,0 @@
-list:IR
-rank:323
-website:Khanoumi.com
-SSLerror

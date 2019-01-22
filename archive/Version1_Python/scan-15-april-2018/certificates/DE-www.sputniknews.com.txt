@@ -1,0 +1,3 @@
+www.sputniknews.com
+NO HSTS
+sha256WithRSAEncryption

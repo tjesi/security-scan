@@ -1,3 +1,0 @@
-www.karrierestart.no
-NO HSTS
-sha1WithRSAEncryption

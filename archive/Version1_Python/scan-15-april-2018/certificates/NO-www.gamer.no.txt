@@ -1,0 +1,5 @@
+www.gamer.no
+HSTS
+sha256WithRSAEncryption
+Let's Encrypt
+RSA 4096

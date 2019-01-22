@@ -1,5 +1,0 @@
-www.game-bonuses.club
-NO HSTS
-sha256WithRSAEncryption
-COMODO CA Limited
-RSA 2048

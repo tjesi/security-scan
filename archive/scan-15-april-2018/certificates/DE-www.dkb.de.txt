@@ -1,5 +1,0 @@
-www.dkb.de
-HSTS
-sha256WithRSAEncryption
-DigiCert Inc
-RSA 4096

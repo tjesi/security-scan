@@ -1,5 +1,0 @@
-www.scribd.com
-NO HSTS
-sha256WithRSAEncryption
-Gandi
-RSA 2048

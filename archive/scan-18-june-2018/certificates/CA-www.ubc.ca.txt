@@ -1,5 +1,0 @@
-www.ubc.ca
-HSTS
-sha256WithRSAEncryption
-Gandi
-RSA 2048

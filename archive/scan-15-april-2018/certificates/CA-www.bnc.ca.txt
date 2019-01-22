@@ -1,5 +1,0 @@
-www.bnc.ca
-NO HSTS
-sha256WithRSAEncryption
-Entrust, Inc.
-RSA 2048

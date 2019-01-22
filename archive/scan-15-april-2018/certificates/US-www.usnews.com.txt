@@ -1,5 +1,0 @@
-www.usnews.com
-NO HSTS
-sha256WithRSAEncryption
-Network Solutions L.L.C.
-RSA 2048

@@ -1,3 +1,0 @@
-www.oschina.net
-NO HSTS
-sha1WithRSAEncryption

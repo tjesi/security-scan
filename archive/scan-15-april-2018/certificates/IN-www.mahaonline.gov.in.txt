@@ -1,5 +1,0 @@
-www.mahaonline.gov.in
-NO HSTS
-sha256WithRSAEncryption
-thawte, Inc.
-RSA 2048

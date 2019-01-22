@@ -1,4 +1,0 @@
-list:DE
-rank:227
-website:Markt.de
-SSLerror

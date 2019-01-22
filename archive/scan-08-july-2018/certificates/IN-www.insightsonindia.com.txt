@@ -1,5 +1,0 @@
-www.insightsonindia.com
-NO HSTS
-sha256WithRSAEncryption
-GlobalSign nv-sa
-RSA 2048

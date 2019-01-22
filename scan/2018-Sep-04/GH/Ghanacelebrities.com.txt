@@ -1,4 +1,0 @@
-list:GH
-rank:86
-website:Ghanacelebrities.com
-SSLerror

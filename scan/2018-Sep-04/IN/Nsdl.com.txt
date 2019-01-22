@@ -1,4 +1,0 @@
-list:IN
-rank:80
-website:Nsdl.com
-SSLerror

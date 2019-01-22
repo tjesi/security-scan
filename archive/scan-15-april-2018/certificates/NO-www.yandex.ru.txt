@@ -1,5 +1,0 @@
-www.yandex.ru
-NO HSTS
-sha256WithRSAEncryption
-Yandex LLC
-EC 256

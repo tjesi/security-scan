@@ -1,4 +1,0 @@
-list:GH
-rank:341
-website:Ecobank.com
-SSLerror

@@ -1,0 +1,5 @@
+www.weibo.com
+NO HSTS
+sha256WithRSAEncryption
+GlobalSign nv-sa
+EC 256

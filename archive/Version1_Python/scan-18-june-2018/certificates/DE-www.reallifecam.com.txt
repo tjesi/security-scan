@@ -1,0 +1,5 @@
+www.reallifecam.com
+NO HSTS
+sha256WithRSAEncryption
+DOMENY.PL sp. z o.o
+RSA 2048

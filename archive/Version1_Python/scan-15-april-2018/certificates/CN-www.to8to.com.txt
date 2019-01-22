@@ -1,0 +1,5 @@
+www.to8to.com
+NO HSTS
+sha256WithRSAEncryption
+DigiCert Inc
+RSA 2048

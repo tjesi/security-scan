@@ -1,5 +1,0 @@
-www.anjammidam.com
-HSTS
-sha1WithRSAEncryption
-none
-RSA 1024

@@ -1,5 +1,0 @@
-www.bauhaus.info
-HSTS
-sha256WithRSAEncryption
-GeoTrust Inc.
-RSA 2048

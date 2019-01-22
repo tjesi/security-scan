@@ -1,5 +1,0 @@
-www.itslearning.com
-HSTS
-sha256WithRSAEncryption
-COMODO CA Limited
-RSA 2048

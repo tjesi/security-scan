@@ -1,5 +1,0 @@
-www.elsevier.com
-NO HSTS
-sha256WithRSAEncryption
-GeoTrust Inc.
-RSA 4096

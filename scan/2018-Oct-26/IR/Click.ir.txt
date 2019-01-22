@@ -1,4 +1,0 @@
-list:IR
-rank:464
-website:Click.ir
-SSLerror

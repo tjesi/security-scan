@@ -1,0 +1,37 @@
+Total number of OTHER errors:35
+
+www.microsoftonline.com:<class 'socket.timeout'>
+www.wease.im:<class 'ConnectionRefusedError'>
+www.redd.it:<class 'socket.gaierror'>
+www.biltema.no:<class 'ConnectionResetError'>
+www.speedtest.net:<class 'requests.exceptions.ConnectionError'>
+www.easy-sexxx.com:<class 'ConnectionRefusedError'>
+www.deloton.com:<class 'ConnectionRefusedError'>
+www.3dsecure.no:<class 'ConnectionRefusedError'>
+www.focuusing.com:<class 'socket.gaierror'>
+www.amazonaws.com:<class 'ConnectionRefusedError'>
+www.alda.no:<class 'requests.exceptions.ConnectionError'>
+www.matprat.no:<class 'ConnectionResetError'>
+www.altomfotball.no:<class 'ConnectionRefusedError'>
+www.rogfk.no:<class 'ConnectionRefusedError'>
+www.bidrev.net:<class 'socket.gaierror'>
+www.skoleplattform.no:<class 'socket.gaierror'>
+www.edb.com:<class 'socket.timeout'>
+www.nrksuper.no:<class 'requests.exceptions.ConnectionError'>
+www.exosrv.com:<class 'socket.gaierror'>
+www.karrierestart.no:<class 'TypeError'>
+www.twimg.com:<class 'socket.gaierror'>
+www.fortnitetracker.com:<class 'socket.gaierror'>
+www.frekkaffaere.com:<class 'ConnectionResetError'>
+www.huffingtonpost.com:<class 'requests.exceptions.ContentDecodingError'>
+www.norgesgruppen.no:<class 'socket.timeout'>
+www.exdynsrv.com:<class 'socket.gaierror'>
+www.meny.no:<class 'ConnectionResetError'>
+www.forsvaret.no:<class 'ConnectionResetError'>
+www.gyldendal.no:<class 'ConnectionResetError'>
+www.ist-asp.com:<class 'ConnectionRefusedError'>
+www.justdating.online:<class 'socket.timeout'>
+www.livescore.com:<class 'ConnectionRefusedError'>
+www.anon-ib.ru:<class 'ConnectionRefusedError'>
+www.mmoframes.com:<class 'socket.gaierror'>
+www.multicom.no:<class 'ConnectionResetError'>

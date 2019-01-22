@@ -1,0 +1,25 @@
+list:GH
+rank:67
+website:Aliexpress.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:YES
+X-Content-Type-Options:YES
+Set-Cookie:YES
+Access-Control-Allow-Origin:YES
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:YES:includeSubDomains
+Issuer:GlobalSign nv-sa
+NotBefore:2017-November-3
+NotAfter:2018-November-4
+PublicKeyAlgorithm:ECDSA
+BitSize:256
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+Certificate-Transparency:NO
+OCSPResponse:NO
+SesssionResumpsion:YES

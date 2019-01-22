@@ -1,0 +1,4 @@
+list:IR
+rank:387
+website:Karnaval.ir
+SSLerror

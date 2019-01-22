@@ -1,4 +1,0 @@
-list:IR
-rank:405
-website:Edanesh.com
-SSLerror

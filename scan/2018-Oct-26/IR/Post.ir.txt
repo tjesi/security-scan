@@ -1,4 +1,0 @@
-list:IR
-rank:102
-website:Post.ir
-SSLerror

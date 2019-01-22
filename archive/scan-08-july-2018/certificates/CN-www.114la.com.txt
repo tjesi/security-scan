@@ -1,5 +1,0 @@
-www.114la.com
-NO HSTS
-sha256WithRSAEncryption
-DigiCert Inc
-RSA 2048

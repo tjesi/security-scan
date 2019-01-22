@@ -1,0 +1,5 @@
+www.ghbase.com
+NO HSTS
+sha256WithRSAEncryption
+Plesk
+RSA 2048

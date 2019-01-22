@@ -1,0 +1,3 @@
+www.flyertea.com
+NO HSTS
+sha1WithRSAEncryption

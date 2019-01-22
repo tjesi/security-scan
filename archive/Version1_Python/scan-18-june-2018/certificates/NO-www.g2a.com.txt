@@ -1,0 +1,5 @@
+www.g2a.com
+HSTS
+sha256WithRSAEncryption
+DigiCert Inc
+RSA 2048

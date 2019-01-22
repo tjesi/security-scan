@@ -1,3 +1,0 @@
-www.indiatyping.com
-NO HSTS
-sha256WithRSAEncryption

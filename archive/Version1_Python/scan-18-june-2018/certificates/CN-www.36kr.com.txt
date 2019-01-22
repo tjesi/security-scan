@@ -1,0 +1,3 @@
+www.36kr.com
+NO HSTS
+sha1WithRSAEncryption

@@ -1,0 +1,5 @@
+www.deutschlandcard.de
+HSTS
+sha256WithRSAEncryption
+thawte, Inc.
+RSA 2048

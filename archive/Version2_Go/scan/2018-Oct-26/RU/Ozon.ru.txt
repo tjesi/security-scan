@@ -1,0 +1,4 @@
+list:RU
+rank:35
+website:Ozon.ru
+SSLerror

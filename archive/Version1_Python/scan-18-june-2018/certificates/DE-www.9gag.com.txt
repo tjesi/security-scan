@@ -1,0 +1,5 @@
+www.9gag.com
+HSTS
+sha256WithRSAEncryption
+GlobalSign nv-sa
+RSA 2048

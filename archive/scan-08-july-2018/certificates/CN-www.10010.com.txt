@@ -1,5 +1,0 @@
-www.10010.com
-NO HSTS
-sha256WithRSAEncryption
-TrustAsia Technologies, Inc.
-RSA 2048

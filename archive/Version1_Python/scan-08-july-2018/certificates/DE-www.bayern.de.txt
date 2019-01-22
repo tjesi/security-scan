@@ -1,0 +1,5 @@
+www.bayern.de
+NO HSTS
+sha256WithRSAEncryption
+Freistaat Bayern
+RSA 2048

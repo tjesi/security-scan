@@ -1,5 +1,0 @@
-www.lifehacker.ru
-NO HSTS
-sha256WithRSAEncryption
-Southbridge LTD
-RSA 2048

@@ -1,5 +1,0 @@
-www.real.de
-HSTS
-sha256WithRSAEncryption
-COMODO CA Limited
-RSA 3072

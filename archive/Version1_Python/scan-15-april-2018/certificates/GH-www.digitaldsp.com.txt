@@ -1,0 +1,5 @@
+www.digitaldsp.com
+NO HSTS
+sha256WithRSAEncryption
+comapny
+RSA 2048

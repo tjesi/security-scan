@@ -1,4 +1,0 @@
-list:IR
-rank:31
-website:Isna.ir
-SSLerror

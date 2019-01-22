@@ -1,5 +1,0 @@
-www.uwo.ca
-NO HSTS
-sha256WithRSAEncryption
-thawte, Inc.
-RSA 2048

@@ -1,0 +1,5 @@
+www.markt.de
+HSTS
+sha256WithRSAEncryption
+Globe Hosting, Inc.
+RSA 4096

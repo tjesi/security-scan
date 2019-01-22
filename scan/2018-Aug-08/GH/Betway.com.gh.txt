@@ -1,4 +1,0 @@
-list:GH
-rank:13
-website:Betway.com.gh
-SSLerror

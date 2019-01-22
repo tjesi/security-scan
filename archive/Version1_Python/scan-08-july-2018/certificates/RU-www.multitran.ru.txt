@@ -1,0 +1,5 @@
+www.multitran.ru
+NO HSTS
+sha256WithRSAEncryption
+StartCom Ltd.
+RSA 2048

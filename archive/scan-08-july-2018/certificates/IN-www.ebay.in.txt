@@ -1,5 +1,0 @@
-www.ebay.in
-HSTS
-sha256WithRSAEncryption
-Symantec Corporation
-RSA 2048

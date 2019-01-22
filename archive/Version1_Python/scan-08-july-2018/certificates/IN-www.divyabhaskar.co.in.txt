@@ -1,0 +1,5 @@
+www.divyabhaskar.co.in
+NO HSTS
+sha512WithRSAEncryption
+DigiCert Inc
+RSA 2048

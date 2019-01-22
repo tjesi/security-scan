@@ -1,0 +1,5 @@
+www.mfa.gov.gh
+HSTS
+sha256WithRSAEncryption
+CentOS Web Panel
+RSA 2048

@@ -1,5 +1,0 @@
-www.asana.com
-HSTS
-sha256WithRSAEncryption
-GlobalSign nv-sa
-RSA 2048

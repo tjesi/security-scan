@@ -1,5 +1,0 @@
-www.drive2.ru
-NO HSTS
-sha256WithRSAEncryption
-DigiCert Inc
-EC 256

@@ -1,0 +1,5 @@
+www.t-online.de
+NO HSTS
+sha256WithRSAEncryption
+T-Systems International GmbH
+RSA 2048

@@ -1,5 +1,0 @@
-www.reundcwkqvctq.com
-NO HSTS
-sha256WithRSAEncryption
-Something went wrong
-RSA 4096

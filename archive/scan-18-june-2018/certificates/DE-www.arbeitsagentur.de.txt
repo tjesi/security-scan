@@ -1,5 +1,0 @@
-www.arbeitsagentur.de
-HSTS
-sha256WithRSAEncryption
-D-Trust GmbH
-RSA 2048

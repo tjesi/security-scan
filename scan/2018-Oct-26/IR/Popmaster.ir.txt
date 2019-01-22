@@ -1,4 +1,0 @@
-list:IR
-rank:308
-website:Popmaster.ir
-SSLerror

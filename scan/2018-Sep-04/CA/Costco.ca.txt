@@ -1,4 +1,0 @@
-list:CA
-rank:113
-website:Costco.ca
-SSLerror

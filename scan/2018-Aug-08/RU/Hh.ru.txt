@@ -1,4 +1,0 @@
-list:RU
-rank:26
-website:Hh.ru
-SSLerror

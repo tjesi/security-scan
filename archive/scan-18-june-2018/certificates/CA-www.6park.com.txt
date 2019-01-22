@@ -1,5 +1,0 @@
-www.6park.com
-NO HSTS
-sha256WithRSAEncryption
-COMODO CA Limited
-RSA 2048

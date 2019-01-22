@@ -1,5 +1,0 @@
-www.jeemain.nic.in
-NO HSTS
-sha256WithRSAEncryption
-COMODO CA Limited
-RSA 2048

@@ -1,5 +1,0 @@
-www.gdeposylka.ru
-NO HSTS
-ecdsa-with-SHA256
-COMODO CA Limited
-EC 256

@@ -1,5 +1,0 @@
-www.yen.com.gh
-NO HSTS
-sha256WithRSAEncryption
-COMODO CA Limited
-RSA 2048

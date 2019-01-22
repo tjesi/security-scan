@@ -1,5 +1,0 @@
-www.sportbox.ru
-HSTS
-sha256WithRSAEncryption
-thawte, Inc.
-RSA 2048

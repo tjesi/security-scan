@@ -1,0 +1,5 @@
+www.merriam-webster.com
+NO HSTS
+sha256WithRSAEncryption
+DigiCert Inc
+RSA 2048

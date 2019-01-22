@@ -1,4 +1,0 @@
-list:IN
-rank:265
-website:Cbseneet.nic.in
-SSLerror

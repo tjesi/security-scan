@@ -1,0 +1,5 @@
+www.nn.ru
+HSTS
+sha1WithRSAEncryption
+NN.RU
+RSA 2048

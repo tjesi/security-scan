@@ -1,0 +1,5 @@
+www.fang.com
+NO HSTS
+sha256WithRSAEncryption
+Beijing Knownsec Information Technology Co., Ltd
+RSA 2048

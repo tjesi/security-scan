@@ -1,5 +1,0 @@
-www.zhanqi.tv
-HSTS
-sha256WithRSAEncryption
-DigiCert Inc
-RSA 2048

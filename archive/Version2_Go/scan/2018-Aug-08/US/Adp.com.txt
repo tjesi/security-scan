@@ -1,0 +1,25 @@
+list:US
+rank:124
+website:Adp.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:YES
+X-Frame-Options:YES
+X-Content-Type-Options:NO
+Set-Cookie:YES
+Access-Control-Allow-Origin:YES
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:NO
+Issuer:DigiCert Inc
+NotBefore:2018-August-4
+NotAfter:2019-September-16
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+Certificate-Transparency:NO
+OCSPResponse:NO
+SesssionResumpsion:YES

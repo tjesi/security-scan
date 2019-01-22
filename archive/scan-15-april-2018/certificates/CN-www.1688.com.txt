@@ -1,5 +1,0 @@
-www.1688.com
-NO HSTS
-sha256WithRSAEncryption
-GlobalSign nv-sa
-EC 256

@@ -1,0 +1,3 @@
+www.tasvirezendegi.com
+NO HSTS
+sha256WithRSAEncryption

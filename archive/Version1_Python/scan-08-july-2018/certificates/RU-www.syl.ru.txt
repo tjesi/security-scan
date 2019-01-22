@@ -1,0 +1,5 @@
+www.syl.ru
+HSTS
+sha256WithRSAEncryption
+GlobalSign nv-sa
+RSA 4096

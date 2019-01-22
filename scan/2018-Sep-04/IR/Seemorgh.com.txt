@@ -1,4 +1,0 @@
-list:IR
-rank:83
-website:Seemorgh.com
-SSLerror

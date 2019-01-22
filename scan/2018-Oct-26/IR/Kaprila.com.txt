@@ -1,4 +1,0 @@
-list:IR
-rank:369
-website:Kaprila.com
-SSLerror

@@ -1,5 +1,0 @@
-www.canadapost.ca
-HSTS
-sha256WithRSAEncryption
-GeoTrust Inc.
-RSA 2048

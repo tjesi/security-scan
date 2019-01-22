@@ -1,0 +1,3 @@
+www.chsi.com.cn
+NO HSTS
+sha1WithRSAEncryption

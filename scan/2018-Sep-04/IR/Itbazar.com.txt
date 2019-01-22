@@ -1,4 +1,0 @@
-list:IR
-rank:250
-website:Itbazar.com
-SSLerror

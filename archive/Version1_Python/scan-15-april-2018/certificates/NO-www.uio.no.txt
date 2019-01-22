@@ -1,0 +1,5 @@
+www.uio.no
+NO HSTS
+sha256WithRSAEncryption
+TERENA
+RSA 2048

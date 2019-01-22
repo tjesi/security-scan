@@ -1,4 +1,0 @@
-list:RU
-rank:217
-website:Topcinema.tv
-SSLerror

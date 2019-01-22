@@ -1,4 +1,0 @@
-list:RU
-rank:54
-website:Microsoft.com
-SSLerror

@@ -1,5 +1,0 @@
-www.realescort.eu
-NO HSTS
-ecdsa-with-SHA256
-COMODO CA Limited
-EC 256

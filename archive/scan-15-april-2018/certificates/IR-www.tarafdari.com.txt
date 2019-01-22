@@ -1,5 +1,0 @@
-www.tarafdari.com
-NO HSTS
-sha256WithRSAEncryption
-IZENPE S.A.
-RSA 2048

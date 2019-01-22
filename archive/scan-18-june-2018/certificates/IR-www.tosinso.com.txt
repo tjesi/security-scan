@@ -1,3 +1,0 @@
-www.tosinso.com
-NO HSTS
-sha1WithRSAEncryption

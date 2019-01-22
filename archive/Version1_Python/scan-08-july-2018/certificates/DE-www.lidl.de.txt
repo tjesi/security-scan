@@ -1,0 +1,5 @@
+www.lidl.de
+HSTS
+sha256WithRSAEncryption
+SwissSign AG
+RSA 2048

@@ -1,5 +1,0 @@
-www.thomann.de
-NO HSTS
-sha256WithRSAEncryption
-GoDaddy.com, Inc.
-RSA 2048

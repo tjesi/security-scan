@@ -1,0 +1,5 @@
+www.mergedocsonline.com
+NO HSTS
+sha256WithRSAEncryption
+ 
+RSA 2048

@@ -1,5 +1,0 @@
-www.studfiles.net
-HSTS
-sha256WithRSAEncryption
-Let's Encrypt
-RSA 4096

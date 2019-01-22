@@ -1,0 +1,5 @@
+www.mci.ir
+NO HSTS
+sha256WithRSAEncryption
+WISeKey
+RSA 2048

@@ -1,4 +1,0 @@
-list:IR
-rank:47
-website:Otaghkhabar24.com
-SSLerror

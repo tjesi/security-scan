@@ -1,4 +1,0 @@
-list:CN
-rank:465
-website:Battlenet.com.cn
-SSLerror

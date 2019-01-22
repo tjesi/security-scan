@@ -1,5 +1,0 @@
-www.rmu.edu.gh
-NO HSTS
-sha256WithRSAEncryption
-cPanel, Inc.
-RSA 2048

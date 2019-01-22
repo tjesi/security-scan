@@ -1,3 +1,0 @@
-www.shglegle.com
-NO HSTS
-sha256WithRSAEncryption

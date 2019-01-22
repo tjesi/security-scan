@@ -1,0 +1,4 @@
+list:NO
+rank:61
+website:Adressa.no
+SSLerror

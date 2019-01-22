@@ -1,0 +1,5 @@
+www.dibamoviez.eu
+NO HSTS
+sha256WithRSAEncryption
+cPanel, Inc.
+RSA 2048

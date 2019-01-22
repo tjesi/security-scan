@@ -1,4 +1,0 @@
-list:GH
-rank:298
-website:Kickass.cd
-SSLerror

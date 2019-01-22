@@ -1,5 +1,0 @@
-www.thebay.com
-NO HSTS
-sha256WithRSAEncryption
-Symantec Corporation
-RSA 2048

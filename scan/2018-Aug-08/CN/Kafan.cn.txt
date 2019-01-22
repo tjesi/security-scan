@@ -1,4 +1,0 @@
-list:CN
-rank:279
-website:Kafan.cn
-SSLerror

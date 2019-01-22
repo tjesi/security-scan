@@ -1,3 +1,0 @@
-www.kafan.cn
-NO HSTS
-sha1WithRSAEncryption

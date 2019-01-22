@@ -1,5 +1,0 @@
-www.fromdoctopdf.com
-NO HSTS
-sha256WithRSAEncryption
- 
-RSA 2048
