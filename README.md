@@ -3,7 +3,7 @@ Tool for scanning websites and check their security.
 
 ## Log
 
-- 22.01.19: All previous data is archived. Ready to start v3 of the project.
+- 22.01.19: All previous data is archived. Ready to start v2 of the project.
 - 19.09.18: Uploaded presentation at NISK 2018 as PDF, with LaTeX-source and pictures
 - 17.09.18: Improved documentation of code and created new issues for further improvment
 - 17.09.18: Uploaded raw data from September 2018 scan
