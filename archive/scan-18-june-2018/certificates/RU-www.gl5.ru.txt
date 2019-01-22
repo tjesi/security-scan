@@ -1,3 +1,0 @@
-www.gl5.ru
-HSTS
-sha256WithRSAEncryption

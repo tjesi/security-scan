@@ -1,0 +1,5 @@
+www.koodomobile.com
+NO HSTS
+sha1WithRSAEncryption
+TELUS Communication Ltd
+RSA 1024

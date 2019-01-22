@@ -1,4 +1,0 @@
-list:CN
-rank:429
-website:Calvinklein.tmall.com
-SSLerror

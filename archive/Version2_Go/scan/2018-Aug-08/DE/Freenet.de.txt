@@ -1,0 +1,25 @@
+list:DE
+rank:119
+website:Freenet.de
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:YES
+X-Frame-Options:YES
+X-Content-Type-Options:YES
+Set-Cookie:YES
+Access-Control-Allow-Origin:YES
+Feature-Policy:YES
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:YES
+Issuer:COMODO CA Limited
+NotBefore:2015-September-10
+NotAfter:2018-September-25
+PublicKeyAlgorithm:RSA
+BitSize:4096
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305
+Certificate-Transparency:NO
+OCSPResponse:YES
+SesssionResumpsion:YES

@@ -1,5 +1,0 @@
-www.akairan.com
-NO HSTS
-sha1WithRSAEncryption
-none
-RSA 1024

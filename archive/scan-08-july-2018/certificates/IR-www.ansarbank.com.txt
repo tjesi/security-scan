@@ -1,5 +1,0 @@
-www.ansarbank.com
-HSTS
-sha256WithRSAEncryption
-Certplus
-RSA 2048

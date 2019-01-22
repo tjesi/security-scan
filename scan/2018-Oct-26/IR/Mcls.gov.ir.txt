@@ -1,4 +1,0 @@
-list:IR
-rank:269
-website:Mcls.gov.ir
-SSLerror

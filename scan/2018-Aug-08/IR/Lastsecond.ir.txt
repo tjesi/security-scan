@@ -1,4 +1,0 @@
-list:IR
-rank:150
-website:Lastsecond.ir
-SSLerror

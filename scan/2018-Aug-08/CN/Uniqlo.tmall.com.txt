@@ -1,4 +1,0 @@
-list:CN
-rank:99
-website:Uniqlo.tmall.com
-SSLerror

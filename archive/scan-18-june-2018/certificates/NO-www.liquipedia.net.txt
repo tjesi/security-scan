@@ -1,5 +1,0 @@
-www.liquipedia.net
-NO HSTS
-sha256WithRSAEncryption
-Let's Encrypt
-EC 384

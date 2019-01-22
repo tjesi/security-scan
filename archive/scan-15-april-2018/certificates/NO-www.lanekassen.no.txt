@@ -1,5 +1,0 @@
-www.lanekassen.no
-NO HSTS
-sha256WithRSAEncryption
-Buypass AS-983163327
-RSA 3072

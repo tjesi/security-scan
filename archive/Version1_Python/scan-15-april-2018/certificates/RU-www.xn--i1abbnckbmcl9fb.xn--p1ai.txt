@@ -1,0 +1,5 @@
+www.xn--i1abbnckbmcl9fb.xn--p1ai
+NO HSTS
+sha256WithRSAEncryption
+thawte, Inc.
+RSA 4096

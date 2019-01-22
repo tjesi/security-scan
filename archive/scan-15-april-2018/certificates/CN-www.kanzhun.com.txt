@@ -1,3 +1,0 @@
-www.kanzhun.com
-NO HSTS
-sha1WithRSAEncryption

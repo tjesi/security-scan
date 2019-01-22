@@ -1,5 +1,0 @@
-www.fontawesome.com
-NO HSTS
-sha256WithRSAEncryption
-Let's Encrypt
-EC 256

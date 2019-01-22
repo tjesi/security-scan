@@ -1,5 +1,0 @@
-www.marriott.com
-HSTS
-sha256WithRSAEncryption
-Entrust, Inc.
-RSA 2048

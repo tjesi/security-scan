@@ -1,4 +1,0 @@
-list:IR
-rank:104
-website:Mci.ir
-SSLerror

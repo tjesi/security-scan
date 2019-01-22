@@ -1,4 +1,0 @@
-list:IR
-rank:277
-website:Lioncomputer.ir
-SSLerror

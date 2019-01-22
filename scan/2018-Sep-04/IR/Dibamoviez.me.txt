@@ -1,4 +1,0 @@
-list:IR
-rank:393
-website:Dibamoviez.me
-SSLerror

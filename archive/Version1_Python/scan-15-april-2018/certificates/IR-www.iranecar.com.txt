@@ -1,0 +1,5 @@
+www.iranecar.com
+NO HSTS
+sha256WithRSAEncryption
+KEYNECTIS
+RSA 2048

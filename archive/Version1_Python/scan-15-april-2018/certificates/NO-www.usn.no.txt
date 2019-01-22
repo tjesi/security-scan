@@ -1,0 +1,5 @@
+www.usn.no
+NO HSTS
+sha256WithRSAEncryption
+TERENA
+RSA 2048

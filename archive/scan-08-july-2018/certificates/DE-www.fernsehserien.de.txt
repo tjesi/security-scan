@@ -1,5 +1,0 @@
-www.fernsehserien.de
-HSTS
-sha256WithRSAEncryption
-SomeOrganization
-RSA 2048

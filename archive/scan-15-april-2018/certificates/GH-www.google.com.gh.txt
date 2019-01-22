@@ -1,5 +1,0 @@
-www.google.com.gh
-NO HSTS
-sha256WithRSAEncryption
-Google Inc
-RSA 2048

@@ -1,4 +1,0 @@
-list:IN
-rank:11
-website:Irctc.co.in
-SSLerror

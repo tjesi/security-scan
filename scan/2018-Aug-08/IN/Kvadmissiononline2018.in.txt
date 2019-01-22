@@ -1,4 +1,0 @@
-list:IN
-rank:304
-website:Kvadmissiononline2018.in
-SSLerror

@@ -1,0 +1,5 @@
+www.bhaskar.com
+NO HSTS
+sha512WithRSAEncryption
+DigiCert Inc
+RSA 2048

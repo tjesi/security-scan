@@ -1,0 +1,5 @@
+www.hamyarwp.com
+NO HSTS
+sha1WithRSAEncryption
+none
+RSA 2048

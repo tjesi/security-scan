@@ -1,0 +1,5 @@
+www.2ch.hk
+HSTS
+sha256WithRSAEncryption
+Let's Encrypt
+RSA 2048

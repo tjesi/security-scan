@@ -1,4 +1,0 @@
-list:NO
-rank:39
-website:Sparebank1.no
-SSLerror

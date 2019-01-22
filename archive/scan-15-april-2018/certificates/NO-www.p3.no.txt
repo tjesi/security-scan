@@ -1,5 +1,0 @@
-www.p3.no
-NO HSTS
-sha256WithRSAEncryption
-GlobalSign nv-sa
-RSA 2048

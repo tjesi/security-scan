@@ -1,5 +1,0 @@
-www.bbc.co.uk
-NO HSTS
-sha256WithRSAEncryption
-GlobalSign nv-sa
-EC 256

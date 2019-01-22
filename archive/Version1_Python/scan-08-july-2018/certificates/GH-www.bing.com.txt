@@ -1,0 +1,5 @@
+www.bing.com
+HSTS
+sha256WithRSAEncryption
+Microsoft Corporation
+RSA 2048

@@ -1,4 +1,0 @@
-list:US
-rank:430
-website:Gdax.com
-SSLerror

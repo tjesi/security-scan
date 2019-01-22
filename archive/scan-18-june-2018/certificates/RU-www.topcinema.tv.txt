@@ -1,5 +1,0 @@
-www.topcinema.tv
-NO HSTS
-sha256WithRSAEncryption
-bigcinema ltd.
-RSA 2048

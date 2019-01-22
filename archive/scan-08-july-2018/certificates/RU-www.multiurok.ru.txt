@@ -1,3 +1,0 @@
-www.multiurok.ru
-HSTS
-sha256WithRSAEncryption

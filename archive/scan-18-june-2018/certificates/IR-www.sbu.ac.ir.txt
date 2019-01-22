@@ -1,5 +1,0 @@
-www.sbu.ac.ir
-NO HSTS
-sha256WithRSAEncryption
-Unizeto Technologies S.A.
-RSA 2048

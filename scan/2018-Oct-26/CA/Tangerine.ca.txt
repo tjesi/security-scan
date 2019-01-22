@@ -1,4 +1,0 @@
-list:CA
-rank:155
-website:Tangerine.ca
-SSLerror

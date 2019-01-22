@@ -1,0 +1,36 @@
+Total number of OTHER errors:34
+
+www.microsoftonline.com:<class 'socket.timeout'>
+www.redd.it:<class 'socket.gaierror'>
+www.amazonaws.com:<class 'ConnectionRefusedError'>
+www.huffingtonpost.com:<class 'requests.exceptions.ContentDecodingError'>
+www.usps.com:<class 'requests.exceptions.TooManyRedirects'>
+www.go.com:<class 'ConnectionRefusedError'>
+www.scribol.com:<class 'ConnectionRefusedError'>
+www.accuweather.com:<class 'requests.exceptions.ConnectionError'>
+www.ticketmaster.com:<class 'requests.exceptions.ConnectionError'>
+www.:<class 'socket.gaierror'>
+www.costco.com:<class 'requests.exceptions.ConnectionError'>
+www.delta.com:<class 'requests.exceptions.TooManyRedirects'>
+www.bongacams.com:<class 'requests.exceptions.ConnectionError'>
+www.deloton.com:<class 'ConnectionRefusedError'>
+www.:<class 'socket.gaierror'>
+www.united.com:<class 'requests.exceptions.ConnectionError'>
+www.abcnews.go.com:<class 'ConnectionRefusedError'>
+www.twimg.com:<class 'socket.gaierror'>
+www.hbogo.com:<class 'socket.timeout'>
+www.comicbook.com:<class 'ConnectionRefusedError'>
+www.retailmenot.com:<class 'requests.exceptions.ConnectionError'>
+www.login.tmall.com:<class 'socket.gaierror'>
+www.cloudfront.net:<class 'socket.gaierror'>
+www.pinimg.com:<class 'socket.gaierror'>
+www.overstock.com:<class 'requests.exceptions.ConnectionError'>
+www.newsweek.com:<class 'requests.exceptions.ConnectionError'>
+www.lotterypost.com:<class 'requests.exceptions.ConnectionError'>
+www.ameritrade.com:<class 'ConnectionRefusedError'>
+www.exosrv.com:<class 'socket.gaierror'>
+www.gamestop.com:<class 'requests.exceptions.ConnectionError'>
+www.:<class 'socket.gaierror'>
+www.abc.go.com:<class 'ConnectionRefusedError'>
+www.umblr.com:<class 'socket.gaierror'>
+www.mmoframes.com:<class 'socket.gaierror'>

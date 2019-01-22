@@ -1,0 +1,4 @@
+list:CA
+rank:229
+website:Vidzi.tv
+SSLerror

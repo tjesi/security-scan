@@ -1,5 +1,0 @@
-www.sbicard.com
-HSTS
-sha256WithRSAEncryption
-Corporation Service Company
-RSA 2048

@@ -1,0 +1,5 @@
+www.arte.tv
+NO HSTS
+sha256WithRSAEncryption
+Starfield Technologies, Inc.
+RSA 2048

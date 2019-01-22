@@ -1,0 +1,5 @@
+www.pulse.com.gh
+NO HSTS
+ecdsa-with-SHA256
+DigiCert Inc
+EC 256

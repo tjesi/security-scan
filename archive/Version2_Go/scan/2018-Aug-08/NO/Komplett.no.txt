@@ -1,0 +1,13 @@
+list:NO
+rank:28
+website:Komplett.no
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:YES
+X-Content-Type-Options:YES
+Set-Cookie:NO
+Access-Control-Allow-Origin:NO
+Feature-Policy:YES
+X-XSS-Protection:NO
+SSLerror

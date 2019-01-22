@@ -1,0 +1,5 @@
+www.shimo.im
+HSTS
+sha256WithRSAEncryption
+COMODO CA Limited
+RSA 2048

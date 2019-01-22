@@ -1,5 +1,0 @@
-www.yasdl.com
-NO HSTS
-sha256WithRSAEncryption
-Globe Hosting, Inc.
-RSA 2048

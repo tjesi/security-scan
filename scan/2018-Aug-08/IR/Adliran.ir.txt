@@ -1,4 +1,0 @@
-list:IR
-rank:122
-website:Adliran.ir
-SSLerror

@@ -1,5 +1,0 @@
-www.taleo.net
-NO HSTS
-sha256WithRSAEncryption
-Symantec Corporation
-RSA 2048

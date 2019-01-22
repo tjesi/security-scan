@@ -1,4 +1,0 @@
-list:IR
-rank:426
-website:Haj.ir
-SSLerror

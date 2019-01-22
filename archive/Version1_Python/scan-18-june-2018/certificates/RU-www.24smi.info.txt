@@ -1,0 +1,5 @@
+www.24smi.info
+HSTS
+sha256WithRSAEncryption
+GlobalSign nv-sa
+RSA 4096

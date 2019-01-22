@@ -1,5 +1,0 @@
-www.proff.no
-NO HSTS
-sha256WithRSAEncryption
-Corporation Service Company
-RSA 4096

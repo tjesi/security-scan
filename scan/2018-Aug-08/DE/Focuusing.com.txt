@@ -1,4 +1,0 @@
-list:DE
-rank:343
-website:Focuusing.com
-SSLerror

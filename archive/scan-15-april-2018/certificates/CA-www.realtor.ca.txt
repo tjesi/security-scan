@@ -1,5 +1,0 @@
-www.realtor.ca
-HSTS
-sha1WithRSAEncryption
-Distil Networks
-RSA 2048

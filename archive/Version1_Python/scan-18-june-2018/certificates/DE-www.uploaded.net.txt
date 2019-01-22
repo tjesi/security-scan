@@ -1,0 +1,5 @@
+www.uploaded.net
+NO HSTS
+sha256WithRSAEncryption
+DigiCert Inc
+RSA 4096

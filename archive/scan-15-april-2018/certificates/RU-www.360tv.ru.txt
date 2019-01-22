@@ -1,3 +1,0 @@
-www.360tv.ru
-NO HSTS
-sha256WithRSAEncryption

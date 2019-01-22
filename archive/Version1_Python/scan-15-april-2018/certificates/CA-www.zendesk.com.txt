@@ -1,0 +1,5 @@
+www.zendesk.com
+HSTS
+sha256WithRSAEncryption
+COMODO CA Limited
+RSA 4096

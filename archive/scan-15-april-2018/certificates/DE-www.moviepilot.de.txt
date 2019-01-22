@@ -1,5 +1,0 @@
-www.moviepilot.de
-HSTS
-sha256WithRSAEncryption
-GlobalSign nv-sa
-RSA 2048

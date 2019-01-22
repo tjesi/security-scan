@@ -1,4 +1,0 @@
-list:IR
-rank:49
-website:Soft98.ir
-SSLerror

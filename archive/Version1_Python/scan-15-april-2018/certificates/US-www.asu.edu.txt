@@ -1,0 +1,5 @@
+www.asu.edu
+HSTS
+sha256WithRSAEncryption
+Internet2
+RSA 2048

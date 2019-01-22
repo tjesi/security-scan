@@ -1,0 +1,25 @@
+list:GH
+rank:395
+website:Spankbang.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:NO
+X-Content-Type-Options:YES
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:YES:includeSubDomains
+Issuer:COMODO CA Limited
+NotBefore:2017-April-2
+NotAfter:2020-April-1
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+Certificate-Transparency:YES
+OCSPResponse:YES
+SesssionResumpsion:YES

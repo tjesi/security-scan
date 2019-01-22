@@ -1,0 +1,5 @@
+www.spv.no
+HSTS
+sha256WithRSAEncryption
+COMODO CA Limited
+RSA 2048

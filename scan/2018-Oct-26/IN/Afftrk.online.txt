@@ -1,4 +1,0 @@
-list:IN
-rank:481
-website:Afftrk.online
-SSLerror

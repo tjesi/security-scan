@@ -1,5 +1,0 @@
-www.sparebank1.no
-HSTS
-sha256WithRSAEncryption
-DigiCert Inc
-RSA 2048

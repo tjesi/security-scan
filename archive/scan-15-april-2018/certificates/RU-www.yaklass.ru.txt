@@ -1,5 +1,0 @@
-www.yaklass.ru
-NO HSTS
-sha256WithRSAEncryption
-Microsoft Corporation
-RSA 2048

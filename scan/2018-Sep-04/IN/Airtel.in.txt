@@ -1,4 +1,0 @@
-list:IN
-rank:70
-website:Airtel.in
-SSLerror

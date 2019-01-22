@@ -1,0 +1,5 @@
+www.utdanning.no
+NO HSTS
+sha256WithRSAEncryption
+TERENA
+RSA 4096

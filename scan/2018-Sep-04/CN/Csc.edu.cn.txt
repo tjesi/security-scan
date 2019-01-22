@@ -1,4 +1,0 @@
-list:CN
-rank:369
-website:Csc.edu.cn
-SSLerror

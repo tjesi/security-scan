@@ -1,5 +1,0 @@
-www.doubleclick.net
-HSTS
-sha256WithRSAEncryption
-Google Inc
-RSA 2048

@@ -1,3 +1,0 @@
-www.cian.ru
-NO HSTS
-sha256WithRSAEncryption

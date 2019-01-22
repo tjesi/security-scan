@@ -1,0 +1,13 @@
+list:DE
+rank:126
+website:Seasonvar.ru
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:YES
+X-Content-Type-Options:NO
+Set-Cookie:NO
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+SSLerror

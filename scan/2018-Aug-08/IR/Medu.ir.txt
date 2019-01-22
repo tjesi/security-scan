@@ -1,4 +1,0 @@
-list:IR
-rank:95
-website:Medu.ir
-SSLerror

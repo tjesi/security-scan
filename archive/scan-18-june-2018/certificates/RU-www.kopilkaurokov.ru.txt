@@ -1,3 +1,0 @@
-www.kopilkaurokov.ru
-HSTS
-sha256WithRSAEncryption

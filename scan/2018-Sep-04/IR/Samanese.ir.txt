@@ -1,4 +1,0 @@
-list:IR
-rank:128
-website:Samanese.ir
-SSLerror

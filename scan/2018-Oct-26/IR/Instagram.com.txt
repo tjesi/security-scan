@@ -1,4 +1,0 @@
-list:IR
-rank:5
-website:Instagram.com
-SSLerror

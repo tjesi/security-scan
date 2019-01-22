@@ -1,5 +1,0 @@
-www.statcan.gc.ca
-NO HSTS
-sha256WithRSAEncryption
-Entrust, Inc.
-RSA 4096

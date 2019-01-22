@@ -1,4 +1,0 @@
-list:IN
-rank:77
-website:Myntra.com
-SSLerror

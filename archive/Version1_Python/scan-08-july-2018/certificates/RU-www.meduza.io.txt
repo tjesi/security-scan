@@ -1,0 +1,5 @@
+www.meduza.io
+HSTS
+sha1WithRSAEncryption
+Medusa Project SIA
+RSA 2048

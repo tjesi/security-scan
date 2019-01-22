@@ -1,5 +1,0 @@
-www.livemint.com
-HSTS
-ecdsa-with-SHA256
-DigiCert Inc
-EC 256

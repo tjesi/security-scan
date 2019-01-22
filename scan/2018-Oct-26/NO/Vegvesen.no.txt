@@ -1,4 +1,0 @@
-list:NO
-rank:118
-website:Vegvesen.no
-SSLerror

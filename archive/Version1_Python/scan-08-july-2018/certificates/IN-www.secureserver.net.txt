@@ -1,0 +1,5 @@
+www.secureserver.net
+HSTS
+sha256WithRSAEncryption
+Starfield Technologies, Inc.
+RSA 2048

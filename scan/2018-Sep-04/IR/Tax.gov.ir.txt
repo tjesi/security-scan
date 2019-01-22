@@ -1,4 +1,0 @@
-list:IR
-rank:253
-website:Tax.gov.ir
-SSLerror

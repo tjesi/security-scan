@@ -1,4 +1,0 @@
-list:IR
-rank:374
-website:Iranfilm.biz
-SSLerror

@@ -1,5 +1,0 @@
-www.clegc-gckey.gc.ca
-HSTS
-sha256WithRSAEncryption
-Entrust, Inc.
-RSA 2048

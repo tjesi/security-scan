@@ -1,5 +1,0 @@
-www.videodownloadconverter.com
-NO HSTS
-sha256WithRSAEncryption
- 
-RSA 2048

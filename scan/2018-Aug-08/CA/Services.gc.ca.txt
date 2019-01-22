@@ -1,4 +1,0 @@
-list:CA
-rank:382
-website:Services.gc.ca
-SSLerror

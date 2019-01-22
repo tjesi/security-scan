@@ -1,4 +1,0 @@
-list:IR
-rank:451
-website:Behdasht.gov.ir
-SSLerror

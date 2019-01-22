@@ -1,4 +1,0 @@
-list:RU
-rank:317
-website:Vokrug.tv
-SSLerror

@@ -1,5 +1,0 @@
-www.auto.ru
-HSTS
-sha256WithRSAEncryption
-Yandex LLC
-RSA 2048

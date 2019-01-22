@@ -1,4 +1,0 @@
-list:IR
-rank:136
-website:Gsm.ir
-SSLerror

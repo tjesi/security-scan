@@ -1,0 +1,4 @@
+list:CN
+rank:85
+website:Zhanqi.tv
+SSLerror

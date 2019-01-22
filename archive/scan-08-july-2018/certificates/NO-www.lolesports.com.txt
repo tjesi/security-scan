@@ -1,5 +1,0 @@
-www.lolesports.com
-NO HSTS
-ecdsa-with-SHA256
-DigiCert Inc
-EC 256

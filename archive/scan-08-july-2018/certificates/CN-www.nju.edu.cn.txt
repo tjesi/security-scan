@@ -1,5 +1,0 @@
-www.nju.edu.cn
-NO HSTS
-sha256WithRSAEncryption
-DigiCert Inc
-RSA 2048

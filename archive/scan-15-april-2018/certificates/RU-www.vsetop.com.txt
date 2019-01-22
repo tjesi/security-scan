@@ -1,3 +1,0 @@
-www.vsetop.com
-NO HSTS
-sha1WithRSAEncryption

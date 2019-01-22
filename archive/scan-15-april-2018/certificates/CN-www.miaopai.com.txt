@@ -1,3 +1,0 @@
-www.miaopai.com
-NO HSTS
-sha1WithRSAEncryption

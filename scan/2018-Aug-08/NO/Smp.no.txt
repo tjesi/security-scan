@@ -1,4 +1,0 @@
-list:NO
-rank:339
-website:Smp.no
-SSLerror

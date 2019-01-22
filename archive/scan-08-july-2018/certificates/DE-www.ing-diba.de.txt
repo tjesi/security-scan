@@ -1,5 +1,0 @@
-www.ing-diba.de
-HSTS
-sha256WithRSAEncryption
-Entrust, Inc.
-RSA 2048

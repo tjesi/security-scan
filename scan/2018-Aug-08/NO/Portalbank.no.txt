@@ -1,4 +1,0 @@
-list:NO
-rank:135
-website:Portalbank.no
-SSLerror

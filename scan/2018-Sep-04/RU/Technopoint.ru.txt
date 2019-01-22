@@ -1,4 +1,0 @@
-list:RU
-rank:371
-website:Technopoint.ru
-SSLerror

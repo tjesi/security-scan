@@ -1,4 +1,0 @@
-list:IR
-rank:249
-website:Bank-maskan.ir
-SSLerror

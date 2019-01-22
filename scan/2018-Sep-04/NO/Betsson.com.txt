@@ -1,4 +1,0 @@
-list:NO
-rank:329
-website:Betsson.com
-SSLerror

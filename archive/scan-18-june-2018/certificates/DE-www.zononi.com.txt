@@ -1,3 +1,0 @@
-www.zononi.com
-NO HSTS
-sha256WithRSAEncryption

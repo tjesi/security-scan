@@ -1,5 +1,0 @@
-www.telenor.no
-HSTS
-sha256WithRSAEncryption
-Buypass AS-983163327
-RSA 2048

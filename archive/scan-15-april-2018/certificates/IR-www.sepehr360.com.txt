@@ -1,3 +1,0 @@
-www.sepehr360.com
-NO HSTS
-sha1WithRSAEncryption

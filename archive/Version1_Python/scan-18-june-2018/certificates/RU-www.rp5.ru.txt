@@ -1,0 +1,3 @@
+www.rp5.ru
+NO HSTS
+sha256WithRSAEncryption

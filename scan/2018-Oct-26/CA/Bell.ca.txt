@@ -1,4 +1,0 @@
-list:CA
-rank:114
-website:Bell.ca
-SSLerror

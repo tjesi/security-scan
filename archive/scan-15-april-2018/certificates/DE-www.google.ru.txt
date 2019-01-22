@@ -1,5 +1,0 @@
-www.google.ru
-NO HSTS
-sha256WithRSAEncryption
-Google Inc
-RSA 2048

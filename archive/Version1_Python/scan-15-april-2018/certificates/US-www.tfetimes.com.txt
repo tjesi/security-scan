@@ -1,0 +1,5 @@
+www.tfetimes.com
+NO HSTS
+sha256WithRSAEncryption
+My Company Name LTD.
+RSA 2048

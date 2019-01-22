@@ -1,3 +1,0 @@
-www.2-subdown.ir
-NO HSTS
-sha256WithRSAEncryption

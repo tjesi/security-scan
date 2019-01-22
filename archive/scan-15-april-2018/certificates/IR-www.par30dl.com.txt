@@ -1,3 +1,0 @@
-www.par30dl.com
-NO HSTS
-sha256WithRSAEncryption

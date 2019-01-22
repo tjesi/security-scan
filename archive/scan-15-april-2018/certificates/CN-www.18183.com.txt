@@ -1,5 +1,0 @@
-www.18183.com
-NO HSTS
-sha256WithRSAEncryption
-WoSign CA Limited
-RSA 2048

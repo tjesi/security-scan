@@ -1,4 +1,0 @@
-list:IR
-rank:276
-website:Pnu.ac.ir
-SSLerror

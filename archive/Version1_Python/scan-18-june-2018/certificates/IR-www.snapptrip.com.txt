@@ -1,0 +1,5 @@
+www.snapptrip.com
+HSTS
+sha256WithRSAEncryption
+Acme Co
+RSA 2048

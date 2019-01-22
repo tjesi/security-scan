@@ -1,4 +1,0 @@
-list:NO
-rank:366
-website:9anime.is
-SSLerror

@@ -1,4 +1,0 @@
-list:CA
-rank:436
-website:Hrdc-drhc.gc.ca
-SSLerror

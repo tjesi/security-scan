@@ -1,0 +1,4 @@
+list:GH
+rank:147
+website:Mfa.gov.gh
+SSLerror

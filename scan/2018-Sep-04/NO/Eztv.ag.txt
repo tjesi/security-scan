@@ -1,4 +1,0 @@
-list:NO
-rank:386
-website:Eztv.ag
-SSLerror

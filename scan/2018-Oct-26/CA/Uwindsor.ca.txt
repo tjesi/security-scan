@@ -1,4 +1,0 @@
-list:CA
-rank:484
-website:Uwindsor.ca
-SSLerror

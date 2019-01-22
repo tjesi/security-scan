@@ -1,0 +1,5 @@
+www.fotostrana.ru
+HSTS
+sha256WithRSAEncryption
+COMODO CA Limited
+RSA 2048

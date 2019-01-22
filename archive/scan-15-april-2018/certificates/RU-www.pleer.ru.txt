@@ -1,5 +1,0 @@
-www.pleer.ru
-HSTS
-sha256WithRSAEncryption
-GeoTrust Inc.
-RSA 2048

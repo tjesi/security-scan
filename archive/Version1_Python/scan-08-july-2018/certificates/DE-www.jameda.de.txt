@@ -1,0 +1,5 @@
+www.jameda.de
+NO HSTS
+sha1WithRSAEncryption
+ispgateway
+RSA 2048

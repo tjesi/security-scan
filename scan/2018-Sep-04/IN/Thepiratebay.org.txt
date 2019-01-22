@@ -1,4 +1,0 @@
-list:IN
-rank:300
-website:Thepiratebay.org
-SSLerror

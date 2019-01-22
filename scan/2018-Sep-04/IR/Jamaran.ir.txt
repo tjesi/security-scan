@@ -1,4 +1,0 @@
-list:IR
-rank:483
-website:Jamaran.ir
-SSLerror

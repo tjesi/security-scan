@@ -1,0 +1,5 @@
+www.4kia.ir
+NO HSTS
+sha1WithRSAEncryption
+none
+RSA 2048

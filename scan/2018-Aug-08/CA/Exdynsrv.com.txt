@@ -1,4 +1,0 @@
-list:CA
-rank:425
-website:Exdynsrv.com
-SSLerror

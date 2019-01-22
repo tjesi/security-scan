@@ -1,5 +1,0 @@
-www.ura.news
-NO HSTS
-sha256WithRSAEncryption
-ddos-guard
-RSA 2048

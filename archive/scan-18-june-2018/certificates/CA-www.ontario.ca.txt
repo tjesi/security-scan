@@ -1,5 +1,0 @@
-www.ontario.ca
-HSTS
-sha256WithRSAEncryption
-Entrust, Inc.
-RSA 2048

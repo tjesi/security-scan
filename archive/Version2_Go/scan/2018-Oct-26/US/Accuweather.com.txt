@@ -1,0 +1,25 @@
+list:US
+rank:156
+website:Accuweather.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:NO
+X-Content-Type-Options:NO
+Set-Cookie:NO
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:NO
+Issuer:DigiCert Inc
+NotBefore:2016-May-27
+NotAfter:2019-August-25
+PublicKeyAlgorithm:RSA
+BitSize:4096
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+Certificate-Transparency:NO
+OCSPResponse:NO
+SesssionResumpsion:NO

@@ -1,4 +1,0 @@
-list:NO
-rank:300
-website:Skoleplattform.no
-SSLerror

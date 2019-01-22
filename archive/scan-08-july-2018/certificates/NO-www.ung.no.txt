@@ -1,5 +1,0 @@
-www.ung.no
-HSTS
-sha256WithRSAEncryption
-Let's Encrypt
-RSA 2048

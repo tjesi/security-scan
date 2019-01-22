@@ -1,4 +1,0 @@
-list:NO
-rank:444
-website:Gsport.no
-SSLerror

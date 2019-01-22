@@ -1,5 +1,0 @@
-www.researchgate.net
-HSTS
-sha256WithRSAEncryption
-GlobalSign nv-sa
-RSA 4096

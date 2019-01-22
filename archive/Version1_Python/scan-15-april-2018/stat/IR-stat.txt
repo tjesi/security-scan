@@ -1,0 +1,44 @@
+SSL errors:47
+REQ errors:79
+Other errors:79
+Total number of errors:205
+
+NO HSTS:239
+HSTS:56
+
+sha256WithRSAEncryption:253
+ecdsa-with-SHA256:27
+sha1WithRSAEncryption:15
+
+COMODO CA Limited:85
+Unizeto Technologies S.A.:54
+Let's Encrypt:44
+DigiCert Inc:24
+none:16
+KEYNECTIS:13
+cPanel, Inc.:10
+Google Inc:8
+GlobalSign nv-sa:7
+GoDaddy.com, Inc.:6
+IZENPE S.A.:5
+GeoTrust Inc.:4
+Microsoft Corporation:3
+Google Trust Services:2
+Globe Hosting, Inc.:2
+Internet Widgits Pty Ltd:2
+Symantec Corporation:2
+iptoX GmbH:1
+WISeKey:1
+Certplus:1
+SomeOrganization:1
+Acme Co:1
+Amazon:1
+seratnews.ir:1
+thawte, Inc.:1
+
+RSA 2048:246
+EC 256:32
+RSA 4096:13
+RSA 1024:4
+
+

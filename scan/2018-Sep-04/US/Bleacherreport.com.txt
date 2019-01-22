@@ -1,4 +1,0 @@
-list:US
-rank:160
-website:Bleacherreport.com
-SSLerror

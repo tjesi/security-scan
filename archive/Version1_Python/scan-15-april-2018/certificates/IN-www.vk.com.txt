@@ -1,0 +1,5 @@
+www.vk.com
+HSTS
+sha256WithRSAEncryption
+GlobalSign nv-sa
+EC 384

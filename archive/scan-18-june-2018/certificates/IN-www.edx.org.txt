@@ -1,5 +1,0 @@
-www.edx.org
-NO HSTS
-sha256WithRSAEncryption
-Gandi
-RSA 2048

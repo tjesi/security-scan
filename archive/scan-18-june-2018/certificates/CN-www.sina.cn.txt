@@ -1,5 +1,0 @@
-www.sina.cn
-HSTS
-sha256WithRSAEncryption
-DigiCert Inc
-RSA 2048

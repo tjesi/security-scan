@@ -1,4 +1,0 @@
-list:IR
-rank:196
-website:Persianblog.ir
-SSLerror

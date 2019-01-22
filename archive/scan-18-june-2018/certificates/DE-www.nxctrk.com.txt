@@ -1,5 +1,0 @@
-www.nxctrk.com
-NO HSTS
-sha256WithRSAEncryption
-iptoX GmbH
-RSA 4096

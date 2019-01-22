@@ -1,5 +1,0 @@
-www.vtb.ru
-NO HSTS
-sha256WithRSAEncryption
-COMODO CA Limited
-RSA 2048

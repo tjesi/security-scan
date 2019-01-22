@@ -1,0 +1,3 @@
+www.flashscore.com
+NO HSTS
+sha256WithRSAEncryption

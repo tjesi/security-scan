@@ -1,3 +1,0 @@
-www.betway.com.gh
-NO HSTS
-sha1WithRSAEncryption

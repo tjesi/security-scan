@@ -1,4 +1,0 @@
-list:US
-rank:189
-website:Delta.com
-SSLerror

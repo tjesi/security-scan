@@ -1,5 +1,0 @@
-www.researchgate.net
-HSTS
-sha256WithRSAEncryption
-DigiCert Inc
-RSA 2048

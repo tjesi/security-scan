@@ -1,0 +1,25 @@
+list:NO
+rank:155
+website:Crunchyroll.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:YES
+X-Content-Type-Options:NO
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:NO
+Issuer:GoDaddy.com, Inc.
+NotBefore:2018-March-14
+NotAfter:2020-April-15
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+Certificate-Transparency:YES
+OCSPResponse:YES
+SesssionResumpsion:YES

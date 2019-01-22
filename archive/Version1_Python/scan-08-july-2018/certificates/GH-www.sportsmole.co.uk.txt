@@ -1,0 +1,5 @@
+www.sportsmole.co.uk
+NO HSTS
+sha256WithRSAEncryption
+Amazon
+RSA 2048

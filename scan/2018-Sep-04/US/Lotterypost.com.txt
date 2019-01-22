@@ -1,4 +1,0 @@
-list:US
-rank:345
-website:Lotterypost.com
-SSLerror

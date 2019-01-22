@@ -1,0 +1,5 @@
+www.hostgator.com
+HSTS
+sha256WithRSAEncryption
+Endurance Intl Group
+RSA 4096

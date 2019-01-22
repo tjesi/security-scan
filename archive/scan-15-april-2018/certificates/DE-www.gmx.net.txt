@@ -1,5 +1,0 @@
-www.gmx.net
-HSTS
-sha256WithRSAEncryption
-T-Systems International GmbH
-RSA 2048

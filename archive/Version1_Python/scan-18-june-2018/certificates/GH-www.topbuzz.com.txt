@@ -1,0 +1,5 @@
+www.topbuzz.com
+HSTS
+sha256WithRSAEncryption
+Amazon
+RSA 2048

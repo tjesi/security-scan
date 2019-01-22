@@ -1,5 +1,0 @@
-www.30nama.cc
-NO HSTS
-sha256WithRSAEncryption
-Let's Encrypt
-RSA 2048

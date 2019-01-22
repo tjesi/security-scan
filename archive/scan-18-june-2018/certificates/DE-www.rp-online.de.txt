@@ -1,5 +1,0 @@
-www.rp-online.de
-NO HSTS
-sha256WithRSAEncryption
-COMODO CA Limited
-RSA 2048

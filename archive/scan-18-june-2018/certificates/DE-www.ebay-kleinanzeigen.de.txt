@@ -1,5 +1,0 @@
-www.ebay-kleinanzeigen.de
-HSTS
-sha256WithRSAEncryption
-DigiCert Inc
-RSA 2048

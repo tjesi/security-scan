@@ -1,0 +1,5 @@
+www.zalando.de
+NO HSTS
+sha256WithRSAEncryption
+DigiCert Inc
+RSA 2048

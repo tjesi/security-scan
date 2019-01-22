@@ -1,4 +1,0 @@
-list:RU
-rank:161
-website:Winfortuna.com
-SSLerror

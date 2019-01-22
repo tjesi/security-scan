@@ -1,5 +1,0 @@
-www.unibet.com
-HSTS
-sha256WithRSAEncryption
-Dummy
-RSA 4096

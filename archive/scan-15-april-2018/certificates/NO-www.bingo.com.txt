@@ -1,5 +1,0 @@
-www.bingo.com
-HSTS
-sha256WithRSAEncryption
-Trustwave Holdings, Inc.
-RSA 2048

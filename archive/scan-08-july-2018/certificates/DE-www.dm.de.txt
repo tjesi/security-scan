@@ -1,5 +1,0 @@
-www.dm.de
-NO HSTS
-sha256WithRSAEncryption
-COMODO CA Limited
-RSA 4096

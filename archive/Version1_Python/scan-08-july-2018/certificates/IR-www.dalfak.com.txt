@@ -1,0 +1,3 @@
+www.dalfak.com
+NO HSTS
+sha256WithRSAEncryption

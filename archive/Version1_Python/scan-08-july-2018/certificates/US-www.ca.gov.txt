@@ -1,0 +1,5 @@
+www.ca.gov
+NO HSTS
+sha256WithRSAEncryption
+COMODO CA Limited
+RSA 2048

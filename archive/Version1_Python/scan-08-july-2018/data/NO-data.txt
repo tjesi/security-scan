@@ -1,0 +1,1704 @@
+www.google.no:NO HSTS
+www.youtube.com:HSTS
+www.facebook.com:HSTS
+www.google.com:NO HSTS
+www.reddit.com:NO HSTS
+www.vg.no:NO HSTS
+www.wikipedia.org:HSTS
+www.finn.no:HSTS
+www.nrk.no:HSTS
+www.twitch.tv:HSTS
+www.dagbladet.no:NO HSTS
+www.live.com:HSTS
+www.twitter.com:HSTS
+www.netflix.com:HSTS
+www.feide.no:NO HSTS
+www.tv2.no:NO HSTS
+www.imdb.com:HSTS
+www.imgur.com:NO HSTS
+www.itslearning.com:HSTS
+www.pornhub.com:NO HSTS
+www.instagram.com:HSTS
+www.aftenposten.no:NO HSTS
+www.dnb.no:HSTS
+www.yr.no:NO HSTS
+www.wikia.com:NO HSTS
+www.ebay.com:NO HSTS
+www.komplett.no:HSTS
+www.nettavisen.no:NO HSTS
+www.amazon.com:HSTS
+www.yahoo.com:HSTS
+www.vgtv.no:NO HSTS
+www.difi.no:HSTS
+www.tek.no:HSTS
+www.e24.no:NO HSTS
+www.ntnu.no:NO HSTS
+www.t.co:HSTS
+www.office.com:HSTS
+www.sparebank1.no:HSTS
+www.steamcommunity.com:HSTS
+www.dinside.no:NO HSTS
+www.nav.no:HSTS
+www.livejasmin.com:NO HSTS
+www.4chan.org:NO HSTS
+www.stackoverflow.com:HSTS
+www.microsoft.com:HSTS
+www.github.com:HSTS
+www.uio.no:HSTS
+www.blackboard.com:NO HSTS
+www.xvideos.com:HSTS
+www.9gag.com:HSTS
+www.bongacams.com:NO HSTS
+www.fronter.com:NO HSTS
+www.linkedin.com:HSTS
+www.discordapp.com:HSTS
+www.vglive.no:HSTS
+www.dn.no:HSTS
+www.adressa.no:NO HSTS
+www.prisjakt.no:NO HSTS
+www.tumblr.com:HSTS
+www.itavisen.no:NO HSTS
+www.elkjop.no:HSTS
+www.snl.no:HSTS
+www.vk.com:HSTS
+www.uib.no:NO HSTS
+www.gulesider.no:NO HSTS
+www.abcnyheter.no:NO HSTS
+www.xhamster.com:HSTS
+www.messenger.com:HSTS
+www.aliexpress.com:HSTS
+www.wowhead.com:NO HSTS
+www.norwegian.no:NO HSTS
+www.dropbox.com:HSTS
+www.blogg.no:NO HSTS
+www.1881.no:NO HSTS
+www.paypal.com:HSTS
+www.fbcdn.net:HSTS
+www.bing.com:HSTS
+www.hltv.org:NO HSTS
+www.wordpress.com:HSTS
+www.chaturbate.com:HSTS
+www.bt.no:NO HSTS
+www.coinmarketcap.com:NO HSTS
+www.spotify.com:HSTS
+www.apple.com:NO HSTS
+www.zalando.no:NO HSTS
+www.startsiden.no:NO HSTS
+www.xnxx.com:HSTS
+www.proff.no:NO HSTS
+www.ntd.tv:NO HSTS
+www.msn.com:NO HSTS
+www.gamer.no:HSTS
+www.telenor.no:HSTS
+www.pinterest.com:HSTS
+www.quora.com:HSTS
+www.steampowered.com:NO HSTS
+www.gamepedia.com:NO HSTS
+www.stackexchange.com:NO HSTS
+www.bbc.com:NO HSTS
+www.ikea.com:NO HSTS
+www.hbonordic.com:NO HSTS
+www.unibet.com:HSTS
+www.gyazo.com:HSTS
+www.vgd.no:NO HSTS
+www.battle.net:NO HSTS
+www.nordea.no:HSTS
+www.altinn.no:HSTS
+www.yandex.ru:NO HSTS
+www.vegvesen.no:NO HSTS
+www.ruter.no:HSTS
+www.instructure.com:NO HSTS
+www.fsweb.no:NO HSTS
+www.adobe.com:HSTS
+www.epicgames.com:NO HSTS
+www.theepochtimes.com:NO HSTS
+www.diskusjon.no:HSTS
+www.godt.no:NO HSTS
+www.sbanken.no:HSTS
+www.nextoptim.com:NO HSTS
+www.posten.no:HSTS
+www.genius.com:NO HSTS
+www.fbsbx.com:HSTS
+www.nsb.no:HSTS
+www.portalbank.no:HSTS
+www.sas.no:HSTS
+www.hegnar.no:NO HSTS
+www.icy-veins.com:NO HSTS
+www.udir.no:HSTS
+www.gamespot.com:NO HSTS
+www.ladbible.com:NO HSTS
+www.aftenbladet.no:NO HSTS
+www.theguardian.com:HSTS
+www.booking.com:HSTS
+www.txxx.com:NO HSTS
+www.vimeo.com:HSTS
+www.power.no:HSTS
+www.norsk-tipping.no:HSTS
+www.p3.no:NO HSTS
+www.getadblock.com:NO HSTS
+www.amazon.co.uk:HSTS
+www.minmote.no:NO HSTS
+www.crunchyroll.com:NO HSTS
+www.google.ru:NO HSTS
+www.kissanime.ru:NO HSTS
+www.tripadvisor.com:NO HSTS
+www.roblox.com:NO HSTS
+www.leagueoflegends.com:NO HSTS
+www.clasohlson.com:NO HSTS
+www.seher.no:NO HSTS
+www.slack.com:HSTS
+www.skatteetaten.no:HSTS
+www.dplay.no:NO HSTS
+www.op.gg:NO HSTS
+www.futhead.com:NO HSTS
+www.sol.no:NO HSTS
+www.ba.no:NO HSTS
+www.tu.no:HSTS
+www.bi.no:NO HSTS
+www.cappelendamm.no:NO HSTS
+www.ultimate-guitar.com:NO HSTS
+www.get.no:NO HSTS
+www.brreg.no:NO HSTS
+www.patreon.com:HSTS
+www.lovdata.no:NO HSTS
+www.prisguiden.no:NO HSTS
+www.w3schools.com:NO HSTS
+www.mail.ru:HSTS
+www.myanimelist.net:HSTS
+www.ndla.no:NO HSTS
+www.dt.no:NO HSTS
+www.mozilla.org:NO HSTS
+www.dagsavisen.no:NO HSTS
+www.nordnet.no:NO HSTS
+www.worldofwarcraft.com:NO HSTS
+www.liverpool.no:NO HSTS
+www.mobafire.com:NO HSTS
+www.pathofexile.com:NO HSTS
+www.fvn.no:NO HSTS
+www.at.no:NO HSTS
+www.ign.com:NO HSTS
+www.redtube.com:NO HSTS
+www.lanekassen.no:NO HSTS
+www.filmweb.no:NO HSTS
+www.digi.no:HSTS
+www.ok.ru:HSTS
+www.altibox.no:HSTS
+www.ebay.co.uk:NO HSTS
+www.coop.no:NO HSTS
+www.rumble.com:HSTS
+www.youporn.com:NO HSTS
+www.primevideo.com:NO HSTS
+www.urbandictionary.com:NO HSTS
+www.timeedit.net:NO HSTS
+www.ticketmaster.no:HSTS
+www.uit.no:HSTS
+www.an.no:NO HSTS
+www.nordlys.no:NO HSTS
+www.runescape.com:NO HSTS
+www.hclips.com:HSTS
+www.popads.net:HSTS
+www.nfkino.no:NO HSTS
+www.one.com:HSTS
+www.telia.no:NO HSTS
+www.futbin.com:NO HSTS
+www.wish.com:NO HSTS
+www.warcraftlogs.com:HSTS
+www.mmo-champion.com:NO HSTS
+www.googleusercontent.com:NO HSTS
+www.samordnaopptak.no:HSTS
+www.skolearena.no:NO HSTS
+www.helsenorge.no:HSTS
+www.spv.no:HSTS
+www.cnn.com:NO HSTS
+www.google.lt:NO HSTS
+www.nih.gov:HSTS
+www.medium.com:HSTS
+www.kk.no:NO HSTS
+www.trello.com:HSTS
+www.vinmonopolet.no:HSTS
+www.vsco.co:NO HSTS
+www.hotels.com:HSTS
+www.netonnet.no:NO HSTS
+www.usn.no:NO HSTS
+www.nets.eu:NO HSTS
+www.iptorrents.com:NO HSTS
+www.webcruiter.com:NO HSTS
+www.faceit.com:NO HSTS
+www.utdanning.no:NO HSTS
+www.united.no:NO HSTS
+www.spankbang.com:HSTS
+www.bbc.co.uk:NO HSTS
+www.sportbible.com:NO HSTS
+www.ung.no:HSTS
+www.visma.com:NO HSTS
+www.uia.no:NO HSTS
+www.airbnb.no:HSTS
+www.reallifecam.com:NO HSTS
+www.probuilds.net:NO HSTS
+www.plex.tv:NO HSTS
+www.liquipedia.net:NO HSTS
+www.wiktionary.org:HSTS
+www.duckduckgo.com:HSTS
+www.funnyjunk.com:HSTS
+www.cnet.com:HSTS
+www.resett.no:HSTS
+www.jula.no:HSTS
+www.regjeringen.no:NO HSTS
+www.canaldigital.no:NO HSTS
+www.nytimes.com:NO HSTS
+www.pcgamer.com:NO HSTS
+www.hm.com:NO HSTS
+www.buzzfeed.com:HSTS
+www.gjensidige.no:NO HSTS
+www.synonymordboka.no:NO HSTS
+www.digipost.no:HSTS
+www.upornia.com:NO HSTS
+www.forbes.com:NO HSTS
+www.chess.com:HSTS
+www.hioa.no:NO HSTS
+www.wikihow.com:HSTS
+www.yts.am:HSTS
+www.tb.no:NO HSTS
+www.oslo.kommune.no:NO HSTS
+www.goodreads.com:NO HSTS
+www.playstation.com:HSTS
+www.banknorwegian.no:HSTS
+www.momondo.no:NO HSTS
+www.fiken.no:HSTS
+www.nelly.com:NO HSTS
+www.evry.com:NO HSTS
+www.rb.no:NO HSTS
+www.dailymotion.com:HSTS
+www.ssb.no:NO HSTS
+www.exlibrisgroup.com:NO HSTS
+www.vice.com:HSTS
+www.etsy.com:HSTS
+www.kickstarter.com:HSTS
+www.hicpm10.com:NO HSTS
+www.theverge.com:NO HSTS
+www.oracle.com:NO HSTS
+www.streamable.com:HSTS
+www.norskkalender.no:NO HSTS
+www.betsson.com:NO HSTS
+www.freak.no:NO HSTS
+www.giphy.com:NO HSTS
+www.wikimedia.org:HSTS
+www.office365.com:NO HSTS
+www.thesaurus.com:NO HSTS
+www.myfreecams.com:NO HSTS
+www.h-avis.no:NO HSTS
+www.coinbase.com:HSTS
+www.solarmoviez.ru:NO HSTS
+www.smp.no:NO HSTS
+www.binance.com:HSTS
+www.tomshardware.co.uk:NO HSTS
+www.siteadvisor.com:HSTS
+www.pent.no:NO HSTS
+www.itromso.no:NO HSTS
+www.discogs.com:HSTS
+www.lokus.no:NO HSTS
+www.ask.com:NO HSTS
+www.uis.no:NO HSTS
+www.sharelatex.com:HSTS
+www.vvskupp.no:NO HSTS
+www.asos.com:NO HSTS
+www.eurosportplayer.com:NO HSTS
+www.seaofthieves.com:NO HSTS
+www.avinor.no:NO HSTS
+www.rottentomatoes.com:NO HSTS
+www.archive.org:NO HSTS
+www.atlassian.net:HSTS
+www.zendesk.com:HSTS
+www.danskebank.no:HSTS
+www.sourceforge.net:HSTS
+www.180.no:NO HSTS
+www.fjellsport.no:NO HSTS
+www.asus.com:NO HSTS
+www.thefreedictionary.com:NO HSTS
+www.streamlabs.com:NO HSTS
+www.motherless.com:NO HSTS
+www.platekompaniet.no:HSTS
+www.document.no:HSTS
+www.tradingview.com:NO HSTS
+www.icloud.com:HSTS
+www.eliteserien.no:NO HSTS
+www.budstikka.no:NO HSTS
+www.mega.nz:HSTS
+www.lichess.org:HSTS
+www.online.no:HSTS
+www.atb.no:NO HSTS
+www.nexusmods.com:NO HSTS
+www.torrentday.com:NO HSTS
+www.eztv.ag:HSTS
+www.issuu.com:NO HSTS
+www.adlibris.com:NO HSTS
+www.researchgate.net:HSTS
+www.timeanddate.no:NO HSTS
+www.flickr.com:HSTS
+www.plays.tv:NO HSTS
+www.yourporn.sexy:NO HSTS
+www.telegraph.co.uk:NO HSTS
+www.g2a.com:HSTS
+www.visma.net:NO HSTS
+www.nakenprat.com:NO HSTS
+www.espn.com:NO HSTS
+www.onlinevideoconverter.com:NO HSTS
+www.domeneshop.no:HSTS
+www.wowprogress.com:HSTS
+www.bodybuilding.com:NO HSTS
+www.banggood.com:NO HSTS
+www.politiet.no:HSTS
+www.hdzog.com:NO HSTS
+www.businessinsider.com:NO HSTS
+www.hiof.no:HSTS
+www.lommelegen.no:NO HSTS
+www.kongregate.com:NO HSTS
+www.timeanddate.com:NO HSTS
+www.tradedoubler.com:NO HSTS
+www.delfi.lv:NO HSTS
+www.junkyard.no:NO HSTS
+www.ea.com:NO HSTS
+www.pastebin.com:NO HSTS
+www.google.se:NO HSTS
+www.exoclick.com:NO HSTS
+www.webcruiter.no:NO HSTS
+www.rarbg.to:HSTS
+www.brazzers.com:NO HSTS
+www.travellink.no:HSTS
+www.sit.no:NO HSTS
+www.google.pl:NO HSTS
+www.klarna.com:NO HSTS
+www.alibaba.com:HSTS
+www.knowyourmeme.com:NO HSTS
+www.tine.no:NO HSTS
+www.volafile.org:HSTS
+www.lolesports.com:NO HSTS
+www.storm.no:NO HSTS
+www.rt.com:NO HSTS
+www.gsport.no:NO HSTS
+www.ppy.sh:HSTS
+www.gymgrossisten.no:NO HSTS
+www.jysk.no:NO HSTS
+www.ice.no:NO HSTS
+www.torrentleech.org:NO HSTS
+www.kolonial.no:HSTS
+www.howtogeek.com:HSTS
+www.savefrom.net:NO HSTS
+www.bibsys.no:NO HSTS
+www.postnord.no:NO HSTS
+www.mangareader.net:NO HSTS
+www.fotball.no:NO HSTS
+www.rbnett.no:NO HSTS
+www.livejournal.com:NO HSTS
+www.independent.co.uk:NO HSTS
+www.sciencedirect.com:NO HSTS
+www.mediafire.com:HSTS
+www.skyss.no:NO HSTS
+www.felleskatalogen.no:HSTS
+www.liveleak.com:NO HSTS
+www.hearthpwn.com:NO HSTS
+www.superuser.com:HSTS
+www.wetransfer.com:HSTS
+www.doublepimpssl.com:NO HSTS
+www.sedenne.no:NO HSTS
+www.openload.co:NO HSTS
+www.xe.com:NO HSTS
+www.raider.io:HSTS
+www.never.no:NO HSTS
+www.studienett.no:NO HSTS
+www.realescort.eu:NO HSTS
+www.washingtonpost.com:HSTS
+www.lifewire.com:HSTS
+www.vaf.no:NO HSTS
+www.whatsapp.com:HSTS
+www.curseforge.com:HSTS
+www.bandcamp.com:NO HSTS
+www.noroff.no:NO HSTS
+www.gaysir.no:NO HSTS
+www.diablofans.com:NO HSTS
+www.caasimada.net:NO HSTS
+www.kotaku.com:HSTS
+www.blogspot.com:NO HSTS
+www.fextralife.com:NO HSTS
+www.komplettid.com:NO HSTS
+www.ta.no:NO HSTS
+www.kissmanga.com:NO HSTS
+
+www.google.no:sha256WithRSAEncryption
+www.youtube.com:sha256WithRSAEncryption
+www.facebook.com:sha256WithRSAEncryption
+www.google.com:sha256WithRSAEncryption
+www.reddit.com:sha256WithRSAEncryption
+www.vg.no:sha256WithRSAEncryption
+www.wikipedia.org:sha256WithRSAEncryption
+www.finn.no:sha256WithRSAEncryption
+www.nrk.no:ecdsa-with-SHA256
+www.twitch.tv:sha256WithRSAEncryption
+www.dagbladet.no:sha256WithRSAEncryption
+www.live.com:sha256WithRSAEncryption
+www.twitter.com:sha256WithRSAEncryption
+www.netflix.com:sha256WithRSAEncryption
+www.feide.no:sha256WithRSAEncryption
+www.tv2.no:sha256WithRSAEncryption
+www.imdb.com:sha256WithRSAEncryption
+www.imgur.com:sha256WithRSAEncryption
+www.itslearning.com:sha256WithRSAEncryption
+www.pornhub.com:sha256WithRSAEncryption
+www.instagram.com:sha256WithRSAEncryption
+www.aftenposten.no:sha256WithRSAEncryption
+www.dnb.no:sha256WithRSAEncryption
+www.yr.no:sha256WithRSAEncryption
+www.wikia.com:sha256WithRSAEncryption
+www.ebay.com:sha256WithRSAEncryption
+www.komplett.no:sha256WithRSAEncryption
+www.nettavisen.no:sha256WithRSAEncryption
+www.amazon.com:sha256WithRSAEncryption
+www.yahoo.com:sha256WithRSAEncryption
+www.vgtv.no:sha256WithRSAEncryption
+www.difi.no:sha256WithRSAEncryption
+www.tek.no:sha256WithRSAEncryption
+www.e24.no:sha256WithRSAEncryption
+www.ntnu.no:sha256WithRSAEncryption
+www.t.co:sha256WithRSAEncryption
+www.office.com:sha256WithRSAEncryption
+www.sparebank1.no:sha256WithRSAEncryption
+www.steamcommunity.com:sha256WithRSAEncryption
+www.dinside.no:sha256WithRSAEncryption
+www.nav.no:sha256WithRSAEncryption
+www.livejasmin.com:sha256WithRSAEncryption
+www.4chan.org:ecdsa-with-SHA256
+www.stackoverflow.com:sha256WithRSAEncryption
+www.microsoft.com:sha256WithRSAEncryption
+www.github.com:sha256WithRSAEncryption
+www.uio.no:sha256WithRSAEncryption
+www.blackboard.com:sha256WithRSAEncryption
+www.xvideos.com:sha256WithRSAEncryption
+www.9gag.com:sha256WithRSAEncryption
+www.bongacams.com:sha256WithRSAEncryption
+www.fronter.com:ecdsa-with-SHA256
+www.linkedin.com:sha256WithRSAEncryption
+www.discordapp.com:sha256WithRSAEncryption
+www.vglive.no:sha256WithRSAEncryption
+www.dn.no:sha256WithRSAEncryption
+www.adressa.no:sha256WithRSAEncryption
+www.prisjakt.no:sha256WithRSAEncryption
+www.tumblr.com:sha256WithRSAEncryption
+www.itavisen.no:ecdsa-with-SHA256
+www.elkjop.no:sha256WithRSAEncryption
+www.snl.no:sha256WithRSAEncryption
+www.vk.com:sha256WithRSAEncryption
+www.uib.no:sha256WithRSAEncryption
+www.gulesider.no:sha256WithRSAEncryption
+www.abcnyheter.no:sha256WithRSAEncryption
+www.xhamster.com:sha256WithRSAEncryption
+www.messenger.com:sha256WithRSAEncryption
+www.aliexpress.com:ecdsa-with-SHA256
+www.wowhead.com:sha256WithRSAEncryption
+www.norwegian.no:sha256WithRSAEncryption
+www.dropbox.com:sha256WithRSAEncryption
+www.blogg.no:sha256WithRSAEncryption
+www.1881.no:sha256WithRSAEncryption
+www.paypal.com:sha256WithRSAEncryption
+www.fbcdn.net:sha256WithRSAEncryption
+www.bing.com:sha256WithRSAEncryption
+www.hltv.org:ecdsa-with-SHA256
+www.wordpress.com:sha256WithRSAEncryption
+www.chaturbate.com:ecdsa-with-SHA256
+www.bt.no:sha256WithRSAEncryption
+www.coinmarketcap.com:ecdsa-with-SHA256
+www.spotify.com:sha256WithRSAEncryption
+www.apple.com:sha256WithRSAEncryption
+www.zalando.no:sha256WithRSAEncryption
+www.startsiden.no:sha256WithRSAEncryption
+www.xnxx.com:sha256WithRSAEncryption
+www.proff.no:sha256WithRSAEncryption
+www.ntd.tv:sha256WithRSAEncryption
+www.msn.com:sha256WithRSAEncryption
+www.gamer.no:sha256WithRSAEncryption
+www.telenor.no:sha256WithRSAEncryption
+www.pinterest.com:sha256WithRSAEncryption
+www.quora.com:sha256WithRSAEncryption
+www.steampowered.com:sha256WithRSAEncryption
+www.gamepedia.com:ecdsa-with-SHA256
+www.stackexchange.com:sha256WithRSAEncryption
+www.bbc.com:sha256WithRSAEncryption
+www.ikea.com:sha256WithRSAEncryption
+www.hbonordic.com:sha256WithRSAEncryption
+www.unibet.com:sha256WithRSAEncryption
+www.gyazo.com:sha256WithRSAEncryption
+www.vgd.no:sha256WithRSAEncryption
+www.battle.net:sha256WithRSAEncryption
+www.nordea.no:ecdsa-with-SHA256
+www.altinn.no:sha256WithRSAEncryption
+www.yandex.ru:sha256WithRSAEncryption
+www.vegvesen.no:sha256WithRSAEncryption
+www.ruter.no:sha256WithRSAEncryption
+www.instructure.com:sha256WithRSAEncryption
+www.fsweb.no:sha256WithRSAEncryption
+www.adobe.com:sha256WithRSAEncryption
+www.epicgames.com:sha256WithRSAEncryption
+www.theepochtimes.com:ecdsa-with-SHA256
+www.diskusjon.no:sha256WithRSAEncryption
+www.godt.no:sha256WithRSAEncryption
+www.sbanken.no:sha256WithRSAEncryption
+www.nextoptim.com:sha256WithRSAEncryption
+www.posten.no:sha256WithRSAEncryption
+www.genius.com:ecdsa-with-SHA256
+www.fbsbx.com:sha256WithRSAEncryption
+www.nsb.no:sha256WithRSAEncryption
+www.portalbank.no:sha256WithRSAEncryption
+www.sas.no:sha256WithRSAEncryption
+www.hegnar.no:sha256WithRSAEncryption
+www.icy-veins.com:sha256WithRSAEncryption
+www.udir.no:sha256WithRSAEncryption
+www.gamespot.com:sha256WithRSAEncryption
+www.ladbible.com:ecdsa-with-SHA256
+www.aftenbladet.no:sha256WithRSAEncryption
+www.theguardian.com:sha256WithRSAEncryption
+www.booking.com:sha256WithRSAEncryption
+www.txxx.com:ecdsa-with-SHA256
+www.vimeo.com:sha256WithRSAEncryption
+www.power.no:sha256WithRSAEncryption
+www.norsk-tipping.no:sha256WithRSAEncryption
+www.p3.no:sha256WithRSAEncryption
+www.getadblock.com:sha256WithRSAEncryption
+www.amazon.co.uk:sha256WithRSAEncryption
+www.minmote.no:sha256WithRSAEncryption
+www.crunchyroll.com:sha256WithRSAEncryption
+www.google.ru:sha256WithRSAEncryption
+www.kissanime.ru:ecdsa-with-SHA256
+www.tripadvisor.com:sha256WithRSAEncryption
+www.roblox.com:sha256WithRSAEncryption
+www.leagueoflegends.com:sha256WithRSAEncryption
+www.clasohlson.com:sha256WithRSAEncryption
+www.seher.no:sha256WithRSAEncryption
+www.slack.com:sha256WithRSAEncryption
+www.skatteetaten.no:sha256WithRSAEncryption
+www.dplay.no:sha256WithRSAEncryption
+www.op.gg:sha256WithRSAEncryption
+www.futhead.com:ecdsa-with-SHA256
+www.sol.no:ecdsa-with-SHA256
+www.ba.no:sha256WithRSAEncryption
+www.tu.no:sha256WithRSAEncryption
+www.bi.no:sha256WithRSAEncryption
+www.cappelendamm.no:sha256WithRSAEncryption
+www.ultimate-guitar.com:sha256WithRSAEncryption
+www.get.no:sha256WithRSAEncryption
+www.brreg.no:sha256WithRSAEncryption
+www.patreon.com:sha256WithRSAEncryption
+www.lovdata.no:sha256WithRSAEncryption
+www.prisguiden.no:sha256WithRSAEncryption
+www.w3schools.com:sha256WithRSAEncryption
+www.mail.ru:sha256WithRSAEncryption
+www.myanimelist.net:sha256WithRSAEncryption
+www.ndla.no:sha256WithRSAEncryption
+www.dt.no:sha256WithRSAEncryption
+www.mozilla.org:sha256WithRSAEncryption
+www.dagsavisen.no:sha256WithRSAEncryption
+www.nordnet.no:sha256WithRSAEncryption
+www.worldofwarcraft.com:sha256WithRSAEncryption
+www.liverpool.no:ecdsa-with-SHA256
+www.mobafire.com:ecdsa-with-SHA256
+www.pathofexile.com:sha256WithRSAEncryption
+www.fvn.no:sha256WithRSAEncryption
+www.at.no:sha256WithRSAEncryption
+www.ign.com:sha256WithRSAEncryption
+www.redtube.com:sha256WithRSAEncryption
+www.lanekassen.no:sha256WithRSAEncryption
+www.filmweb.no:sha256WithRSAEncryption
+www.digi.no:sha256WithRSAEncryption
+www.ok.ru:sha256WithRSAEncryption
+www.altibox.no:sha256WithRSAEncryption
+www.ebay.co.uk:sha256WithRSAEncryption
+www.coop.no:sha256WithRSAEncryption
+www.rumble.com:sha256WithRSAEncryption
+www.youporn.com:sha256WithRSAEncryption
+www.primevideo.com:sha256WithRSAEncryption
+www.urbandictionary.com:sha256WithRSAEncryption
+www.timeedit.net:sha256WithRSAEncryption
+www.ticketmaster.no:sha256WithRSAEncryption
+www.uit.no:sha256WithRSAEncryption
+www.an.no:sha256WithRSAEncryption
+www.nordlys.no:sha256WithRSAEncryption
+www.runescape.com:sha256WithRSAEncryption
+www.hclips.com:ecdsa-with-SHA256
+www.popads.net:sha256WithRSAEncryption
+www.nfkino.no:sha256WithRSAEncryption
+www.one.com:sha256WithRSAEncryption
+www.telia.no:sha256WithRSAEncryption
+www.futbin.com:ecdsa-with-SHA256
+www.wish.com:sha256WithRSAEncryption
+www.warcraftlogs.com:sha256WithRSAEncryption
+www.mmo-champion.com:ecdsa-with-SHA256
+www.googleusercontent.com:sha256WithRSAEncryption
+www.samordnaopptak.no:sha256WithRSAEncryption
+www.skolearena.no:sha256WithRSAEncryption
+www.helsenorge.no:sha256WithRSAEncryption
+www.spv.no:sha256WithRSAEncryption
+www.cnn.com:sha256WithRSAEncryption
+www.google.lt:sha256WithRSAEncryption
+www.nih.gov:sha256WithRSAEncryption
+www.medium.com:sha256WithRSAEncryption
+www.kk.no:sha256WithRSAEncryption
+www.trello.com:sha256WithRSAEncryption
+www.vinmonopolet.no:sha256WithRSAEncryption
+www.vsco.co:sha256WithRSAEncryption
+www.hotels.com:ecdsa-with-SHA256
+www.netonnet.no:sha256WithRSAEncryption
+www.usn.no:sha256WithRSAEncryption
+www.nets.eu:sha256WithRSAEncryption
+www.iptorrents.com:ecdsa-with-SHA256
+www.webcruiter.com:sha256WithRSAEncryption
+www.faceit.com:sha256WithRSAEncryption
+www.utdanning.no:sha256WithRSAEncryption
+www.united.no:sha256WithRSAEncryption
+www.spankbang.com:sha256WithRSAEncryption
+www.bbc.co.uk:sha256WithRSAEncryption
+www.sportbible.com:ecdsa-with-SHA256
+www.ung.no:sha256WithRSAEncryption
+www.visma.com:sha256WithRSAEncryption
+www.uia.no:sha256WithRSAEncryption
+www.airbnb.no:sha256WithRSAEncryption
+www.reallifecam.com:sha256WithRSAEncryption
+www.probuilds.net:ecdsa-with-SHA256
+www.plex.tv:sha256WithRSAEncryption
+www.liquipedia.net:sha256WithRSAEncryption
+www.wiktionary.org:sha256WithRSAEncryption
+www.duckduckgo.com:sha256WithRSAEncryption
+www.funnyjunk.com:sha256WithRSAEncryption
+www.cnet.com:sha256WithRSAEncryption
+www.resett.no:ecdsa-with-SHA256
+www.jula.no:sha256WithRSAEncryption
+www.regjeringen.no:sha256WithRSAEncryption
+www.canaldigital.no:sha256WithRSAEncryption
+www.nytimes.com:sha256WithRSAEncryption
+www.pcgamer.com:sha256WithRSAEncryption
+www.hm.com:ecdsa-with-SHA256
+www.buzzfeed.com:sha256WithRSAEncryption
+www.gjensidige.no:sha256WithRSAEncryption
+www.synonymordboka.no:sha256WithRSAEncryption
+www.digipost.no:sha256WithRSAEncryption
+www.upornia.com:ecdsa-with-SHA256
+www.forbes.com:sha256WithRSAEncryption
+www.chess.com:ecdsa-with-SHA256
+www.hioa.no:sha256WithRSAEncryption
+www.wikihow.com:sha256WithRSAEncryption
+www.yts.am:ecdsa-with-SHA256
+www.tb.no:sha256WithRSAEncryption
+www.oslo.kommune.no:sha256WithRSAEncryption
+www.goodreads.com:sha256WithRSAEncryption
+www.playstation.com:sha256WithRSAEncryption
+www.banknorwegian.no:sha256WithRSAEncryption
+www.momondo.no:sha256WithRSAEncryption
+www.fiken.no:sha256WithRSAEncryption
+www.nelly.com:sha256WithRSAEncryption
+www.evry.com:sha256WithRSAEncryption
+www.rb.no:sha256WithRSAEncryption
+www.dailymotion.com:sha256WithRSAEncryption
+www.ssb.no:sha256WithRSAEncryption
+www.exlibrisgroup.com:sha256WithRSAEncryption
+www.vice.com:sha256WithRSAEncryption
+www.etsy.com:sha256WithRSAEncryption
+www.kickstarter.com:sha256WithRSAEncryption
+www.hicpm10.com:sha256WithRSAEncryption
+www.theverge.com:sha256WithRSAEncryption
+www.oracle.com:ecdsa-with-SHA256
+www.streamable.com:sha256WithRSAEncryption
+www.norskkalender.no:sha256WithRSAEncryption
+www.betsson.com:sha256WithRSAEncryption
+www.freak.no:ecdsa-with-SHA256
+www.giphy.com:sha256WithRSAEncryption
+www.wikimedia.org:sha256WithRSAEncryption
+www.office365.com:sha256WithRSAEncryption
+www.thesaurus.com:ecdsa-with-SHA256
+www.myfreecams.com:sha256WithRSAEncryption
+www.h-avis.no:sha256WithRSAEncryption
+www.coinbase.com:sha256WithRSAEncryption
+www.solarmoviez.ru:ecdsa-with-SHA256
+www.smp.no:sha256WithRSAEncryption
+www.binance.com:sha256WithRSAEncryption
+www.tomshardware.co.uk:ecdsa-with-SHA256
+www.siteadvisor.com:sha256WithRSAEncryption
+www.pent.no:sha256WithRSAEncryption
+www.itromso.no:sha256WithRSAEncryption
+www.discogs.com:sha256WithRSAEncryption
+www.lokus.no:sha256WithRSAEncryption
+www.ask.com:ecdsa-with-SHA256
+www.uis.no:sha256WithRSAEncryption
+www.sharelatex.com:sha256WithRSAEncryption
+www.vvskupp.no:sha256WithRSAEncryption
+www.asos.com:sha256WithRSAEncryption
+www.eurosportplayer.com:sha256WithRSAEncryption
+www.seaofthieves.com:sha256WithRSAEncryption
+www.avinor.no:sha256WithRSAEncryption
+www.rottentomatoes.com:sha256WithRSAEncryption
+www.archive.org:sha256WithRSAEncryption
+www.atlassian.net:sha256WithRSAEncryption
+www.zendesk.com:sha256WithRSAEncryption
+www.danskebank.no:sha256WithRSAEncryption
+www.sourceforge.net:sha256WithRSAEncryption
+www.180.no:sha256WithRSAEncryption
+www.fjellsport.no:sha256WithRSAEncryption
+www.asus.com:ecdsa-with-SHA256
+www.thefreedictionary.com:sha256WithRSAEncryption
+www.streamlabs.com:ecdsa-with-SHA256
+www.motherless.com:sha256WithRSAEncryption
+www.platekompaniet.no:sha256WithRSAEncryption
+www.document.no:sha256WithRSAEncryption
+www.tradingview.com:sha256WithRSAEncryption
+www.icloud.com:sha256WithRSAEncryption
+www.eliteserien.no:sha256WithRSAEncryption
+www.budstikka.no:sha256WithRSAEncryption
+www.mega.nz:sha256WithRSAEncryption
+www.lichess.org:sha256WithRSAEncryption
+www.online.no:sha256WithRSAEncryption
+www.atb.no:sha256WithRSAEncryption
+www.nexusmods.com:ecdsa-with-SHA256
+www.torrentday.com:ecdsa-with-SHA256
+www.eztv.ag:ecdsa-with-SHA256
+www.issuu.com:sha256WithRSAEncryption
+www.adlibris.com:ecdsa-with-SHA256
+www.researchgate.net:sha256WithRSAEncryption
+www.timeanddate.no:sha256WithRSAEncryption
+www.flickr.com:sha256WithRSAEncryption
+www.plays.tv:ecdsa-with-SHA256
+www.yourporn.sexy:sha256WithRSAEncryption
+www.telegraph.co.uk:ecdsa-with-SHA256
+www.g2a.com:sha256WithRSAEncryption
+www.visma.net:sha256WithRSAEncryption
+www.nakenprat.com:sha256WithRSAEncryption
+www.espn.com:sha256WithRSAEncryption
+www.onlinevideoconverter.com:sha256WithRSAEncryption
+www.domeneshop.no:sha256WithRSAEncryption
+www.wowprogress.com:sha256WithRSAEncryption
+www.bodybuilding.com:sha256WithRSAEncryption
+www.banggood.com:sha256WithRSAEncryption
+www.politiet.no:sha256WithRSAEncryption
+www.hdzog.com:ecdsa-with-SHA256
+www.businessinsider.com:sha256WithRSAEncryption
+www.hiof.no:sha256WithRSAEncryption
+www.lommelegen.no:sha256WithRSAEncryption
+www.kongregate.com:sha256WithRSAEncryption
+www.timeanddate.com:sha256WithRSAEncryption
+www.tradedoubler.com:ecdsa-with-SHA256
+www.delfi.lv:sha256WithRSAEncryption
+www.junkyard.no:sha256WithRSAEncryption
+www.ea.com:sha256WithRSAEncryption
+www.pastebin.com:ecdsa-with-SHA256
+www.google.se:sha256WithRSAEncryption
+www.exoclick.com:sha256WithRSAEncryption
+www.webcruiter.no:sha256WithRSAEncryption
+www.rarbg.to:sha256WithRSAEncryption
+www.brazzers.com:sha256WithRSAEncryption
+www.travellink.no:ecdsa-with-SHA256
+www.sit.no:sha256WithRSAEncryption
+www.google.pl:sha256WithRSAEncryption
+www.klarna.com:sha256WithRSAEncryption
+www.alibaba.com:sha256WithRSAEncryption
+www.knowyourmeme.com:sha256WithRSAEncryption
+www.tine.no:sha256WithRSAEncryption
+www.volafile.org:sha256WithRSAEncryption
+www.lolesports.com:ecdsa-with-SHA256
+www.storm.no:sha256WithRSAEncryption
+www.rt.com:sha256WithRSAEncryption
+www.gsport.no:sha256WithRSAEncryption
+www.ppy.sh:sha256WithRSAEncryption
+www.gymgrossisten.no:sha256WithRSAEncryption
+www.jysk.no:sha256WithRSAEncryption
+www.ice.no:sha256WithRSAEncryption
+www.torrentleech.org:sha256WithRSAEncryption
+www.kolonial.no:sha256WithRSAEncryption
+www.howtogeek.com:sha256WithRSAEncryption
+www.savefrom.net:sha256WithRSAEncryption
+www.bibsys.no:sha384WithRSAEncryption
+www.postnord.no:sha256WithRSAEncryption
+www.mangareader.net:ecdsa-with-SHA256
+www.fotball.no:sha256WithRSAEncryption
+www.rbnett.no:sha256WithRSAEncryption
+www.livejournal.com:sha256WithRSAEncryption
+www.independent.co.uk:sha256WithRSAEncryption
+www.sciencedirect.com:sha256WithRSAEncryption
+www.mediafire.com:sha256WithRSAEncryption
+www.skyss.no:sha256WithRSAEncryption
+www.felleskatalogen.no:sha256WithRSAEncryption
+www.liveleak.com:sha256WithRSAEncryption
+www.hearthpwn.com:ecdsa-with-SHA256
+www.superuser.com:sha256WithRSAEncryption
+www.wetransfer.com:sha256WithRSAEncryption
+www.doublepimpssl.com:ecdsa-with-SHA256
+www.sedenne.no:sha256WithRSAEncryption
+www.openload.co:ecdsa-with-SHA256
+www.xe.com:sha256WithRSAEncryption
+www.raider.io:ecdsa-with-SHA256
+www.never.no:ecdsa-with-SHA256
+www.studienett.no:ecdsa-with-SHA256
+www.realescort.eu:ecdsa-with-SHA256
+www.washingtonpost.com:sha256WithRSAEncryption
+www.lifewire.com:sha256WithRSAEncryption
+www.vaf.no:sha256WithRSAEncryption
+www.whatsapp.com:sha256WithRSAEncryption
+www.curseforge.com:ecdsa-with-SHA256
+www.bandcamp.com:sha256WithRSAEncryption
+www.noroff.no:sha256WithRSAEncryption
+www.gaysir.no:sha256WithRSAEncryption
+www.diablofans.com:ecdsa-with-SHA256
+www.caasimada.net:sha256WithRSAEncryption
+www.kotaku.com:sha256WithRSAEncryption
+www.blogspot.com:sha256WithRSAEncryption
+www.fextralife.com:ecdsa-with-SHA256
+www.komplettid.com:sha256WithRSAEncryption
+www.ta.no:sha256WithRSAEncryption
+www.kissmanga.com:ecdsa-with-SHA256
+
+www.google.no:Google Trust Services
+www.youtube.com:Google Trust Services
+www.facebook.com:DigiCert Inc
+www.google.com:Google Trust Services
+www.reddit.com:DigiCert Inc
+www.vg.no:DigiCert Inc
+www.wikipedia.org:DigiCert Inc
+www.finn.no:Let's Encrypt
+www.nrk.no:DigiCert Inc
+www.twitch.tv:GlobalSign nv-sa
+www.dagbladet.no:Let's Encrypt
+www.live.com:GlobalSign nv-sa
+www.twitter.com:DigiCert Inc
+www.netflix.com:DigiCert Inc
+www.feide.no:TERENA
+www.tv2.no:Buypass AS-983163327
+www.imdb.com:Amazon
+www.imgur.com:DigiCert Inc
+www.itslearning.com:COMODO CA Limited
+www.pornhub.com:DigiCert Inc
+www.instagram.com:DigiCert Inc
+www.aftenposten.no:Let's Encrypt
+www.dnb.no:DigiCert Inc
+www.yr.no:DigiCert Inc
+www.wikia.com:GlobalSign nv-sa
+www.ebay.com:DigiCert Inc
+www.komplett.no:DigiCert Inc
+www.nettavisen.no:GeoTrust Inc.
+www.amazon.com:DigiCert Inc
+www.yahoo.com:DigiCert Inc
+www.vgtv.no:Let's Encrypt
+www.difi.no:COMODO CA Limited
+www.tek.no:Let's Encrypt
+www.e24.no:Let's Encrypt
+www.ntnu.no:TERENA
+www.t.co:DigiCert Inc
+www.office.com:Microsoft Corporation
+www.sparebank1.no:DigiCert Inc
+www.steamcommunity.com:Let's Encrypt
+www.dinside.no:Let's Encrypt
+www.nav.no:Buypass AS-983163327
+www.livejasmin.com:COMODO CA Limited
+www.4chan.org:COMODO CA Limited
+www.stackoverflow.com:DigiCert Inc
+www.microsoft.com:Microsoft Corporation
+www.github.com:DigiCert Inc
+www.uio.no:TERENA
+www.blackboard.com:DigiCert Inc
+www.xvideos.com:DigiCert Inc
+www.9gag.com:GlobalSign nv-sa
+www.bongacams.com:COMODO CA Limited
+www.fronter.com:COMODO CA Limited
+www.linkedin.com:DigiCert Inc
+www.discordapp.com:COMODO CA Limited
+www.vglive.no:Let's Encrypt
+www.dn.no:DigiCert Inc
+www.adressa.no:COMODO CA Limited
+www.prisjakt.no:DigiCert Inc
+www.tumblr.com:DigiCert Inc
+www.itavisen.no:COMODO CA Limited
+www.elkjop.no:DigiCert Inc
+www.snl.no:Let's Encrypt
+www.vk.com:GlobalSign nv-sa
+www.uib.no:TERENA
+www.gulesider.no:Corporation Service Company
+www.abcnyheter.no:Let's Encrypt
+www.xhamster.com:COMODO CA Limited
+www.messenger.com:DigiCert Inc
+www.aliexpress.com:DigiCert Inc
+www.wowhead.com:GlobalSign nv-sa
+www.norwegian.no:DigiCert Inc
+www.dropbox.com:DigiCert Inc
+www.blogg.no:DigiCert Inc
+www.1881.no:GoDaddy.com, Inc.
+www.paypal.com:Symantec Corporation
+www.fbcdn.net:DigiCert Inc
+www.bing.com:Microsoft Corporation
+www.hltv.org:COMODO CA Limited
+www.wordpress.com:GoDaddy.com, Inc.
+www.chaturbate.com:DigiCert Inc
+www.bt.no:Let's Encrypt
+www.coinmarketcap.com:COMODO CA Limited
+www.spotify.com:DigiCert Inc
+www.apple.com:DigiCert Inc
+www.zalando.no:DigiCert Inc
+www.startsiden.no:Let's Encrypt
+www.xnxx.com:DigiCert Inc
+www.proff.no:Corporation Service Company
+www.ntd.tv:COMODO CA Limited
+www.msn.com:Microsoft Corporation
+www.gamer.no:Let's Encrypt
+www.telenor.no:Buypass AS-983163327
+www.pinterest.com:DigiCert Inc
+www.quora.com:DigiCert Inc
+www.steampowered.com:DigiCert Inc
+www.gamepedia.com:COMODO CA Limited
+www.stackexchange.com:DigiCert Inc
+www.bbc.com:GlobalSign nv-sa
+www.ikea.com:DigiCert Inc
+www.hbonordic.com:DigiCert Inc
+www.unibet.com:Trustwave Holdings, Inc.
+www.gyazo.com:DigiCert Inc
+www.vgd.no:Let's Encrypt
+www.battle.net:DigiCert Inc
+www.nordea.no:Symantec Corporation
+www.altinn.no:Buypass AS-983163327
+www.yandex.ru:Yandex LLC
+www.vegvesen.no:COMODO CA Limited
+www.ruter.no:DigiCert Inc
+www.instructure.com:COMODO CA Limited
+www.fsweb.no:TERENA
+www.adobe.com:DigiCert Inc
+www.epicgames.com:Amazon
+www.theepochtimes.com:COMODO CA Limited
+www.diskusjon.no:Let's Encrypt
+www.godt.no:DigiCert Inc
+www.sbanken.no:DigiCert Inc
+www.nextoptim.com:COMODO CA Limited
+www.posten.no:Buypass AS-983163327
+www.genius.com:COMODO CA Limited
+www.fbsbx.com:DigiCert Inc
+www.nsb.no:Amazon
+www.portalbank.no:Buypass AS-983163327
+www.sas.no:COMODO CA Limited
+www.hegnar.no:Let's Encrypt
+www.icy-veins.com:Let's Encrypt
+www.udir.no:COMODO CA Limited
+www.gamespot.com:GlobalSign nv-sa
+www.ladbible.com:COMODO CA Limited
+www.aftenbladet.no:Let's Encrypt
+www.theguardian.com:GlobalSign nv-sa
+www.booking.com:DigiCert Inc
+www.txxx.com:COMODO CA Limited
+www.vimeo.com:DigiCert Inc
+www.power.no:DigiCert Inc
+www.norsk-tipping.no:Buypass AS-983163327
+www.p3.no:GlobalSign nv-sa
+www.getadblock.com:Trustwave Holdings, Inc.
+www.amazon.co.uk:DigiCert Inc
+www.minmote.no:DigiCert Inc
+www.crunchyroll.com:GoDaddy.com, Inc.
+www.google.ru:Google Trust Services
+www.kissanime.ru:COMODO CA Limited
+www.tripadvisor.com:DigiCert Inc
+www.roblox.com:GoDaddy.com, Inc.
+www.leagueoflegends.com:DigiCert Inc
+www.clasohlson.com:DigiCert Inc
+www.seher.no:Let's Encrypt
+www.slack.com:DigiCert Inc
+www.skatteetaten.no:DigiCert Inc
+www.dplay.no:GlobalSign nv-sa
+www.op.gg:COMODO CA Limited
+www.futhead.com:COMODO CA Limited
+www.sol.no:COMODO CA Limited
+www.ba.no:GeoTrust Inc.
+www.tu.no:Let's Encrypt
+www.bi.no:Microsoft Corporation
+www.cappelendamm.no:Let's Encrypt
+www.ultimate-guitar.com:COMODO CA Limited
+www.get.no:DigiCert Inc
+www.brreg.no:Buypass AS-983163327
+www.patreon.com:DigiCert Inc
+www.lovdata.no:COMODO CA Limited
+www.prisguiden.no:Let's Encrypt
+www.w3schools.com:DigiCert Inc
+www.mail.ru:DigiCert Inc
+www.myanimelist.net:Amazon
+www.ndla.no:DigiCert Inc
+www.dt.no:GeoTrust Inc.
+www.mozilla.org:DigiCert Inc
+www.dagsavisen.no:Amazon
+www.nordnet.no:DigiCert Inc
+www.worldofwarcraft.com:DigiCert Inc
+www.liverpool.no:COMODO CA Limited
+www.mobafire.com:COMODO CA Limited
+www.pathofexile.com:GoDaddy.com, Inc.
+www.fvn.no:Let's Encrypt
+www.at.no:Let's Encrypt
+www.ign.com:GlobalSign nv-sa
+www.redtube.com:DigiCert Inc
+www.lanekassen.no:Buypass AS-983163327
+www.filmweb.no:Let's Encrypt
+www.digi.no:Let's Encrypt
+www.ok.ru:DigiCert Inc
+www.altibox.no:GoDaddy.com, Inc.
+www.ebay.co.uk:Symantec Corporation
+www.coop.no:Buypass AS-983163327
+www.rumble.com:DigiCert Inc
+www.youporn.com:DigiCert Inc
+www.primevideo.com:Amazon
+www.urbandictionary.com:GlobalSign nv-sa
+www.timeedit.net:Let's Encrypt
+www.ticketmaster.no:GlobalSign nv-sa
+www.uit.no:TERENA
+www.an.no:GeoTrust Inc.
+www.nordlys.no:GeoTrust Inc.
+www.runescape.com:DigiCert Inc
+www.hclips.com:COMODO CA Limited
+www.popads.net:COMODO CA Limited
+www.nfkino.no:Let's Encrypt
+www.one.com:COMODO CA Limited
+www.telia.no:GlobalSign nv-sa
+www.futbin.com:COMODO CA Limited
+www.wish.com:GoDaddy.com, Inc.
+www.warcraftlogs.com:Amazon
+www.mmo-champion.com:COMODO CA Limited
+www.googleusercontent.com:Google Trust Services
+www.samordnaopptak.no:TERENA
+www.skolearena.no:GlobalSign nv-sa
+www.helsenorge.no:Buypass AS-983163327
+www.spv.no:COMODO CA Limited
+www.cnn.com:GlobalSign nv-sa
+www.google.lt:Google Trust Services
+www.nih.gov:GoDaddy.com, Inc.
+www.medium.com:DigiCert Inc
+www.kk.no:Let's Encrypt
+www.trello.com:DigiCert Inc
+www.vinmonopolet.no:COMODO CA Limited
+www.vsco.co:DigiCert Inc
+www.hotels.com:DigiCert Inc
+www.netonnet.no:GlobalSign nv-sa
+www.usn.no:TERENA
+www.nets.eu:Symantec Corporation
+www.iptorrents.com:COMODO CA Limited
+www.webcruiter.com:DigiCert Inc
+www.faceit.com:DigiCert Inc
+www.utdanning.no:TERENA
+www.united.no:DigiCert Inc
+www.spankbang.com:COMODO CA Limited
+www.bbc.co.uk:GlobalSign nv-sa
+www.sportbible.com:COMODO CA Limited
+www.ung.no:Let's Encrypt
+www.visma.com:Entrust, Inc.
+www.uia.no:TERENA
+www.airbnb.no:GlobalSign nv-sa
+www.reallifecam.com:DOMENY.PL sp. z o.o
+www.probuilds.net:COMODO CA Limited
+www.plex.tv:DigiCert Inc
+www.liquipedia.net:Let's Encrypt
+www.wiktionary.org:DigiCert Inc
+www.duckduckgo.com:DigiCert Inc
+www.funnyjunk.com:Let's Encrypt
+www.cnet.com:DigiCert Inc
+www.resett.no:COMODO CA Limited
+www.jula.no:GeoTrust Inc.
+www.regjeringen.no:Buypass AS-983163327
+www.canaldigital.no:Buypass AS-983163327
+www.nytimes.com:COMODO CA Limited
+www.pcgamer.com:Let's Encrypt
+www.hm.com:DigiCert Inc
+www.buzzfeed.com:DigiCert Inc
+www.gjensidige.no:Buypass AS-983163327
+www.synonymordboka.no:COMODO CA Limited
+www.digipost.no:Buypass AS-983163327
+www.upornia.com:COMODO CA Limited
+www.forbes.com:GlobalSign nv-sa
+www.chess.com:COMODO CA Limited
+www.hioa.no:TERENA
+www.wikihow.com:GlobalSign nv-sa
+www.yts.am:COMODO CA Limited
+www.tb.no:GeoTrust Inc.
+www.oslo.kommune.no:Buypass AS-983163327
+www.goodreads.com:Amazon
+www.playstation.com:DigiCert Inc
+www.banknorwegian.no:Symantec Corporation
+www.momondo.no:DigiCert Inc
+www.fiken.no:COMODO CA Limited
+www.nelly.com:DigiCert Inc
+www.evry.com:Buypass AS-983163327
+www.rb.no:GeoTrust Inc.
+www.dailymotion.com:DigiCert Inc
+www.ssb.no:Buypass AS-983163327
+www.exlibrisgroup.com:DreamHost
+www.vice.com:GlobalSign nv-sa
+www.etsy.com:GlobalSign nv-sa
+www.kickstarter.com:GlobalSign nv-sa
+www.hicpm10.com:Let's Encrypt
+www.theverge.com:GlobalSign nv-sa
+www.oracle.com:DigiCert Inc
+www.streamable.com:GlobalSign nv-sa
+www.norskkalender.no:DigiCert Inc
+www.betsson.com:COMODO CA Limited
+www.freak.no:COMODO CA Limited
+www.giphy.com:GlobalSign nv-sa
+www.wikimedia.org:DigiCert Inc
+www.office365.com:Microsoft Corporation
+www.thesaurus.com:DigiCert Inc
+www.myfreecams.com:DigiCert Inc
+www.h-avis.no:GeoTrust Inc.
+www.coinbase.com:DigiCert Inc
+www.solarmoviez.ru:COMODO CA Limited
+www.smp.no:COMODO CA Limited
+www.binance.com:DigiCert Inc
+www.tomshardware.co.uk:DigiCert Inc
+www.siteadvisor.com:McAfee, Inc.
+www.pent.no:Let's Encrypt
+www.itromso.no:COMODO CA Limited
+www.discogs.com:DigiCert Inc
+www.lokus.no:DigiCert Inc
+www.ask.com:DigiCert Inc
+www.uis.no:COMODO CA Limited
+www.sharelatex.com:COMODO CA Limited
+www.vvskupp.no:DigiCert Inc
+www.asos.com:DigiCert Inc
+www.eurosportplayer.com:GoDaddy.com, Inc.
+www.seaofthieves.com:Microsoft Corporation
+www.avinor.no:DigiCert Inc
+www.rottentomatoes.com:COMODO CA Limited
+www.archive.org:GoDaddy.com, Inc.
+www.atlassian.net:DigiCert Inc
+www.zendesk.com:COMODO CA Limited
+www.danskebank.no:GlobalSign nv-sa
+www.sourceforge.net:COMODO CA Limited
+www.180.no:DigiCert Inc
+www.fjellsport.no:Amazon
+www.asus.com:DigiCert Inc
+www.thefreedictionary.com:COMODO CA Limited
+www.streamlabs.com:COMODO CA Limited
+www.motherless.com:COMODO CA Limited
+www.platekompaniet.no:DigiCert Inc
+www.document.no:Let's Encrypt
+www.tradingview.com:COMODO CA Limited
+www.icloud.com:DigiCert Inc
+www.eliteserien.no:Let's Encrypt
+www.budstikka.no:GeoTrust Inc.
+www.mega.nz:COMODO CA Limited
+www.lichess.org:Let's Encrypt
+www.online.no:Buypass AS-983163327
+www.atb.no:GoDaddy.com, Inc.
+www.nexusmods.com:COMODO CA Limited
+www.torrentday.com:COMODO CA Limited
+www.eztv.ag:COMODO CA Limited
+www.issuu.com:DigiCert Inc
+www.adlibris.com:DigiCert Inc
+www.researchgate.net:DigiCert Inc
+www.timeanddate.no:GlobalSign nv-sa
+www.flickr.com:DigiCert Inc
+www.plays.tv:COMODO CA Limited
+www.yourporn.sexy:COMODO CA Limited
+www.telegraph.co.uk:DigiCert Inc
+www.g2a.com:DigiCert Inc
+www.visma.net:Entrust, Inc.
+www.nakenprat.com:COMODO CA Limited
+www.espn.com:Amazon
+www.onlinevideoconverter.com:GeoTrust Inc.
+www.domeneshop.no:DigiCert Inc
+www.wowprogress.com:Let's Encrypt
+www.bodybuilding.com:DigiCert Inc
+www.banggood.com:DigiCert Inc
+www.politiet.no:Buypass AS-983163327
+www.hdzog.com:COMODO CA Limited
+www.businessinsider.com:GlobalSign nv-sa
+www.hiof.no:TERENA
+www.lommelegen.no:Let's Encrypt
+www.kongregate.com:GlobalSign nv-sa
+www.timeanddate.com:GlobalSign nv-sa
+www.tradedoubler.com:COMODO CA Limited
+www.delfi.lv:COMODO CA Limited
+www.junkyard.no:COMODO CA Limited
+www.ea.com:DigiCert Inc
+www.pastebin.com:COMODO CA Limited
+www.google.se:Google Trust Services
+www.exoclick.com:GoDaddy.com, Inc.
+www.webcruiter.no:GoDaddy.com, Inc.
+www.rarbg.to:Let's Encrypt
+www.brazzers.com:DigiCert Inc
+www.travellink.no:DigiCert Inc
+www.sit.no:COMODO CA Limited
+www.google.pl:Google Trust Services
+www.klarna.com:DigiCert Inc
+www.alibaba.com:GlobalSign nv-sa
+www.knowyourmeme.com:COMODO CA Limited
+www.tine.no:DigiCert Inc
+www.volafile.org:Let's Encrypt
+www.lolesports.com:DigiCert Inc
+www.storm.no:DigiCert Inc
+www.rt.com:DigiCert Inc
+www.gsport.no:DigiCert Inc
+www.ppy.sh:DigiCert Inc
+www.gymgrossisten.no:GeoTrust Inc.
+www.jysk.no:GlobalSign nv-sa
+www.ice.no:GoDaddy.com, Inc.
+www.torrentleech.org:COMODO CA Limited
+www.kolonial.no:DigiCert Inc
+www.howtogeek.com:DigiCert Inc
+www.savefrom.net:COMODO CA Limited
+www.bibsys.no:TERENA
+www.postnord.no:DigiCert Inc
+www.mangareader.net:COMODO CA Limited
+www.fotball.no:DigiCert Inc
+www.rbnett.no:COMODO CA Limited
+www.livejournal.com:GoDaddy.com, Inc.
+www.independent.co.uk:GlobalSign nv-sa
+www.sciencedirect.com:DigiCert Inc
+www.mediafire.com:COMODO CA Limited
+www.skyss.no:DigiCert Inc
+www.felleskatalogen.no:Buypass AS-983163327
+www.liveleak.com:GoDaddy.com, Inc.
+www.hearthpwn.com:COMODO CA Limited
+www.superuser.com:DigiCert Inc
+www.wetransfer.com:Amazon
+www.doublepimpssl.com:COMODO CA Limited
+www.sedenne.no:Let's Encrypt
+www.openload.co:COMODO CA Limited
+www.xe.com:DigiCert Inc
+www.raider.io:COMODO CA Limited
+www.never.no:COMODO CA Limited
+www.studienett.no:COMODO CA Limited
+www.realescort.eu:COMODO CA Limited
+www.washingtonpost.com:Entrust, Inc.
+www.lifewire.com:GlobalSign nv-sa
+www.vaf.no:Buypass AS-983163327
+www.whatsapp.com:DigiCert Inc
+www.curseforge.com:COMODO CA Limited
+www.bandcamp.com:GlobalSign nv-sa
+www.noroff.no:DigiCert Inc
+www.gaysir.no:DigiCert Inc
+www.diablofans.com:COMODO CA Limited
+www.caasimada.net:GlobalSign nv-sa
+www.kotaku.com:GlobalSign nv-sa
+www.blogspot.com:Google Trust Services
+www.fextralife.com:COMODO CA Limited
+www.komplettid.com:DigiCert Inc
+www.ta.no:GeoTrust Inc.
+www.kissmanga.com:COMODO CA Limited
+
+www.google.no:RSA 2048
+www.youtube.com:RSA 2048
+www.facebook.com:EC 256
+www.google.com:RSA 2048
+www.reddit.com:RSA 2048
+www.vg.no:RSA 2048
+www.wikipedia.org:EC 256
+www.finn.no:RSA 4096
+www.nrk.no:EC 256
+www.twitch.tv:RSA 2048
+www.dagbladet.no:RSA 2048
+www.live.com:RSA 2048
+www.twitter.com:RSA 2048
+www.netflix.com:RSA 2048
+www.feide.no:RSA 2048
+www.tv2.no:RSA 2048
+www.imdb.com:RSA 2048
+www.imgur.com:RSA 2048
+www.itslearning.com:RSA 2048
+www.pornhub.com:EC 256
+www.instagram.com:EC 256
+www.aftenposten.no:RSA 2048
+www.dnb.no:RSA 2048
+www.yr.no:RSA 2048
+www.wikia.com:RSA 2048
+www.ebay.com:RSA 2048
+www.komplett.no:RSA 2048
+www.nettavisen.no:RSA 2048
+www.amazon.com:RSA 2048
+www.yahoo.com:RSA 2048
+www.vgtv.no:RSA 4096
+www.difi.no:RSA 2048
+www.tek.no:RSA 4096
+www.e24.no:RSA 2048
+www.ntnu.no:RSA 2048
+www.t.co:RSA 2048
+www.office.com:RSA 2048
+www.sparebank1.no:RSA 2048
+www.steamcommunity.com:RSA 2048
+www.dinside.no:RSA 2048
+www.nav.no:RSA 2048
+www.livejasmin.com:RSA 2048
+www.4chan.org:EC 256
+www.stackoverflow.com:RSA 2048
+www.microsoft.com:RSA 2048
+www.github.com:RSA 2048
+www.uio.no:RSA 2048
+www.blackboard.com:RSA 2048
+www.xvideos.com:RSA 2048
+www.9gag.com:RSA 2048
+www.bongacams.com:RSA 2048
+www.fronter.com:EC 256
+www.linkedin.com:RSA 2048
+www.discordapp.com:RSA 2048
+www.vglive.no:RSA 4096
+www.dn.no:RSA 2048
+www.adressa.no:RSA 2048
+www.prisjakt.no:RSA 2048
+www.tumblr.com:RSA 2048
+www.itavisen.no:EC 256
+www.elkjop.no:RSA 2048
+www.snl.no:RSA 2048
+www.vk.com:EC 256
+www.uib.no:RSA 2048
+www.gulesider.no:RSA 2048
+www.abcnyheter.no:RSA 4096
+www.xhamster.com:RSA 2048
+www.messenger.com:EC 256
+www.aliexpress.com:EC 256
+www.wowhead.com:RSA 2048
+www.norwegian.no:RSA 2048
+www.dropbox.com:RSA 2048
+www.blogg.no:RSA 2048
+www.1881.no:RSA 2048
+www.paypal.com:RSA 2048
+www.fbcdn.net:EC 256
+www.bing.com:RSA 2048
+www.hltv.org:EC 256
+www.wordpress.com:RSA 2048
+www.chaturbate.com:EC 256
+www.bt.no:RSA 2048
+www.coinmarketcap.com:EC 256
+www.spotify.com:RSA 2048
+www.apple.com:RSA 2048
+www.zalando.no:RSA 2048
+www.startsiden.no:RSA 4096
+www.xnxx.com:RSA 2048
+www.proff.no:RSA 4096
+www.ntd.tv:RSA 2048
+www.msn.com:RSA 2048
+www.gamer.no:RSA 4096
+www.telenor.no:RSA 2048
+www.pinterest.com:RSA 2048
+www.quora.com:RSA 2048
+www.steampowered.com:RSA 2048
+www.gamepedia.com:EC 256
+www.stackexchange.com:RSA 2048
+www.bbc.com:EC 256
+www.ikea.com:RSA 2048
+www.hbonordic.com:RSA 2048
+www.unibet.com:RSA 2048
+www.gyazo.com:RSA 2048
+www.vgd.no:RSA 2048
+www.battle.net:RSA 2048
+www.nordea.no:EC 256
+www.altinn.no:RSA 2048
+www.yandex.ru:EC 256
+www.vegvesen.no:RSA 2048
+www.ruter.no:RSA 2048
+www.instructure.com:RSA 2048
+www.fsweb.no:RSA 2048
+www.adobe.com:RSA 2048
+www.epicgames.com:RSA 2048
+www.theepochtimes.com:EC 256
+www.diskusjon.no:RSA 4096
+www.godt.no:RSA 2048
+www.sbanken.no:RSA 2048
+www.nextoptim.com:RSA 2048
+www.posten.no:RSA 2048
+www.genius.com:EC 256
+www.fbsbx.com:EC 256
+www.nsb.no:RSA 2048
+www.portalbank.no:RSA 2048
+www.sas.no:RSA 2048
+www.hegnar.no:RSA 2048
+www.icy-veins.com:RSA 2048
+www.udir.no:RSA 2048
+www.gamespot.com:RSA 2048
+www.ladbible.com:EC 256
+www.aftenbladet.no:RSA 2048
+www.theguardian.com:RSA 2048
+www.booking.com:RSA 2048
+www.txxx.com:EC 256
+www.vimeo.com:RSA 2048
+www.power.no:RSA 2048
+www.norsk-tipping.no:RSA 2048
+www.p3.no:RSA 2048
+www.getadblock.com:RSA 2048
+www.amazon.co.uk:RSA 2048
+www.minmote.no:RSA 2048
+www.crunchyroll.com:RSA 2048
+www.google.ru:RSA 2048
+www.kissanime.ru:EC 256
+www.tripadvisor.com:RSA 2048
+www.roblox.com:RSA 2048
+www.leagueoflegends.com:RSA 2048
+www.clasohlson.com:RSA 2048
+www.seher.no:RSA 2048
+www.slack.com:RSA 2048
+www.skatteetaten.no:RSA 2048
+www.dplay.no:RSA 2048
+www.op.gg:RSA 2048
+www.futhead.com:EC 256
+www.sol.no:EC 256
+www.ba.no:RSA 2048
+www.tu.no:RSA 4096
+www.bi.no:RSA 2048
+www.cappelendamm.no:RSA 2048
+www.ultimate-guitar.com:RSA 2048
+www.get.no:RSA 2048
+www.brreg.no:RSA 2048
+www.patreon.com:RSA 2048
+www.lovdata.no:RSA 2048
+www.prisguiden.no:RSA 4096
+www.w3schools.com:RSA 2048
+www.mail.ru:RSA 2048
+www.myanimelist.net:RSA 2048
+www.ndla.no:RSA 4096
+www.dt.no:RSA 2048
+www.mozilla.org:RSA 2048
+www.dagsavisen.no:RSA 2048
+www.nordnet.no:RSA 2048
+www.worldofwarcraft.com:RSA 2048
+www.liverpool.no:EC 256
+www.mobafire.com:EC 256
+www.pathofexile.com:RSA 2048
+www.fvn.no:RSA 2048
+www.at.no:RSA 4096
+www.ign.com:RSA 2048
+www.redtube.com:EC 256
+www.lanekassen.no:RSA 3072
+www.filmweb.no:RSA 4096
+www.digi.no:RSA 4096
+www.ok.ru:RSA 2048
+www.altibox.no:RSA 2048
+www.ebay.co.uk:RSA 2048
+www.coop.no:RSA 2048
+www.rumble.com:RSA 2048
+www.youporn.com:RSA 2048
+www.primevideo.com:RSA 2048
+www.urbandictionary.com:RSA 2048
+www.timeedit.net:RSA 2048
+www.ticketmaster.no:RSA 2048
+www.uit.no:RSA 2048
+www.an.no:RSA 2048
+www.nordlys.no:RSA 2048
+www.runescape.com:RSA 2048
+www.hclips.com:EC 256
+www.popads.net:RSA 2048
+www.nfkino.no:RSA 4096
+www.one.com:RSA 2048
+www.telia.no:RSA 2048
+www.futbin.com:EC 256
+www.wish.com:RSA 4096
+www.warcraftlogs.com:RSA 2048
+www.mmo-champion.com:EC 256
+www.googleusercontent.com:RSA 2048
+www.samordnaopptak.no:RSA 2048
+www.skolearena.no:RSA 2048
+www.helsenorge.no:RSA 2048
+www.spv.no:RSA 2048
+www.cnn.com:RSA 2048
+www.google.lt:RSA 2048
+www.nih.gov:RSA 2048
+www.medium.com:RSA 2048
+www.kk.no:RSA 2048
+www.trello.com:RSA 2048
+www.vinmonopolet.no:RSA 2048
+www.vsco.co:RSA 2048
+www.hotels.com:EC 256
+www.netonnet.no:RSA 2048
+www.usn.no:RSA 2048
+www.nets.eu:RSA 2048
+www.iptorrents.com:EC 256
+www.webcruiter.com:RSA 2048
+www.faceit.com:RSA 2048
+www.utdanning.no:RSA 4096
+www.united.no:RSA 2048
+www.spankbang.com:RSA 2048
+www.bbc.co.uk:EC 256
+www.sportbible.com:EC 256
+www.ung.no:RSA 2048
+www.visma.com:RSA 2048
+www.uia.no:RSA 2048
+www.airbnb.no:RSA 2048
+www.reallifecam.com:RSA 2048
+www.probuilds.net:EC 256
+www.plex.tv:RSA 2048
+www.liquipedia.net:EC 384
+www.wiktionary.org:EC 256
+www.duckduckgo.com:RSA 2048
+www.funnyjunk.com:RSA 4096
+www.cnet.com:RSA 2048
+www.resett.no:EC 256
+www.jula.no:RSA 2048
+www.regjeringen.no:RSA 2048
+www.canaldigital.no:RSA 2048
+www.nytimes.com:RSA 2048
+www.pcgamer.com:RSA 2048
+www.hm.com:EC 256
+www.buzzfeed.com:RSA 2048
+www.gjensidige.no:RSA 2048
+www.synonymordboka.no:RSA 2048
+www.digipost.no:RSA 2048
+www.upornia.com:EC 256
+www.forbes.com:RSA 2048
+www.chess.com:EC 256
+www.hioa.no:RSA 2048
+www.wikihow.com:RSA 2048
+www.yts.am:EC 256
+www.tb.no:RSA 2048
+www.oslo.kommune.no:RSA 2048
+www.goodreads.com:RSA 2048
+www.playstation.com:RSA 2048
+www.banknorwegian.no:RSA 2048
+www.momondo.no:RSA 2048
+www.fiken.no:RSA 2048
+www.nelly.com:RSA 2048
+www.evry.com:RSA 2048
+www.rb.no:RSA 2048
+www.dailymotion.com:RSA 2048
+www.ssb.no:RSA 2048
+www.exlibrisgroup.com:RSA 2048
+www.vice.com:RSA 2048
+www.etsy.com:RSA 2048
+www.kickstarter.com:RSA 2048
+www.hicpm10.com:RSA 4096
+www.theverge.com:RSA 2048
+www.oracle.com:EC 256
+www.streamable.com:RSA 2048
+www.norskkalender.no:RSA 2048
+www.betsson.com:RSA 2048
+www.freak.no:EC 256
+www.giphy.com:RSA 2048
+www.wikimedia.org:EC 256
+www.office365.com:RSA 2048
+www.thesaurus.com:EC 256
+www.myfreecams.com:EC 256
+www.h-avis.no:RSA 2048
+www.coinbase.com:RSA 4096
+www.solarmoviez.ru:EC 256
+www.smp.no:RSA 2048
+www.binance.com:RSA 2048
+www.tomshardware.co.uk:EC 256
+www.siteadvisor.com:RSA 2048
+www.pent.no:RSA 2048
+www.itromso.no:RSA 2048
+www.discogs.com:RSA 2048
+www.lokus.no:RSA 4096
+www.ask.com:EC 256
+www.uis.no:RSA 2048
+www.sharelatex.com:RSA 2048
+www.vvskupp.no:RSA 2048
+www.asos.com:RSA 2048
+www.eurosportplayer.com:RSA 2048
+www.seaofthieves.com:RSA 2048
+www.avinor.no:RSA 2048
+www.rottentomatoes.com:RSA 2048
+www.archive.org:RSA 2048
+www.atlassian.net:RSA 2048
+www.zendesk.com:RSA 4096
+www.danskebank.no:RSA 2048
+www.sourceforge.net:RSA 2048
+www.180.no:RSA 2048
+www.fjellsport.no:RSA 2048
+www.asus.com:EC 256
+www.thefreedictionary.com:RSA 2048
+www.streamlabs.com:EC 256
+www.motherless.com:RSA 2048
+www.platekompaniet.no:RSA 2048
+www.document.no:RSA 2048
+www.tradingview.com:RSA 2048
+www.icloud.com:RSA 2048
+www.eliteserien.no:RSA 2048
+www.budstikka.no:RSA 2048
+www.mega.nz:RSA 2048
+www.lichess.org:RSA 2048
+www.online.no:RSA 2048
+www.atb.no:RSA 2048
+www.nexusmods.com:EC 256
+www.torrentday.com:EC 256
+www.eztv.ag:EC 256
+www.issuu.com:RSA 2048
+www.adlibris.com:EC 256
+www.researchgate.net:RSA 2048
+www.timeanddate.no:RSA 2048
+www.flickr.com:RSA 2048
+www.plays.tv:EC 256
+www.yourporn.sexy:RSA 2048
+www.telegraph.co.uk:EC 256
+www.g2a.com:RSA 2048
+www.visma.net:RSA 2048
+www.nakenprat.com:RSA 2048
+www.espn.com:RSA 2048
+www.onlinevideoconverter.com:RSA 4096
+www.domeneshop.no:RSA 4096
+www.wowprogress.com:RSA 2048
+www.bodybuilding.com:RSA 2048
+www.banggood.com:RSA 2048
+www.politiet.no:RSA 2048
+www.hdzog.com:EC 256
+www.businessinsider.com:RSA 2048
+www.hiof.no:RSA 2048
+www.lommelegen.no:RSA 2048
+www.kongregate.com:RSA 2048
+www.timeanddate.com:RSA 2048
+www.tradedoubler.com:EC 256
+www.delfi.lv:RSA 4096
+www.junkyard.no:RSA 4096
+www.ea.com:RSA 2048
+www.pastebin.com:EC 256
+www.google.se:RSA 2048
+www.exoclick.com:RSA 2048
+www.webcruiter.no:RSA 2048
+www.rarbg.to:RSA 2048
+www.brazzers.com:EC 256
+www.travellink.no:EC 256
+www.sit.no:RSA 2048
+www.google.pl:RSA 2048
+www.klarna.com:RSA 2048
+www.alibaba.com:RSA 2048
+www.knowyourmeme.com:RSA 2048
+www.tine.no:RSA 2048
+www.volafile.org:RSA 2048
+www.lolesports.com:EC 256
+www.storm.no:RSA 2048
+www.rt.com:RSA 2048
+www.gsport.no:RSA 2048
+www.ppy.sh:RSA 2048
+www.gymgrossisten.no:RSA 2048
+www.jysk.no:RSA 2048
+www.ice.no:RSA 2048
+www.torrentleech.org:RSA 2048
+www.kolonial.no:RSA 2048
+www.howtogeek.com:RSA 2048
+www.savefrom.net:RSA 2048
+www.bibsys.no:RSA 2048
+www.postnord.no:RSA 2048
+www.mangareader.net:EC 256
+www.fotball.no:RSA 2048
+www.rbnett.no:RSA 2048
+www.livejournal.com:RSA 2048
+www.independent.co.uk:RSA 2048
+www.sciencedirect.com:RSA 2048
+www.mediafire.com:RSA 2048
+www.skyss.no:RSA 2048
+www.felleskatalogen.no:RSA 2048
+www.liveleak.com:RSA 2048
+www.hearthpwn.com:EC 256
+www.superuser.com:RSA 2048
+www.wetransfer.com:RSA 2048
+www.doublepimpssl.com:EC 256
+www.sedenne.no:RSA 4096
+www.openload.co:EC 256
+www.xe.com:RSA 2048
+www.raider.io:EC 256
+www.never.no:EC 256
+www.studienett.no:EC 256
+www.realescort.eu:EC 256
+www.washingtonpost.com:RSA 2048
+www.lifewire.com:RSA 2048
+www.vaf.no:RSA 2048
+www.whatsapp.com:EC 256
+www.curseforge.com:EC 256
+www.bandcamp.com:RSA 2048
+www.noroff.no:RSA 2048
+www.gaysir.no:RSA 2048
+www.diablofans.com:EC 256
+www.caasimada.net:RSA 2048
+www.kotaku.com:RSA 2048
+www.blogspot.com:RSA 2048
+www.fextralife.com:EC 256
+www.komplettid.com:RSA 2048
+www.ta.no:RSA 2048
+www.kissmanga.com:EC 256
+

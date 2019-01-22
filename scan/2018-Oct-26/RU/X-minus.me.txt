@@ -1,4 +1,0 @@
-list:RU
-rank:257
-website:X-minus.me
-SSLerror

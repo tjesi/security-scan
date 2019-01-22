@@ -1,3 +1,0 @@
-www.huxiu.com
-NO HSTS
-sha1WithRSAEncryption

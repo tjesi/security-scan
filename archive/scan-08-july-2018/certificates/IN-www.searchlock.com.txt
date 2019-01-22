@@ -1,5 +1,0 @@
-www.searchlock.com
-HSTS
-sha256WithRSAEncryption
-GeoTrust Inc.
-RSA 4096

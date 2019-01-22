@@ -1,5 +1,0 @@
-www.tin-nsdl.com
-NO HSTS
-sha256WithRSAEncryption
-Entrust, Inc.
-RSA 4096

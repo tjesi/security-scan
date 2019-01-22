@@ -1,5 +1,0 @@
-www.bsi.ir
-NO HSTS
-sha256WithRSAEncryption
-KEYNECTIS
-RSA 2048

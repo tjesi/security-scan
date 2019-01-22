@@ -1,4 +1,0 @@
-list:RU
-rank:423
-website:Stopgame.ru
-SSLerror

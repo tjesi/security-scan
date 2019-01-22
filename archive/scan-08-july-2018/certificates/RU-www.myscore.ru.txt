@@ -1,3 +1,0 @@
-www.myscore.ru
-NO HSTS
-sha256WithRSAEncryption

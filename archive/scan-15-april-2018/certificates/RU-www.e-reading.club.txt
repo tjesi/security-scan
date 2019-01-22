@@ -1,5 +1,0 @@
-www.e-reading.club
-HSTS
-sha256WithRSAEncryption
-Let's Encrypt
-RSA 2048

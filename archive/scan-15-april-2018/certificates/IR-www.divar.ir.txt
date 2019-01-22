@@ -1,5 +1,0 @@
-www.divar.ir
-HSTS
-sha256WithRSAEncryption
-Acme Co
-RSA 2048

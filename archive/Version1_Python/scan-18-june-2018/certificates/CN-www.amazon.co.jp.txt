@@ -1,0 +1,5 @@
+www.amazon.co.jp
+NO HSTS
+sha256WithRSAEncryption
+DigiCert Inc
+RSA 2048

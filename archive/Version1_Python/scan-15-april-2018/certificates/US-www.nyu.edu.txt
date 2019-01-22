@@ -1,0 +1,5 @@
+www.nyu.edu
+NO HSTS
+sha256WithRSAEncryption
+Internet2
+RSA 2048

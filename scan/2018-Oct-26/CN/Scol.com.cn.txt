@@ -1,4 +1,0 @@
-list:CN
-rank:110
-website:Scol.com.cn
-SSLerror

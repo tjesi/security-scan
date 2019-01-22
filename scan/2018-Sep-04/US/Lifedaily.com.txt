@@ -1,4 +1,0 @@
-list:US
-rank:51
-website:Lifedaily.com
-SSLerror

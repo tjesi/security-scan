@@ -1,0 +1,3 @@
+www.51cto.com
+NO HSTS
+sha1WithRSAEncryption

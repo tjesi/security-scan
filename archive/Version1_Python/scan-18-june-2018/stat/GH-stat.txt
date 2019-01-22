@@ -1,0 +1,47 @@
+SSL errors:72
+REQ errors:45
+Other errors:63
+Total number of errors:180
+
+NO HSTS:217
+HSTS:103
+
+sha256WithRSAEncryption:265
+ecdsa-with-SHA256:54
+sha1WithRSAEncryption:1
+
+DigiCert Inc:95
+COMODO CA Limited:86
+GlobalSign nv-sa:34
+Let's Encrypt:19
+GoDaddy.com, Inc.:14
+Google Trust Services:11
+Amazon:11
+cPanel, Inc.:10
+GeoTrust Inc.:7
+Microsoft Corporation:5
+Symantec Corporation:5
+Entrust, Inc.:3
+ :3
+iptoX GmbH:2
+Gandi:2
+CentOS Web Panel:1
+Plesk:1
+McAfee, Inc.:1
+Internet2:1
+Acme Co:1
+thawte, Inc.:1
+Endurance Intl Group:1
+Something went wrong:1
+Starfield Technologies, Inc.:1
+Default Company Ltd:1
+DreamHost:1
+comapny:1
+Corporation Service Company:1
+
+RSA 2048:242
+EC 256:64
+RSA 4096:13
+RSA 1024:1
+
+

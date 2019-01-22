@@ -1,0 +1,45 @@
+SSL errors:28
+REQ errors:18
+Other errors:44
+Total number of errors:90
+
+NO HSTS:244
+HSTS:166
+
+sha256WithRSAEncryption:364
+ecdsa-with-SHA256:45
+sha1WithRSAEncryption:1
+
+DigiCert Inc:161
+COMODO CA Limited:97
+GlobalSign nv-sa:41
+Let's Encrypt:18
+GoDaddy.com, Inc.:16
+GeoTrust Inc.:14
+Symantec Corporation:13
+Google Trust Services:11
+thawte, Inc.:6
+Microsoft Corporation:5
+Amazon:5
+T-Systems International GmbH:5
+Entrust, Inc.:3
+Yandex LLC:2
+D-Trust GmbH:2
+SwissSign AG:1
+Freistaat Bayern:1
+Globe Hosting, Inc.:1
+McAfee, Inc.:1
+iptoX GmbH:1
+Acme Co:1
+Starfield Technologies, Inc.:1
+ispgateway:1
+DOMENY.PL sp. z o.o:1
+WoSign CA Limited:1
+SomeOrganization:1
+
+RSA 2048:323
+EC 256:60
+RSA 4096:26
+RSA 3072:1
+
+

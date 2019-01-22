@@ -1,0 +1,13 @@
+list:RU
+rank:470
+website:Vesti-nice.ru
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:YES
+X-Content-Type-Options:YES
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+SSLerror

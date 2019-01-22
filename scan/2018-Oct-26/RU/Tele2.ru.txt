@@ -1,4 +1,0 @@
-list:RU
-rank:262
-website:Tele2.ru
-SSLerror

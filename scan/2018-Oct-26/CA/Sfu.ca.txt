@@ -1,4 +1,0 @@
-list:CA
-rank:161
-website:Sfu.ca
-SSLerror

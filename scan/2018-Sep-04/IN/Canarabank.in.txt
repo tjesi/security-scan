@@ -1,4 +1,0 @@
-list:IN
-rank:378
-website:Canarabank.in
-SSLerror

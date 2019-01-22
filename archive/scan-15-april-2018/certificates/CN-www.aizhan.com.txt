@@ -1,5 +1,0 @@
-www.aizhan.com
-NO HSTS
-sha1WithRSAEncryption
-Sinorail Certification Authority
-RSA 1024

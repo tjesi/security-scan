@@ -1,3 +1,0 @@
-www.soccer24.com
-NO HSTS
-sha256WithRSAEncryption

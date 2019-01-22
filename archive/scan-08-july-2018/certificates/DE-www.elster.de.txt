@@ -1,5 +1,0 @@
-www.elster.de
-HSTS
-sha256WithRSAEncryption
-D-Trust GmbH
-RSA 4096

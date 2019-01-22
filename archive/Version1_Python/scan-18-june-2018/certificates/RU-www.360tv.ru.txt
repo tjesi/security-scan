@@ -1,0 +1,5 @@
+www.360tv.ru
+NO HSTS
+sha256WithRSAEncryption
+thawte, Inc.
+RSA 2048

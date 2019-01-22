@@ -1,0 +1,5 @@
+www.wellsfargo.com
+HSTS
+sha256WithRSAEncryption
+Wells Fargo & Company
+RSA 2048

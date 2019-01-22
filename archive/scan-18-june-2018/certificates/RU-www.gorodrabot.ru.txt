@@ -1,5 +1,0 @@
-www.gorodrabot.ru
-HSTS
-sha1WithRSAEncryption
-COMODO CA Limited
-RSA 2048

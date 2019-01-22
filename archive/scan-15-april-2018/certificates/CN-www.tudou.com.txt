@@ -1,5 +1,0 @@
-www.tudou.com
-HSTS
-sha256WithRSAEncryption
-GlobalSign nv-sa
-EC 256
