@@ -6,9 +6,6 @@ Tool for scanning websites and check their security.
 - 22.01.19: All previous data is archived. Ready to start v2 of the project.
 - 19.09.18: Uploaded presentation at NISK 2018 as PDF, with LaTeX-source and pictures
 - 17.09.18: Improved documentation of code and created new issues for further improvment
-- 17.09.18: Uploaded raw data from September 2018 scan
-- 17.09.18: Repaired wrong tag of certificate dates in August 2018 scan
-- 08.08.18: Uploaded raw data from August 2018 scan
 - 08.08.18: Uploaded short paper, data from previous scans and relevant resources
 - 08.08.18: Uploaded all code to scan and obtain raw data
 
