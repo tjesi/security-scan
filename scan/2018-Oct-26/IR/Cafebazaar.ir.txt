@@ -1,0 +1,4 @@
+list:IR
+rank:70
+website:Cafebazaar.ir
+SSLerror

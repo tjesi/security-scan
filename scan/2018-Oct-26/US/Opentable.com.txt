@@ -1,0 +1,25 @@
+list:US
+rank:459
+website:Opentable.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:NO
+X-Content-Type-Options:NO
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:NO
+Issuer:GoDaddy.com, Inc.
+NotBefore:2016-August-2
+NotAfter:2019-August-2
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_RSA_WITH_AES_128_CBC_SHA
+Certificate-Transparency:NO
+OCSPResponse:NO
+SesssionResumpsion:NO

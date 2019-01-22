@@ -1,0 +1,25 @@
+list:IN
+rank:482
+website:Ntnews.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:NO
+X-Content-Type-Options:NO
+Set-Cookie:NO
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:NO
+Issuer:COMODO CA Limited
+NotBefore:2018-March-27
+NotAfter:2019-March-28
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+Certificate-Transparency:NO
+OCSPResponse:YES
+SesssionResumpsion:NO

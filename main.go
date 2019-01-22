@@ -28,6 +28,10 @@ func main() {
 
 	for _, file := range files {
 
+		if strings.Contains(file.Name(), "DS") {
+			continue
+		}
+
 		fmt.Printf("File " + file.Name() + " opened. \n\n")
 		preload := ""
 		sslError := ""

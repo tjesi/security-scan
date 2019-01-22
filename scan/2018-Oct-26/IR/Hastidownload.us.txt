@@ -1,0 +1,25 @@
+list:IR
+rank:240
+website:Hastidownload.us
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:NO
+X-Content-Type-Options:NO
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:NO
+Issuer:Let's Encrypt
+NotBefore:2018-October-25
+NotAfter:2019-January-23
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305
+Certificate-Transparency:NO
+OCSPResponse:YES
+SesssionResumpsion:YES

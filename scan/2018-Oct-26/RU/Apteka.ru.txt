@@ -1,0 +1,4 @@
+list:RU
+rank:316
+website:Apteka.ru
+SSLerror

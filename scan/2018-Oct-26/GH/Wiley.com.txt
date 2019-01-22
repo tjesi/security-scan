@@ -1,0 +1,25 @@
+list:GH
+rank:164
+website:Wiley.com
+Feature-Policy:NO
+Expect-CT:NO
+Content-Security-Policy:NO
+X-Frame-Options:YES
+X-Content-Type-Options:YES
+Set-Cookie:YES
+Access-Control-Allow-Origin:NO
+Feature-Policy:NO
+X-XSS-Protection:NO
+Public-Key-Pins:NO
+HSTS:YES:includeSubDomains
+Issuer:DigiCert Inc
+NotBefore:2018-January-26
+NotAfter:2018-November-21
+PublicKeyAlgorithm:RSA
+BitSize:2048
+SignatureAlgorithm:SHA256-RSA
+Version:VersionTLS12
+Ciphersuite:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+Certificate-Transparency:NO
+OCSPResponse:YES
+SesssionResumpsion:NO
