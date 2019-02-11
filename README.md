@@ -6,7 +6,7 @@ Tool for scanning websites and check their security.
 We will:
 
 - Scan top 1 million websites from Alexa, Majestic, Quantcast and Umbrella
-- Documented the web security by looking at:
+- Document the web security by looking at:
   - HTTPS usage (including re-directs)
   - HSTS usage (including preloaded in browsers)
   - OSCP stapling usage
@@ -18,12 +18,13 @@ We will:
   - Symmetric key encryption algorithms and hash-functions
   - Key sizes and modes
   - Certificate validity
-    - Is the CA trusted in mainstream browsers?
+    - Is the CA trusted by mainstream browsers?
     - Valid length (3, 6, 9, 12, 15 months etc, not 40 years...)
 - Look at trends:
   - Shorter certificate lengths?
-  - Larger keys? ECC vs RSA?
-  - CA popularity?)
+  - CA popularity?
+  - Larger keys?
+  - ECC vs RSA?
 
 ## Version 1:
 
