@@ -3,20 +3,40 @@ Tool for scanning websites and check their security.
 
 ## Version 2:
 
-We will
+We will:
+
+- Scan top 1 million websites from Alexa, Majestic, Quantcast and Umbrella
+- Documented the web security by looking at:
+  - HTTPS usage (including re-directs)
+  - HSTS usage (including preloaded in browsers)
+  - OSCP stapling usage
+  - Certificate Transparency
+  - Other security headers/policies
+  - TLS versions
+  - Session resumption availability
+  - Public key encryption and signing algorithms
+  - Symmetric key encryption algorithms and hash-functions
+  - Key sizes and modes
+  - Certificate validity
+    - Is the CA trusted in mainstream browsers?
+    - Valid length (3, 6, 9, 12, 15 months etc, not 40 years...)
+- Look at trends:
+  - Shorter certificate lengths?
+  - Larger keys? ECC vs RSA?
+  - CA popularity?)
 
 ## Version 1:
 
 This is what we did:
 
-- Scanned top 500 most popular websites in 9 countries of interest
+- Scanned Alexa top 500 most popular websites in 9 countries of interest
 - Documented the web security by looking at:
   - HTTPS usage
   - HSTS usage
   - Encryption and signing algorithms
   - Key sizes
-  - Certificate validity
-- Published short-paper at NISK 2018. [Read it here](/papers/short-paper/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf).
+  - Certificate validity (naive)
+- Published a [short-paper at NISK 2018](/papers/short-paper/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf).
 
 Take a look at the [Python-code and raw data](/archive/Version1_Python).
 
