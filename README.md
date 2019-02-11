@@ -28,6 +28,10 @@ We will:
   - Increased OSCP/CT usage?
   - Larger keys?
   - ECDH/ECDSA vs RSA vs DH/DSA?
+- Compare with other scans like:
+ - [crawler.ninja](https://crawler.ninja)
+ - [SSL Pulse](https://www.ssllabs.com/ssl-pulse/)
+ - [Google Transparency Report](https://transparencyreport.google.com/?hl=en)
 
 ## Version 1:
 
