@@ -1,5 +1,5 @@
 # security-scan
-Tool for scanning websites and check their security.
+Tool for scanning websites and checking their security.
 
 ## Version 2:
 
@@ -7,10 +7,10 @@ We will:
 
 - Scan top 1 million websites from Alexa, Majestic, Quantcast and Umbrella
 - Document the web security by looking at:
-  - HTTPS usage (including re-directs)
+  - HTTPS usage (including redirects)
   - HSTS usage (including preloaded in browsers)
   - OSCP stapling usage
-  - Certificate Transparency
+  - Certificate Transparency (CT)
   - Other security headers/policies
   - TLS versions
   - Session resumption availability
@@ -23,8 +23,11 @@ We will:
 - Look at trends:
   - Shorter certificate lengths?
   - CA popularity?
+  - Increased HTTPS and HSTS usage?
+  - Increased TLS 1.3 usage?
+  - Increased OSCP/CT usage?
   - Larger keys?
-  - ECC vs RSA?
+  - ECDH/ECDSA vs RSA vs DH/DSA?
 
 ## Version 1:
 
