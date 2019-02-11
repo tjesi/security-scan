@@ -37,12 +37,14 @@ This is what we did:
   - Encryption and signing algorithms
   - Key sizes
   - Certificate validity (naive)
-- Published a [short-paper at NISK 2018](/papers/short-paper/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf).
+- Published a [short-paper](/papers/short-paper/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf)
+and [presentation](/presentations/NISK2018/NISK_presentation.pdf) at NISK 2018.
 
 Take a look at the [Python-code and raw data](/archive/Version1_Python).
 
 ## Log
 
+- 11.02.19: Updated project description
 - 23.01.19: Uploaded top 1 million websites from Alexa, Majestic, Quantcast and Umbrella
 - 22.01.19: All previous data is archived. Ready to start v2 of the project.
 - 19.09.18: Uploaded presentation at NISK 2018 as PDF, with LaTeX-source and pictures
